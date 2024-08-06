@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # Vehicle Profiles
 _Source: Necromunda Core Rulebook (2023)_
 
