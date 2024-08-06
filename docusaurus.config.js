@@ -44,7 +44,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/joeseos/docusaurus-joesoes-se/tree/main/',
+            'https://github.com/joeseos/necro-com/tree/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -73,7 +73,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/joeseos/docusaurus-joesoes-se',
+            href: 'https://github.com/joeseos/necro-com',
             label: 'GitHub',
             position: 'right',
           },
