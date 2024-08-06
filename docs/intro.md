@@ -20,6 +20,6 @@ Throughout these page you may see box-outs. Here are some examples that you will
 Necrodamus.pdf and Necro-vox no longer share content. To view the Necrodamus pdf, there is a link under 'Resources' in the footer.
 
 ## UPDATES, FEEDBACK AND CORRECTIONS.
-This website is maintained by servo_scribe.
+This website is maintained by joesoes.
 
-Any feedback, typos or errors can be raised on the Discord or sent to servo_scribe@proton.me.
+Any feedback, typos or errors can be raised on the Discord or sent to jonsson.johan@outlook.com
