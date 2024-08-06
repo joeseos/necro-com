@@ -113,4 +113,4 @@ Each Fighter card is split into several areas:
 5.  Any skills the fighter may have.
 6.  Any equipment (including armour) carried by the fighter.
 
-![](./images/fighter-card-numbered-40334e6ebe314cd294bb8a19fb1e845c.jpg)
+![Locale Dropdown](./img/localeDropdown.png)
