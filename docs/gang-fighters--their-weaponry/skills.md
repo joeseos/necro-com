@@ -15,11 +15,13 @@ A fighter's rules details what skill categories are available to them, as either
 
 Crew are treated a little differently: they can only gain skills from the Driving, Leadership, Shooting and Savant categories.
 
-note
+:::note
 
 ### Universal Skills and Gang Specific Skills[​](#universal-skills-and-gang-specific-skills "Direct link to Universal Skills and Gang Specific Skills")
 
 A number of gangs also their own unique set of skills that they have access to. These are listed in [Gang-Specific Skills](https://necrovox.org/docs/gang-fighters-and-their-weaponry/skills/gang-specific-skills).
+
+:::
 
 The following two tables list all the Skill categories, and have a D6 index to use for random selection.
 
