@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Fighter Profiles
 _Source: Necromunda Core Rulebook (2023)_
 
