@@ -5,8 +5,6 @@ This page has been reworded to comply with copyright. Refer to the Necromunda Co
 
 :::
 
-This page has been reworded to comply with copyright. Refer to the _Necromunda Core Rulebook (2023)_ for its original text.
-
 To play a game of Necromunda, you need models, a battlefield with terrain, and a few essential items listed below.
 
 Markers[​](#markers "Direct link to Markers")
