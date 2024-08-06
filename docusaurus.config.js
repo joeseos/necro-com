@@ -129,7 +129,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `This site is a free community project not associated with Games Workshop. All original content is Copyright © ${new Date().getFullYear()}Games Workshop`,
       },
       prism: {
         theme: prismThemes.github,
