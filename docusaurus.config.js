@@ -71,7 +71,7 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'right'},
+          {to: '/blog', label: 'UPDATES', position: 'right'},
           {
             href: 'https://github.com/joeseos/necro-com',
             label: 'GitHub',
