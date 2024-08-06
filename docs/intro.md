@@ -22,6 +22,12 @@ Through these pages you will see House Rules. These are optional, but are sugges
 
 :::
 
+:::tip [YAQ]
+
+YAQ stands for Yaktribe Answered Question, and provides clarification in certain rules that have been agreed upon by the collective community brainstrust over at yaktribe.games.
+
+:::
+
 ## PDF VERSION
 Necrodamus.pdf and Necro-vox no longer share content. To view the Necrodamus pdf, there is a link under 'Resources' in the footer.
 
