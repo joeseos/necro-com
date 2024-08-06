@@ -18,7 +18,7 @@ Similar to fighters, each vehicle has a ‘characteristics profile’, which det
 |7"                     |5                   |4   |4   |3  |5+ |5+ |4+ |8+ |5+ |9+ |8+ |
 
 
-info
+:::info
 
 Vehicle Profiles appear slightly differently on Necrodamus, for sake of brevity.
 
@@ -30,7 +30,7 @@ Example Vehicle[​](#example-vehicle "Direct link to Example Vehicle")
 |---|-----|----|----|---|---|---|
 |7" |5    |4   |4   |3  |5+ |5+ |
 
-
+:::
 Each of these characteristics represents a different trait or attribute of either the vehicle itself or of its crew, and each characteristic is used differently within the game. In some cases a low number is better, but in other cases, a high number is better:
 
 *   Movement (M), Toughness (Front, Side and Rear) and Hull Points (HP) are all shown as simple numbers, in which case a higher number is better.
