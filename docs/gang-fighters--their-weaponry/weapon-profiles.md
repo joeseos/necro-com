@@ -13,7 +13,7 @@ In the same way as a fighter, each weapon has its own characteristics profile, d
 |Heavy stubber|20"  |40"     |-  |-1 |4  |-1 |1  |4+ |Rapid Fire (2), Unwieldy|R7 |130        |
 
 
-info
+:::info
 
 Weapon Profiles appear slightly differently on Necrodamus, for the sake of brevity.
 
@@ -22,6 +22,7 @@ Weapon Profiles appear slightly differently on Necrodamus, for the sake of brevi
 |-------------|----|----|----|----|---|---|---|---|------------------------|---|----|
 |Heavy stubber|20" |40" |-   |-1  |4  |-1 |1  |4+ |Rapid Fire (2), Unwieldy|R7 |130 |
 
+:::
 
 A weapon’s characteristics are defined as follows:
 
