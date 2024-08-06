@@ -2,46 +2,16 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# INTRODUCTION
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Necromunda is a sprawling, evolving game, and has had a lot of rules published since this version came out in 2017.
 
-## Getting Started
+These rules vary across publications, and some even contradict each other. This is where the community has stepped in, and created compilations to keep the game playable.
 
-Get started by **creating a new site**.
+The goal of this website is to make the rules clear and accessible, so Necromunda can reach a wider audience. It is a compilation of all content from the 2017 release onwards.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+**While originally based on the Necrodamus rules compilation, this has evolved over time. The website is now in the process of being rewritten as to not infringe on GW copyright.**
 
-### What you'll need
+All original content is owned by Games Workshop and published here without permission. When you buy a gang, please buy their House/Book as well! Necromunda is all about the narrative, and each book features fantastic backstories and fluff that elevate the title far beyond the core game mechanics.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Throughout these page you may see box-outs. Here are some examples that you will see that are not from the original rules:
