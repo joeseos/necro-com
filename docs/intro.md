@@ -24,7 +24,7 @@ Through these pages you will see House Rules. These are optional, but are sugges
 
 :::tip YAQ
 
-YAQ stands for Yaktribe Answered Question, and provides clarification in certain rules that have been agreed upon by the collective community brainstrust over at yaktribe.games.
+YAQ stands for Yaktribe Answered Question, and provides clarification in certain rules that have been agreed upon by the collective community brainstrust over at [yaktribe.games](https://yaktribe.games).
 
 :::
 
