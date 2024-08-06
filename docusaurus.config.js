@@ -4,7 +4,7 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -43,8 +43,7 @@ const config = {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/joeseos/necro-com/tree/main/',
+          editUrl: 'https://github.com/joeseos/necro-com/tree/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -71,7 +70,7 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'UPDATES', position: 'right'},
+          { to: '/blog', label: 'UPDATES', position: 'right' },
           {
             href: 'https://github.com/joeseos/necro-com',
             label: 'GitHub',
@@ -128,6 +127,18 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+      algolia: {
+        appId: "YOUR APP ID",
+        apiKey: "YOUR API KEY",
+        indexName: "The Index name for your site",
+        // Optional: 
+        contextualSearch: false,
+        replaceSearchResultPathname: {
+          from: "/docs/", // or as RegExp: /\/docs\//
+          to: "/",
+        },
+      },
     }),
 };
+
 export default config;
