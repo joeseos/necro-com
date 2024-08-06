@@ -136,14 +136,5 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
-// Set darkmode to default
-  export default {
-  themeConfig: {
-    colorMode: {
-      defaultMode: 'dark',
-      disableSwitch: false,
-      respectPrefersColorScheme: false,
-    },
-  },
 };
 export default config;
