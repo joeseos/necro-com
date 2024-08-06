@@ -111,3 +111,13 @@
   color: #ccc;
   cursor: not-allowed;
 }
+
+/* Hide Algolia branding */
+.ais-SearchBox {
+  /* Hide the Algolia branding text */
+}
+
+/* Use specific selectors if needed */
+.ais-SearchBox-logo {
+  display: none !important;
+}
