@@ -129,9 +129,9 @@ const config = {
       },
       //algolia serach
       algolia: {
-        appId: "YOUR APP ID",
-        apiKey: "YOUR API KEY",
-        indexName: "The Index name for your site",
+        appId: "5CDWDWSFEM",
+        apiKey: "f100c107d1196fb6d870c80011f14dd9",
+        indexName: "necrocom-joesoes",
         // Optional: 
         contextualSearch: false,
         replaceSearchResultPathname: {
