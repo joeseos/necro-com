@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# INTRODUCTION
+# Introduction
 
 Necromunda is a sprawling, evolving game, and has had a lot of rules published since this version came out in 2017.
 
