@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Weapon Profiles
 _Source: Necromunda Core Rulebook (2023)_
 
