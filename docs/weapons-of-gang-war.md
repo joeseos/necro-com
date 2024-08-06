@@ -47,7 +47,7 @@ Fighter and Vehicle Cards[​](#fighter-and-vehicle-cards "Direct link to Fighte
 
 Each fighter and vehicle that makes up a gang has a card which lists its characteristics and rules.
 
-:::Yaktribe
+:::tip Yaktribe
 
 Most campaigns around the world leverage [yaktribe.games](https://yaktribe.games/) to arbritrate their campaign. This includes a gang builder, where players keep a digital record of their fighters.
 
