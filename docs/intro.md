@@ -16,6 +16,12 @@ All original content is owned by Games Workshop and published here without permi
 
 Throughout these page you may see box-outs. Here are some examples that you will see that are not from the original rules:
 
+:::danger
+
+Through these pages you will see House Rules. These are optional, but are suggested to provide a more enjoyable and seamless gaming experience.
+
+:::
+
 ## PDF VERSION
 Necrodamus.pdf and Necro-vox no longer share content. To view the Necrodamus pdf, there is a link under 'Resources' in the footer.
 
