@@ -133,4 +133,4 @@ Each Vehicle card is split into several areas:
 7.  Any upgrades the vehicle has been equipped with.
 8.  Any Wargear the vehicle has been equipped with.
 
-![](https://necrovox.org/assets/images/vehicle-card-numbered-85c7700257b3ddf5b6f8a04bd44c69c3.jpg)
+![](./img/vehicle-card-numbered-85c7700257b3ddf5b6f8a04bd44c69c3.jpg)
