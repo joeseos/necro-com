@@ -127,6 +127,7 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+      //algolia serach
       algolia: {
         appId: "YOUR APP ID",
         apiKey: "YOUR API KEY",
