@@ -3,9 +3,11 @@ sidebar_position: 4
 ---
 
 # Skills
-note
+:::note
 
 This page has been reworded to comply with copyright. Refer to the _Necromunda Core Rulebook (2023)_ for its original text.
+
+:::
 
 This page lists all the universal skills for fighters. They belong to nine different categories (also called 'Sets'). More senior fighters such as leaders and champions normally take a skill at gang creation, and more are unlocked with XP. Other fighters such as Bounty Hunters often have skills already included in their profile.
 
