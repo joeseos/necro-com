@@ -127,17 +127,6 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
-      //algolia serach
-      algolia: {
-        appId: "5CDWDWSFEM",
-        apiKey: "f100c107d1196fb6d870c80011f14dd9",
-        indexName: "necrocom-joesoes",
-        // Optional: 
-        contextualSearch: false,
-        replaceSearchResultPathname: {
-          from: "/docs/", // or as RegExp: /\/docs\//
-          to: "/",
-        },
       },
     }),
 };
