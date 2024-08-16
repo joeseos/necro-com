@@ -54,14 +54,14 @@ Determine Territories[​](#determine-territories "Direct link to Determine Terr
 At the start of each campaign cycle, each gang discards all Territories they control (unless stated otherwise) and randomly determines the next Territory they move to by rolling on the relevant table as follows (multiple gangs may have the same Territory and a gang may randomly generate the same Territory as they just discarded). 
 
 
-|Players|Territories Generated|
-|-------|---------------------|
-|3      |9                    |
-|4      |12                   |
-|5      |15                   |
-|6      |18                   |
-|7      |21                   |
-|8      |24                   |
+|D6|Territory|
+|-------|----------------------------|
+|1      |Old Bunker Complex          |
+|2      |Abandoned Battlefield       |
+|3      |Hidden Holdfast             |
+|4      |Abandoned Promethium Station|
+|5      |Crashed Stratoplane         |
+|6      |Fallen Crane                |
 
 
 Territories are generated using the following method:
