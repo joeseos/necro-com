@@ -101,10 +101,28 @@ During an Underhells Campaign, battles are fought on a challenge basis:
 When a challenge is issued, roll 2D6 on the table that follows for the current phase to determine which scenario is used. If the scenario dictates there is an attacker and a defender, the player that issued the shallenge is the attacker. 
 
 ### Incursion Phase Scenario Selection Table[​](#incursion-phase-scenario-selection-table "Direct link to Incursion Phase Scenario Selection")
-|2D6    |Territory                   |
+|2D6    |Result                   |
 |-------|----------------------------|
 |2-3    |The player with the greater number of Exploration points chooses which scenario to play. If both players have the same number of Exploration points, the winner of a roll-off chooses which scenario to play.|
 |2-4    |Play the Defend the Camp scenario.                                                                                                                                                                           |
 |6-7    |Play the Zone Exploration scenario.                                                                                                                                                                          |
 |8-9    |Play the Escape the Zone scenario.                                                                                                                                                                           |
+|10-12  |The player with fewer Exploration points chooses which scenario to play. If both players have the same number of Exploration points, the winner of a roll-off chooses which scenario to play.                |
+
+### Delving Phase Scenario Selection Table[​](#delving-phase-scenario-selection-table "Direct link to Delving Phase Scenario Selection")
+|2D6    |Result                   |
+|-------|----------------------------|
+|2-3    |The player with the greater number of Exploration points chooses which scenario to play. If both players have the same number of Exploration points, the winner of a roll-off chooses which scenario to play.|
+|2-4    |Play the Escape the Zone scenario.                                                                                                                                                                           |
+|6-7    |Play the Lost in the Ruins scenario.                                                                                                                                                                         |
+|8-9    |Play the Trophy Hunt scenario.                                                                                                                                                                               |
+|10-12  |The player with fewer Exploration points chooses which scenario to play. If both players have the same number of Exploration points, the winner of a roll-off chooses which scenario to play.                |
+
+### Survival Phase Scenario Selection Table[​](#survival-phase-scenario-selection-table "Direct link to Survival Phase Scenario Selection")
+|2D6    |Result                   |
+|-------|----------------------------|
+|2-3    |The player with the greater number of Exploration points chooses which scenario to play. If both players have the same number of Exploration points, the winner of a roll-off chooses which scenario to play.|
+|2-4    |Play the Trophy Hunt scenario.                                                                                                                                                                               |
+|6-7    |Play the Underhe! Ns Encounter; scenario.                                                                                                                                                                    |
+|8-9    |Play the Defend the Camp scenario.                                                                                                                                                                           |
 |10-12  |The player with fewer Exploration points chooses which scenario to play. If both players have the same number of Exploration points, the winner of a roll-off chooses which scenario to play.                |
