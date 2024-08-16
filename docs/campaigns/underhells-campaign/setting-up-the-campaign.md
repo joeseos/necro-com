@@ -51,7 +51,7 @@ The Underhetils Campaign has been designed to work with any mix of Matstrain and
 Determine Territories[​](#determine-territories "Direct link to Determine Territories")
 ---------------------------------------------------------------------------------------
 
-The number of Territories used in a Dominion Campaign depends on the number of players committed to the campaign – see the following table:
+At the start of each campaign cycle, each gang discards all Territories they control (unless stated otherwise) and randomly determines the next Territory they move to by rolling on the relevant table as follows (multiple gangs may have the same Territory and a gang may randomly generate the same Territory as they just discarded). 
 
 
 |Players|Territories Generated|
