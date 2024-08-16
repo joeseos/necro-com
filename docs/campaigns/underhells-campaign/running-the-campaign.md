@@ -21,14 +21,17 @@ The Underhells Campaign is divided up into five phases:
 
 Each phase is broken down as follows:
 
-1\. Occupation Phase (3 Cycles)[​](#1-occupation-phase-3-cycles "Direct link to 1. Occupation Phase (3 Cycles)")
+1\. Incursion Phase (Variable)[​](#1-incursion-phase-variable "Direct link to 1. Incursion Phase (Variable)")
 ----------------------------------------------------------------------------------------------------------------
 
-The first part of the Dominion Campaign follows the gangs as they try to increase the number of Territories they control and grow their influence. During this phase, the following rules apply:
+_An ancient battlefield still strewn with the remains of the decade-long conflict to eliminate, and later contain,
+the Hive Secundus Genestealer Cult uprising. The dead zone between the Dust Wall and the Secundan Abyss contains abandoned military camps, gutted war machines and dozens of ruined settlements, including the haunted remains of the dead hives Nostrum and Pulvaus._
 
-*   During the first two campaign cycles of the Occupation phase, Ash Wastes battles take place during the Season of Ash.
-*   During the third campaign cycle of the Occupation phase, Ash Wastes battles take place during the Changing Seasons.
-*   Only unclaimed Territories may be claimed as rewards for gang battles unless there are no unclaimed Territories (see Issuing and Accepting Challenges).
+The first part of the Underhells Campaign follows the gangs as they move through the dead zone within the Dust Wall towards the Secundan Abyss. During this phase, the following rules apply: 
+
+*   The Madness level is set to Ghosts of the Dead (See page 71). 
+*   The Desolation level is set to Limited Trade (see page 71). 
+*   The Darkness level is set to Heavy Skies (see page 71). 
 
 2\. Downtime (1 Cycle)[​](#2-downtime-1-cycle "Direct link to 2. Downtime (1 Cycle)")
 -------------------------------------------------------------------------------------
