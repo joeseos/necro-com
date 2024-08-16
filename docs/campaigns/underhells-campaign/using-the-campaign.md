@@ -6,16 +6,16 @@ The Underhells Campaign is a complete narrative campaign that can be used alongs
 The Arbitrator[​](#the-arbitrator "Direct link to The Arbitrator")
 ------------------------------------------------------------------
 
-The Dominion Campaign requires one of the players to take on the role of an Arbitrator. It is the Arbitrator’s job to keep track of victories, offer guidance for the players and control any random events or elements. In the Dominion Campaign the Arbitrator’s responsibilities include:
+The Underhells Campaign requires one of the players to take on the role of an Arbitrator. It is the Arbitrator's job to keep track of victories, offer guidance for the players and control any random events or elements, In the Underhells Campaign the Arbitrator's responsibilities include:
 
-*   Organising the players and making a list of all of the gangs involved in the campaign.
-*   Keeping the players informed as to the progression of the campaign and keeping track of the control of Territories.
-*   Deciding when each phase of the campaign begins and ends, as well as when the overall campaign starts and finishes.
+*   Organising the players and helping them to create their gangs.
+*   Keeping track of the players’ progress through the exclusion zone around Secundus and keeping them informed as to the progression of the campaign. 
+*   Deciding when each phase of the campaign begins and ends, as well as when the overall campaign begins and ends.
 
 The Gangs[​](#the-gangs "Direct link to The Gangs")
 ---------------------------------------------------
 
-Each player in a Dominion Campaign needs to have a gang. This can be any gang currently available fromany of the Necromunda supplements, or those published in White Dwarf magazine or on the Warhammer Community website.
+There are two opposing forces in an Underhells Campaign: the archeotech hunters who have crossed the Dust Wall seeking the lost riches of Hive Secundus, and the corrupted followers of the Malstrain Patriarch who Oppose their progress every step of the way. While the campaign works well with Secundan incursion gangs facing off against Malstrain Corrupted gangs, the Arbitrator can allow any gang to delve into the ruins, most factions on Necromunda having ample the reasons to send their fighters into the exclusion zone. 
 
 Controlling Territories[​](#controlling-territories "Direct link to Controlling Territories")
 ---------------------------------------------------------------------------------------------
