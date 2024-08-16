@@ -1,5 +1,5 @@
 # Using The Campaign | Necro-vox
-_Source: Necromunda Core Rulebook (2023)_
+_Source: The Book of Desolation (2024)_
 
 _Power in the underhive is more than a gun in a ganger’s hand. It is reputation, it is coin, and the worth of the ground that you can call your own. For gangs that wish for more than bloodshed, that wish not just for infamy, but to rise from the ashes and ruins to something greater; for these, dominion over the soul and iron of the hive is everything. And for that end, they will fight bitter war without mercy._
 
