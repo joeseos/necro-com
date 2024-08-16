@@ -33,6 +33,15 @@ It is impossible for a gang to cross the Dust Wall without employing a Ferryman 
 *   Archeo-hunter Allegiance gangs gain a Ferryman team for the duration of the Incursion and Delving phases (sce page 104-106).
 *   This Allegiance changes how the gang is affected by the Madness and Desolation rules (see page 71).
 
+Benefits Of The Malstrain [​](#benefits-of-the-malstrain "Direct link to Benefits Of The Malstrain")
+---------------------------------------------------------------------------------------------
+
+Maistrain Allegiance gangs have eked out an existence within the Dust Wall and have repurposed much of the machinery left from the fall of Hive Secundus into transports for themselves. The following rules apply to ait Maistrain Allegiance gangs: 
+
+*   Malstrain Allegiance gangs gain an additional 400 credits when being founded - this can only be spent on Crew, vehicles or fighters that come by defautt with Wargear that grants the Mounted condition (such as the Ash Waste Nomads Wy tari Stormcalier), or on Wargear that grants the Mounted condition. Any unspent credits from this allowance are lost after the gang és founded (note that credits may be spent from the gang's initial 1,000 credits on vehicles and Wargear that grants the Mounted condition as well). 
+*   At the start of each battle, before the first roll for Priority, Malstrain Allegiance gangs may apply either a +1 or -1 modifier to all rolls to generate Roaming Horrors for the duration of the battle.
+*   This Allegiance changes how the gang Is affected by the Madness and Desolation rules (see page 71). 
+
 Determine Territories[​](#determine-territories "Direct link to Determine Territories")
 ---------------------------------------------------------------------------------------
 
