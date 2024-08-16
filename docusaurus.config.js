@@ -8,7 +8,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'NECRO-COM',
+  title: 'Necro-Com',
   tagline: 'Want to find something quickly? Use the search.',
   favicon: 'img/favicon.ico',
 
