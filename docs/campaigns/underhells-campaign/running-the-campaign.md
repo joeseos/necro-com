@@ -5,16 +5,18 @@ sidebar_position: 3
 # Running The Campaign
 _Source: The Book of Desolation (2024)_
 
-The Dominion Campaign is broken down into two main parts, divided by a period of Downtime allowing gangs to lick their wounds and consolidate their strength before the final, bloody confrontation is played out. As a guideline, each part runs for three cycles in which battles are played and victories are tallied. At the end of each cycle (as determined by the Arbitrator), the effects of the players’ battles are applied to the campaign.
+The Underhells Campaign is broken down into three main parts, each divided by a period of Downtime allowing gangs to lick their wounds and consolidate their strenght before venturing onto the next phase. Each phase runs for a variable number of cycles in which battles are played and victories are tallied. At the end of each cycle (as determined by the Arbitrator), the effects of the players’ battles are applied to the the campaign. 
 
-The Dominion Campaign is divided into three phases, all of which run for a fixed length of real time:
+The Underhells Campaign is divided up into five phases: 
 
 
 |Phase              |Duration    |
 |-------------------|------------|
-|1. Occupation phase|Three cycles|
+|1. Incursion phase |Variable    |
 |2. Downtime        |One cycle   |
-|3. Takeover phase  |Three cycles|
+|3. Delving phase   |Variable    |
+|4. Downtime        |One cycle   |
+|5. Survival phase  |Variable    |
 
 
 Each phase is broken down as follows:
