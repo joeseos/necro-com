@@ -63,6 +63,25 @@ At the start of each campaign cycle, each gang discards all Territories they con
 |5      |Crashed Stratoplane         |
 |6      |Fallen Crane                |
 
+### Delving Phase Territories[​](#incursion-phase-territories "Direct link to Delving Phase Territories")
+|D6     |Territory                   |
+|-------|----------------------------|
+|1      |Forlorn Waystation          |
+|2      |Gutted Rig                  |
+|3      |Girder Forest               |
+|4      |Hunter's Enclave            |
+|5      |Hab Scrap                   |
+|6      |Fortifiedcamp               |
+
+### Survival Phase Territories[​](#incursion-phase-territories "Direct link to Survival Phase Territories")
+|D6     |Territory                   |
+|-------|----------------------------|
+|1      |Collapsed Dome              |
+|2      |Haunted Hal                 |
+|3      |Thermal Abyss               |
+|4      |Fortified Dome              |
+|5      |Cogitator Nexus             |
+|6      |Xenos Boneyard              |
 
 Territories are generated using the following method:
 
