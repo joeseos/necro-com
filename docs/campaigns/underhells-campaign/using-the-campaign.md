@@ -1,17 +1,7 @@
 # Using The Campaign
 _Source: The Book of Desolation (2024)_
 
-_Power in the underhive is more than a gun in a ganger’s hand. It is reputation, it is coin, and the worth of the ground that you can call your own. For gangs that wish for more than bloodshed, that wish not just for infamy, but to rise from the ashes and ruins to something greater; for these, dominion over the soul and iron of the hive is everything. And for that end, they will fight bitter war without mercy._
-
-The Dominion Campaign is based around gangs fighting battles for the control of Territory. Each battle in the campaign is fought for the control of a Territory, with the winner either gaining a new Territory, or holding onto one that they already have.
-
-Territories are features of the underhive and the ash wastes that are worth something to the gangs, be that a set of old ruins that provide building materials or a safe haven, or a tech bazaar selling all manner of STC technology. There are a fixed number of Territories in a Dominion Campaign, based on the number of players.
-
-Possession of a Territory grants a gang that holds it a benefit – called a Boon. Boons vary from income, to a special gang tactic that can be used in battle, to equipment, or even recruits for their gang. Gangs claim Territories by winning battles.
-
-Additionally, all gangs possess a Settlement Territory which they cannot lose and which can never be staked on the outcome of a battle. This represents the gang’s Hideout.
-
-The campaign ends after a fixed period of time, and at that point gangs are awarded Triumphs based on how many battles they have fought, how much Territory they have, how wealthy they are, their Reputation, and how many enemies they have taken down.
+The Underhells Campaign is a complete narrative campaign that can be used alongside the _Necromunda Core Rulebook_. Unlike other Necromunda campaigns, it follows a group of daring explorers delving into the ancient ruins of Secundus in search of fabled archeotech. Each player takes on the role of a gang crossing the cursed wastes around the fallen hive and then descending into its ruined depths. Along the way they must fight the minions of the Matstrain Patriarch, and hopefully escape with their lives! 
 
 The Arbitrator[​](#the-arbitrator "Direct link to The Arbitrator")
 ------------------------------------------------------------------
