@@ -55,7 +55,7 @@ At the start of each campaign cycle, each gang discards all Territories they con
 
 ### Incursion Phase Territories[​](#incursion-phase-territories "Direct link to Incursion Phase Territories")
 |D6     |Territory                   |
-|-------|----------------------------|
+|:------|:---------------------------|
 |1      |Old Bunker Complex          |
 |2      |Abandoned Battlefield       |
 |3      |Hidden Holdfast             |
@@ -65,7 +65,7 @@ At the start of each campaign cycle, each gang discards all Territories they con
 
 ### Delving Phase Territories[​](#incursion-phase-territories "Direct link to Delving Phase Territories")
 |D6     |Territory                   |
-|-------|----------------------------|
+|:------|:---------------------------|
 |1      |Forlorn Waystation          |
 |2      |Gutted Rig                  |
 |3      |Girder Forest               |
@@ -75,7 +75,7 @@ At the start of each campaign cycle, each gang discards all Territories they con
 
 ### Survival Phase Territories[​](#incursion-phase-territories "Direct link to Survival Phase Territories")
 |D6     |Territory                   |
-|-------|----------------------------|
+|:------|:---------------------------|
 |1      |Collapsed Dome              |
 |2      |Haunted Hal                 |
 |3      |Thermal Abyss               |
@@ -102,7 +102,7 @@ When a challenge is issued, roll 2D6 on the table that follows for the current p
 
 ### Incursion Phase Scenario Selection Table[​](#incursion-phase-scenario-selection-table "Direct link to Incursion Phase Scenario Selection")
 |2D6    |Result                   |
-|-------|----------------------------|
+|:------|:---------------------------|
 |2-3    |The player with the greater number of Exploration points chooses which scenario to play. If both players have the same number of Exploration points, the winner of a roll-off chooses which scenario to play.|
 |2-4    |Play the Defend the Camp scenario.                                                                                                                                                                           |
 |6-7    |Play the Zone Exploration scenario.                                                                                                                                                                          |
@@ -111,7 +111,7 @@ When a challenge is issued, roll 2D6 on the table that follows for the current p
 
 ### Delving Phase Scenario Selection Table[​](#delving-phase-scenario-selection-table "Direct link to Delving Phase Scenario Selection")
 |2D6    |Result                   |
-|-------|----------------------------|
+|:------|:---------------------------|
 |2-3    |The player with the greater number of Exploration points chooses which scenario to play. If both players have the same number of Exploration points, the winner of a roll-off chooses which scenario to play.|
 |2-4    |Play the Escape the Zone scenario.                                                                                                                                                                           |
 |6-7    |Play the Lost in the Ruins scenario.                                                                                                                                                                         |
@@ -120,7 +120,7 @@ When a challenge is issued, roll 2D6 on the table that follows for the current p
 
 ### Survival Phase Scenario Selection Table[​](#survival-phase-scenario-selection-table "Direct link to Survival Phase Scenario Selection")
 |2D6    |Result                   |
-|-------|----------------------------|
+|:------|:---------------------------|
 |2-3    |The player with the greater number of Exploration points chooses which scenario to play. If both players have the same number of Exploration points, the winner of a roll-off chooses which scenario to play.|
 |2-4    |Play the Trophy Hunt scenario.                                                                                                                                                                               |
 |6-7    |Play the Underhe! Ns Encounter; scenario.                                                                                                                                                                    |
