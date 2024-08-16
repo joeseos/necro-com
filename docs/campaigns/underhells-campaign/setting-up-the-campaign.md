@@ -12,13 +12,26 @@ Set Start And End Dates[​](#set-start-and-end-dates "Direct link to Set Start 
 
 The Underhells Campaign is divided into a number of campaign cycles, broken up by two cycles of downtime after each time the explorers move on to a new region. The exact number of campaign cycles is dependent on how long it takes the gangs to explore each region, but will typically run for at least seven to nine cycles. For most groups each cycle is a week, as this is usually how often gaming groups or groups of friends get together to play, however, if players prefer then a cycle can represent a longer or shorter period of real time. The first step in setting up the campaign is for the Arbitrator to determine the start date and the end date. They then share this information with the players. 
 
-Gang Composition[​](#set-start-and-end-dates "Direct link to Gang Composition")
+Gang Composition[​](#gang-composition "Direct link to Gang Composition")
 ---------------------------------------------------------------------------------------------
 
 When founding a gang for an Underhells Campaign, follow the rules presented in the _Necromunda Core Rulebook_:
 
 *   Gangs have 1,000 credits available for their initial gang.
 *   Depending on their Allegiance, gangs will either add a Ferryman team or have additional credits to spend on Crew, vehicles or fighters that come by default with Wargear that grants the Mounted condition (such as the Ash Waste Nomads Wy’tari Stormcaller), or on Wargear that grants the Mounted condition (see page 65).
+
+Choosing Sides[​](#choosing-sides "Direct link to Choosing Sides")
+---------------------------------------------------------------------------------------------
+
+When founding a gang in the Underhells Campaign, each player must decide if they are either working under the sway of the Malstrain Patriarch or raiding the ruins of Hive Secundus in search of archeotech. Each comes with its own benefits as detailed below.
+
+Benefits Of The Archeo-Hunters [​](#benefits-of-the-archeo-hunters "Direct link to Benefits Of The Archeo-Hunters")
+---------------------------------------------------------------------------------------------
+
+It is impossible for a gang to cross the Dust Wall without employing a Ferryman team to guide them. The following rules apply to all Archeo-hunter Allegiance Gangs: 
+
+*   Archeo-hunter Allegiance gangs gain a Ferryman team for the duration of the Incursion and Delving phases (sce page 104-106).
+*   This Allegiance changes how the gang is affected by the Madness and Desolation rules (see page 71).
 
 Determine Territories[​](#determine-territories "Direct link to Determine Territories")
 ---------------------------------------------------------------------------------------
