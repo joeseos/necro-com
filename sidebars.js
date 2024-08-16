@@ -1,7 +1,7 @@
 module.exports = {
   docs: [
     {
-      type: 'category',
+      type: 'docs',
       label: 'Main Category',
       items: [
         {
