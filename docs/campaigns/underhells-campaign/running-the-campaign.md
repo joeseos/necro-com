@@ -101,14 +101,35 @@ Side battles should, as a rule, be unusual and have no effect on the campaign as
 
 :::
 
-3\. Takeover Phase (3 Cycles)[​](#3-takeover-phase-3-cycles "Direct link to 3. Takeover Phase (3 Cycles)")
+3\. Delving Phase (Varible)[​](#3-delving-phase-varible "Direct link to 3. Delving Phase (Varible)")
 ----------------------------------------------------------------------------------------------------------
 
-The second part of the Dominion Campaign sees gangs defend their Territories against their rivals, as well as capture those controlled by other gangs. During this phase the following rules apply:
+_In the centre of the dead zone is the Secundan Abyss, a kilometres-deep pit, tens of kilometres across. The result of the use of gravitic weapons, a permanent gravity distortion persists here, creating an impenetrable storm that transformed the Abyss into a deep sea-like realm of cold, shifting shadows._
 
-*   During the first campaign cycle of the Takeover phase, Ash Wastes battles take place during the Changing Seasons.
-*   During the second and third campaign cycles of the Takeover phase, Ash Wastes battles take place during the Season of Flame.
-*   Only controlled Territories may be fought over and claimed as rewards (see [Issuing and Accepting](https://necrovox.org/docs/campaigns/dominion-campaign/setting-up-the-campaign#issuing-and-accepting-challenges)).
+The second part of the Underhells Campaign follows the gangs as they explore the Secundan Abyss, searching for a way into the depths of the Underhells, During this phase. the following rules apply: 
+
+*   The Madness level is set to Echoes in the Abyss (see page 71). 
+*   The Desolation level is set to Crane Cities (see page 71). 
+*   The Darkness level is set to Toxic Deeps (see page 71). 
+
+4\. Downtime (1 Cycle)[​](#4-Downtime-1-cycle "Direct link to 4. Downtime (1 Cycle)")
+----------------------------------------------------------------------------------------------------------
+
+During Downtime, gangs have a chance to recover and regroup, taking the opportunity to re-equip, fix up wounded fighters and repair and upgrade vehicles as they recuperate in base camps just outside the Underhells of Hive Secundus before venturing inside. This is also an opportunity for those who crave more action to put their gangs through a special side battle (see page 69).
+
+At the end of this cycle of Downtime, any Ferryman teams leave the gangs they were working with, their contracts fulfilled. 
+
+5\. Survival Phase (Varible)[​](#5-Survival-Phase "Direct link to 5. Survival Phase (Varible)")
+----------------------------------------------------------------------------------------------------------
+
+_Beneath the shattered bones of Hive Secundus is a tangled labyrinth of collapsed domes, tunnels and caverns. Known as the Underhells, it is here the Malstrain Patriarch resides, along with its countless minions, and the unimaginable wealth of the hive once known as Necromunda’s second greatest City._
+
+The final part of the Underhells Campaign follows the gangs as they descend into the depths of the Underhells in search of archeotech. During this phase, the following rules apply: 
+
+*   The Madness level is set to Shadow of the Broodmind (see page 71).  
+*   The Desolation level is set to Cut off from the World (see page 71) 
+*   The Darkness level is set to Stygian Depths (see page 71).
+*   Two Data Crystal Stacks are set up at the start of each battle (see page 84) 
 
 Winning[​](#winning "Direct link to Winning")
 ---------------------------------------------
