@@ -53,7 +53,7 @@ Determine Territories[​](#determine-territories "Direct link to Determine Terr
 
 At the start of each campaign cycle, each gang discards all Territories they control (unless stated otherwise) and randomly determines the next Territory they move to by rolling on the relevant table as follows (multiple gangs may have the same Territory and a gang may randomly generate the same Territory as they just discarded). 
 
-###Incurion Phase Territories 
+### Incursion Phase Territories[​](#incursion-phase-territories "Direct link to Incursion Phase Territories")
 |D6     |Territory                   |
 |-------|----------------------------|
 |1      |Old Bunker Complex          |
