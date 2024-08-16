@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Using The Campaign
 _Source: The Book of Desolation (2024)_
 
