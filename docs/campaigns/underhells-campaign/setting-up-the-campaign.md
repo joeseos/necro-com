@@ -15,7 +15,10 @@ The Underhells Campaign is divided into a number of campaign cycles, broken up b
 Gang Composition[​](#set-start-and-end-dates "Direct link to Gang Composition")
 ---------------------------------------------------------------------------------------------
 
-When founding a gang for an Underhells Campaign, follow the rules presented in the _Necromunda Core Rulebook_: 
+When founding a gang for an Underhells Campaign, follow the rules presented in the _Necromunda Core Rulebook_:
+
+*   Gangs have 1,000 credits available for their initial gang.
+*   Depending on their Allegiance, gangs will either add a Ferryman team or have additional credits to spend on Crew, vehicles or fighters that come by default with Wargear that grants the Mounted condition (such as the Ash Waste Nomads Wy’tari Stormcaller), or on Wargear that grants the Mounted condition (see page 65).
 
 Determine Territories[​](#determine-territories "Direct link to Determine Territories")
 ---------------------------------------------------------------------------------------
