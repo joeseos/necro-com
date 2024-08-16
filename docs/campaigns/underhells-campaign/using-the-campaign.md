@@ -17,10 +17,10 @@ The Gangs[​](#the-gangs "Direct link to The Gangs")
 
 There are two opposing forces in an Underhells Campaign: the archeotech hunters who have crossed the Dust Wall seeking the lost riches of Hive Secundus, and the corrupted followers of the Malstrain Patriarch who Oppose their progress every step of the way. While the campaign works well with Secundan incursion gangs facing off against Malstrain Corrupted gangs, the Arbitrator can allow any gang to delve into the ruins, most factions on Necromunda having ample the reasons to send their fighters into the exclusion zone. 
 
-Controlling Territories[​](#controlling-territories "Direct link to Controlling Territories")
+Race To Secundus [​](#controlling-territories "Direct link to Controlling Territories")
 ---------------------------------------------------------------------------------------------
 
-Each Territory is a feature of key interest in the localised area of the underhive and wastes within which the gangs are fighting. A gang gains a Territory by winning a battle and holds onto it by winning future battles fought over its possession.
+Unlike other campalgns that focus on gangs fighting over part of he underhive or a region of the ash wastes, the Underhells Campaign represents rivals fighting their way across the exclusion zone and into the Secundan Abyss and the Underhells beyond. Along the way they must face each other, the foul denizens that lurk beyond the Dust Wall, and atternpt to recover as much valuable archeotech as possible. 
 
 Pre- And Post-Battle Sequence[​](#pre--and-post-battle-sequence "Direct link to Pre- And Post-Battle Sequence")
 ---------------------------------------------------------------------------------------------------------------
