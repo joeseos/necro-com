@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 
 # Running The Campaign
-_Source: The Book Of Desolation (2024)_
+_Source: The Book of Desolation (2024)_
 
 The Dominion Campaign is broken down into two main parts, divided by a period of Downtime allowing gangs to lick their wounds and consolidate their strength before the final, bloody confrontation is played out. As a guideline, each part runs for three cycles in which battles are played and victories are tallied. At the end of each cycle (as determined by the Arbitrator), the effects of the players’ battles are applied to the campaign.
 
