@@ -5,12 +5,12 @@ sidebar_position: 2
 # Setting Up The Campaign
 _Source: The Book of Desolation (2024)_
 
-Setting up a Dominion Campaign is a task that falls to the Arbitrator. To set up the campaign, the Arbitrator must make sure that all the players have founded their gang and been given their starting Territories. This is best done in a single evening or session, where everyone playing in the campaign meets and goes through all the steps of setting up the campaign together, and generally gets excited about the fun ahead.
+Setting up an Underhells Campaign is a task that falls to the Arbitrator. To set up the campaign, the Arbitrator must make sure that all the players have founded their gang. This is best done in a single evening or session where everyone playing in the campaign meets and goes through all the steps of setting up the campaign together and generally gets excited about the fun ahead.
 
 Set Start And End Dates[​](#set-start-and-end-dates "Direct link to Set Start And End Dates")
 ---------------------------------------------------------------------------------------------
 
-The Dominion Campaign is divided into six campaign cycles, separated by a single cycle of Downtime after the first three cycles, meaning the campaign will last a total of seven cycles. For ease, we have set each cycle as a week, as this is usually how often gaming groups or groups of friends get together to play; however, if the players choose, then a cycle can represent a longer or shorter period of real time. The first step in setting up the campaign is for the Arbitrator to determine the start date, the end date and when the Downtime cycle will fall. They then share this information with the players.
+The Underhells Campaign is divided into a number of campaign cycles, broken up by two cycles of downtime after each time the explorers move on to a new region. The exact number of campaign cycles is dependent on how long it takes the gangs to explore each region, but will typically run for at least seven to nine cycles. For most groups each cycle is a week, as this is usually how often gaming groups or groups of friends get together to play, however, if players prefer then a cycle can represent a longer or shorter period of real time. The first step in setting up the campaign is for the Arbitrator to determine the start date and the end date. They then share this information with the players. 
 
 Determine Territories[​](#determine-territories "Direct link to Determine Territories")
 ---------------------------------------------------------------------------------------
