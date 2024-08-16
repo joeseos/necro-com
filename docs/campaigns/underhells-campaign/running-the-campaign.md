@@ -11,7 +11,7 @@ The Underhells Campaign is divided up into five phases:
 
 
 |Phase              |Duration    |
-|-------------------|------------|
+|:------------------|:-----------|
 |1. Incursion phase |Variable    |
 |2. Downtime        |One cycle   |
 |3. Delving phase   |Variable    |
