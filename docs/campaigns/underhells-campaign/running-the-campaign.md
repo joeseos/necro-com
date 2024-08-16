@@ -135,28 +135,15 @@ The final part of the Underhells Campaign follows the gangs as they descend into
 Winning[​](#winning "Direct link to Winning")
 ---------------------------------------------
 
-Victory in the Dominion Campaign can be measured in many ways, although simply surviving the fierce inter- gang warfare is an achievement in itself. At the end of the campaign, the Arbitrator awards Triumphs to the players depending on how their gangs have performed during the campaign.
+Victory in the Underhells Campaign can be measured in many ways, although simply surviving the journey to the depths of the Underhells is an achievement in itself. At the end of the campaign, the Arbitrator awards Triumphs to the players depending on how their gangs have performed during the campaign. 
 
-The Arbitrator should have a look at the Triumphs at the start of the Dominion Campaign as some of them require keeping track of how many enemy models players have taken Out of Action or vehicles they have Wrecked, so these will need to be recorded. Likewise, the Arbitrator might like to make the players aware of the different Triumphs at the beginning of the campaign so that each player can decide if there is one or more they wish to try to achieve. Below is a list of the Dominion Campaign Triumphs:
+The Arbitrator should have a look at the Triumphs at the start of the Underhells Campaign as some of them require keeping track of how many Malstrain Genestealers each gang has slain and total Exploration points earned, so these will need to be recorded. Likewise, the Arbitrator might like to make the players aware of the different Tnumphs at the beginning of the campaign so that each player can decide if there is one or more they wish to try to achieve. Below is a list of the Underhelis Campaign Triumphs: 
 
-
-
-* Triumph: Dominator
-  * Criteria: Most Territories at the end of the campaign.
-* Triumph: Slaughterer
-  * Criteria: Most enemy fighters taken Out of Action and vehicles Wrecked across the whole campaign.
-* Triumph: Creditor
-  * Criteria: Largest Wealth at the end of the campaign.
-* Triumph: Warmonger
-  * Criteria: Most battles fought across the whole campaign.
-* Triumph: Powerbroker
-  * Criteria: Highest Reputation at the end of the campaign.
-
-
-info
-
-### Side Battles[​](#side-battles "Direct link to Side Battles")
-
-Side battles are special battles fought during Downtime. While most players will be happy with taking a break for a week and getting ready for the Takeover phase, there may be a few who can’t go a week without their fix of gang warfare. To satisfy this need, an Arbitrator can run one or more side battles during Downtime. Side battles are fought after the effects of Downtime are applied.
-
-Side battles should, as a rule, be unusual and have no effect on the campaign as a whole. They are a great opportunity for the Arbitrator to design a custom scenario, to use the [Arbitrator tools](https://necrovox.org/docs/category/arbitrator-tools), or to play some of the narrative scenarios. Models can earn Experience and suffer Lasting Injuries or Lasting Damage from a side battle, but should not gain or earn income, or gain credits or Reputation as a reward for a side battle. Instead, the Arbitrator should create a special reward for the victor or victors of a side battle, such as an unpredictable piece of archeotech, a unique chem, or a custom gang tactic.
+|Triumph                    |Criteria    |
+|:--------------------------|:-----------|
+|Explorator                 |The player's gang with the most Exploration points earned at the end of the campaign.|
+|Slayer of the Malstrain    |The player's gang which killed the most Malstrain Genestealers during the campaign.  |
+|Lord of Secundus           |The player's gang with the highest Reputation at the end of the campaign.            |
+|Warmonger                  |The player's gang who fought the most battles across the campaign.                   |
+|Champion of the Malstrain  |The player's gang who won the the most scenarios for the Malstrain.                  |
+|Conqueror of the Underhells|The player's gang who won the the most scenarios for the Archeo-hunters.             |
