@@ -93,7 +93,14 @@ If any gang contains any Juves or Prospects with three or more Advancements, the
 
 All gangs gain 250 credits to spend on new equipment from their Gang Equipment List or to recruit new fighters, vehicles and/or Hangers-on. These credits must be spent now and cannot be added to the gang’s Stash. Gangs may supplement these credits with extra credits from their Stash. These purchases are unaffected by the Desolation level. 
 
+:::info Side Battles
 
+Side battles are special battles fought during Downtime. While most players. will be happy with taking a break fora week and getting ready for the next
+phase, there may be a few who can't go a week without their fix of gang warfare. To satisfy this need, an Arbitrator can run one or more side battles during Downtime, Side battles are fought after the effects of Downtime are applied. 
+
+Side battles should, as a rule, be unusual and have no effect on the campaign as a whole. They are a great opportunity for the Arbitrator to design a custom scenario, to use the Arbitrator tools from the _Necromiunda Core Rulebook_, or to i play some of the narrative scenarios. Models can earn Experience and suffer Lasting Injuries or Lasting Damage from a side battle, but should not gain or earn income, or gain credits or Reputation as a reward for a side battle. Instead, the Arbitrator should create a special reward for the victor or victors of a side battle, such as an unpredictable piece of archeotech, a unique chem, or a custom gang tactic. 
+
+:::
 
 3\. Takeover Phase (3 Cycles)[​](#3-takeover-phase-3-cycles "Direct link to 3. Takeover Phase (3 Cycles)")
 ----------------------------------------------------------------------------------------------------------
