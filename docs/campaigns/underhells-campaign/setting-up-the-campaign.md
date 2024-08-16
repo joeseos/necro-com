@@ -12,6 +12,11 @@ Set Start And End Dates[​](#set-start-and-end-dates "Direct link to Set Start 
 
 The Underhells Campaign is divided into a number of campaign cycles, broken up by two cycles of downtime after each time the explorers move on to a new region. The exact number of campaign cycles is dependent on how long it takes the gangs to explore each region, but will typically run for at least seven to nine cycles. For most groups each cycle is a week, as this is usually how often gaming groups or groups of friends get together to play, however, if players prefer then a cycle can represent a longer or shorter period of real time. The first step in setting up the campaign is for the Arbitrator to determine the start date and the end date. They then share this information with the players. 
 
+Gang Composition[​](#set-start-and-end-dates "Direct link to Gang Composition")
+---------------------------------------------------------------------------------------------
+
+When founding a gang for an Underhells Campaign, follow the rules presented in the _Necromunda Core Rulebook_: 
+
 Determine Territories[​](#determine-territories "Direct link to Determine Territories")
 ---------------------------------------------------------------------------------------
 
