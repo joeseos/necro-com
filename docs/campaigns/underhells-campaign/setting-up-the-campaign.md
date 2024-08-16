@@ -42,6 +42,12 @@ Maistrain Allegiance gangs have eked out an existence within the Dust Wall and h
 *   At the start of each battle, before the first roll for Priority, Malstrain Allegiance gangs may apply either a +1 or -1 modifier to all rolls to generate Roaming Horrors for the duration of the battle.
 *   This Allegiance changes how the gang Is affected by the Madness and Desolation rules (see page 71). 
 
+:::info Balancing The Malstrain And Archeo-Hunters 
+
+The Underhetils Campaign has been designed to work with any mix of Matstrain and Archeo-hunter gangs: it is also'just as possible to find the agents of the Malstrain fighting amongst themselves to increase their personal power 3s it is for the teams of Archeo-hunters to squabble over the sécrets they uncover, However, as a guideline, an Underhells Campaign should inctude at least one gang aligned with the Archeo-hunters. Other alternatives include all gangs but one being aligned with the Archeo-hunters - representing a lone gang trying to wrest the riches of Secundus- from the Underhells.
+
+:::
+
 Determine Territories[​](#determine-territories "Direct link to Determine Territories")
 ---------------------------------------------------------------------------------------
 
