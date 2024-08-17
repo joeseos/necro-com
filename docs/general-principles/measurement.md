@@ -16,7 +16,7 @@ Distances between models and any other battlefield objects (terrain features, ob
 
 When measuring to or from a Prone fighter, assume that their base occupies the same space as it would if they were Standing, as shown in the diagram below:
 
-![](https://necrovox.org/assets/images/measurement-3d6d61f0f8ea776042468365981395e3.jpg)
+![](./img/measurement-3d6d61f0f8ea776042468365981395e3.jpg)
 
 Measurement & Solid Terrain Features[​](#measurement--solid-terrain-features "Direct link to Measurement & Solid Terrain Features")
 -----------------------------------------------------------------------------------------------------------------------------------
