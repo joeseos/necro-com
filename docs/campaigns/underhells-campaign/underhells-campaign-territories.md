@@ -3,7 +3,7 @@ sidebar_position: 6
 ---
 
 # List of Underhells Campaign Territories
-_Source: Necromunda Core Rulebook (2023)_
+_Source: The Book of Desolation (2024)_
 
 Settlement[​](#settlement "Direct link to Settlement")
 ------------------------------------------------------
