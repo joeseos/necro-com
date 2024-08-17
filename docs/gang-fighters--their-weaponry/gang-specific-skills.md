@@ -1,5 +1,5 @@
 ---
-slug: /skills
+slug: /skills/gang-specific-skills
 ---
 
 # Gang-Specific Skills
