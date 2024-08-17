@@ -36,7 +36,7 @@ Territories are also keyed to different phases (e., regions) and so depending on
 Pre- And Post-Battle Sequence[​](#pre--and-post-battle-sequence "Direct link to Pre- And Post-Battle Sequence")
 ---------------------------------------------------------------------------------------------------------------
 
-The Underhells Campaign uses al! of the standard rules for the pre- and post-battle sequences presented in the _Necromunda Core Rulebook_ including the gaining and spending of XP with the following exceptions:  
+The Underhells Campaign uses all of the standard rules for the pre- and post-battle sequences presented in the _Necromunda Core Rulebook_ including the gaining and spending of XP with the following exceptions:  
 
 *   No Territory is nominated as the Stake for battles.
 *   The Assign/Reassign Te rritory step of the post-battle sequence Is skipped.  
