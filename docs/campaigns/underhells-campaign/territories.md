@@ -3,7 +3,7 @@ sidebar_position: 5
 ---
 
 # Territories
-_Source: Necromunda Core Rulebook (2023)_
+_Source: The Book of Desolation (2024)_
 
 All Territories in a Dominion Campaign are unique, and the gangs that hold them will benefit from them in many ways. As a result, competition for certain Territories can become very intense as a campaign progresses. This section gives an overview of what each Territory represents and details the bonuses the Territory grants to the gang that holds it.
 
