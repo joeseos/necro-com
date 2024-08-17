@@ -38,4 +38,27 @@ Desolation[​](#desolation "Direct link to Desolation")
 ### Limited Trade[​](#limited-trade "Direct link to Limited Trade")
 
 *   Archeo-hunter affiliated gangs cannot access their Gang Equipment Lists or add additional models after creation and all items in the Trading Post increase their Rare and Illegal ratings by 2.
-*   Malstrain affiliated gangs cannot access their Gang Equipment Lists or add additional models after creation, and all items in the Trading Post increase their Rare and Illegal ratings by 6 with Common items gaining a Rare (12) rating. 
+*   Malstrain affiliated gangs cannot access their Gang Equipment Lists or add additional models after creation, and all items in the Trading Post increase their Rare and Illegal ratings by 6 with Common items gaining a Rare (12) rating.
+
+### Crane Cities[​](#crane-cities "Direct link to Crane Cities")
+
+*   All gangs cannot access their Gang Equipment Lists or add additional models after creation and all items In the Trading Post increase their Rare and lilegal ratings by 4, with Common items gaining a Rare (10) rating.
+
+### Cut Of From The World[​](#cut-of-from-the-world "Direct link to Cut Of From The World")
+
+*   Archeo-hunter affiliated gangs cannot access their Gang Equipment Lists or add additional models after creation and all items in the Trading Post increase their Rare and Illegal ratings by 6, with Common items gaining a Rare (12) rating.
+*   Malstrain affiliated gangs cannot access their Gang Equipment Lists or add additional models after creation and all items in the Trading Post increase their Rare and Illegal ratings by 2.
+
+Darkness[​](#darkness "Direct link to Darkness")
+---------------------------------------------------------------------------------------------
+### Heavy Skies[​](#heavy-skies "Direct link to Heavy Skies")
+
+*   The Visibility (X") rule is in effect for all battles, and the maximum value of X is 18.
+
+### Toxic Deeps[​](#toxic-deeps "Direct link to Toxix Deeps")
+
+*   The Visibility (X") rule is in effect for all battles, and the maximum value of X is 12. 
+
+### Stygian Depths[​](#toxic-deeps "Direct link to Toxix Deeps")
+
+*   The Visibility (X") rule is in effect for all battles, and the maximum value of X is 9.
