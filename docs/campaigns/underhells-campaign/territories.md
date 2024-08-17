@@ -5,9 +5,9 @@ sidebar_position: 5
 # Territories
 _Source: The Book of Desolation (2024)_
 
-All Territories in a Dominion Campaign are unique, and the gangs that hold them will benefit from them in many ways. As a result, competition for certain Territories can become very intense as a campaign progresses. This section gives an overview of what each Territory represents and details the bonuses the Territory grants to the gang that holds it.
+During an Underhells Campaign, gangs are making the long journey from the Dust Wall into the depths of the Secundan Abyss untill finally making it into the claustrophobic ruins of the Underhells of Hive Secundus. This is a long and perilous journey, represented by the various Territories they hold as they move towards the campaign's conclusion.
 
-All gangs possess a Settlement Territory they cannot lose and which can never be staked on the outcome of a battle. This represents the gang’s hideout.
+Each Territory grants the holder a Boon, which is collected during the Collect Income step of the post-battle sequence. 
 
 Territory Boons[​](#territory-boons "Direct link to Territory Boons")
 ---------------------------------------------------------------------
