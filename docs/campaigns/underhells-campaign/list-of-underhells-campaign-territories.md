@@ -1,3 +1,7 @@
+---
+sidebar_position: 6
+---
+
 # List of Dominion Campaign Territories
 _Source: Necromunda Core Rulebook (2023)_
 
