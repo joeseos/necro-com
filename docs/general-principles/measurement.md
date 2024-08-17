@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
----/
+---
 
 # Measurement
 _Source: Necromunda Core Rulebook (2023)_
