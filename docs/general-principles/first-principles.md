@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # First Principles
 _Source: Necromunda Core Rulebook (2023)_
 
