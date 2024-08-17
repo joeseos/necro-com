@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# List of Dominion Campaign Territories
+# List of Underhells Campaign Territories
 _Source: Necromunda Core Rulebook (2023)_
 
 Settlement[​](#settlement "Direct link to Settlement")
