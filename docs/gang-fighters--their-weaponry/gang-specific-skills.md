@@ -1,5 +1,5 @@
 ---
-slug: /skills/gang-specific-skills/
+sidebar_position: 4,5
 ---
 
 # Gang-Specific Skills
