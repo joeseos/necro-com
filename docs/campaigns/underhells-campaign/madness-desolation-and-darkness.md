@@ -14,4 +14,15 @@ Madness[​](#madness "Direct link to Madness")
 ---------------------------------------------------------------------------------------------
 ### Ghost of the Dead[​](#ghost-of-the-dead "Direct link to Ghost of the Dead")
 
+*   Archeo-hunter affiliated fighters who fail to rally after gaining the Broken condition must pass a Willpower check or gain the Insane condition.
+*   Malstrain affiliated fighters apply a -1 modifier to all Nerve tests.
 
+### Echoes in the Abyss[​](#echoes-in-the-abyss "Direct link to Echoes in the Abyss")
+
+*   Archeo-hunter affiliated fighters who fail to rally after gaining the Broken condition gain the Insane condition.
+*   Malstrain affiliated fighters are unaffected.
+
+### Shadow Of The Broodmind[​](#shadow-of-the-broodminf "Direct link to Shadow Of The Broodmind")
+
+*   Archeo-hunter affiliated fighters who would gain the Broken condition gain the Insane condition instead.
+*   Malstrain affiliated fighters apply a +1 modifier to all Nerve tests.
