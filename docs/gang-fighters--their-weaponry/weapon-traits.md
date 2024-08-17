@@ -1,3 +1,7 @@
+---
+sidebar_position: 5
+---
+
 # Weapon Traits
 _Source: Necromunda Core Rulebook (2023)_
 
