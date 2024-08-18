@@ -48,3 +48,7 @@ _The hunters have invoked the fury of the Malstrain Patriarch and must act quick
 |41-56  |Malstrain Genestealer                |
 |61-66  |Malstrain Genestealer Prime          |
 
+Placing Roaming Horrors[​](#placing-roaming-horrors "Direct link to Placing Roaming Horrors")
+---------------------------------------------------------------------------------------------
+Each scenario will include a number of Spawn Points. At the start of each round (unless noted by the scenario} Horrors will begin to appear, their type determined by the result on the tables on page 82. Roll randomly for the Horrors appearing and where they are placed. Once placed, Horrors will then follow their Nature as detailed below.
+
