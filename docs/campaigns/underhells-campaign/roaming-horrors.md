@@ -52,3 +52,14 @@ Placing Roaming Horrors[​](#placing-roaming-horrors "Direct link to Placing Ro
 ---------------------------------------------------------------------------------------------
 Each scenario will include a number of Spawn Points. At the start of each round (unless noted by the scenario} Horrors will begin to appear, their type determined by the result on the tables on page 82. Roll randomly for the Horrors appearing and where they are placed. Once placed, Horrors will then follow their Nature as detailed below.
 
+### Activating Roamin Horrors[​](#activating-roaming-horrors "Direct link to Activating Roaming Horrors")
+
+Each time a player cornpletes an activation with one of their fighters, a Horror will activate before their opponent(s) activate a fighter. Horrors are controlled by the player who just con1pleted their activation, though they n1ust follow tl1eir Nature. Each Horror may only activate once in each round.
+
+### Horror Natures[​](#horror-natures "Direct link to Horror Natures")
+
+The nature of the Horror determines how it will act. Unless otherwise noted, Horrors always move toward the nearest non-Roaming Horror fighter.
+
+*Cautious (Brood Scum):* The Horror will move to within weapon range and attack if possible, sticking to cover. They will not expose themselves unless they can take a shot. If they are already in cover with a potential target, they will aim and shoot. If engaged, they will fight.
+
+*Aggressive (Malstrain Genestealers and Tyramites):* The Horror will move so as to get within charge range or charge when possible. lf engaged, they will fight. 
