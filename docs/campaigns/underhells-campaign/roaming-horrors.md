@@ -91,7 +91,7 @@ Data crystal stacks are found throughout the Underhells of Hive Secundus. Ancien
 
 During battles taking place in the Underhells, each player deploys a Data Crystal Stack outside of their deployment zone before setting up their starting crew. In addition to following the standard rules for terrain from the _Necromunda Core Rulebook_, such as cover and blocking line of sight, Data Crystal Stacks have a number of unique features as described below:
 
-### Fragile Structures[​](#Fragile Structures "Direct link to Fragile Structures")
+### Fragile Structures[​](#fragile-structures "Direct link to Fragile Structures")
 
 Although capable of holding a wealth of information, the crystalline nature of data crystals makes them susceptible to thermal damage. If a Data Crystal Stack is hit by a weapon with the Blaze trait, roll a D6 and consult the following table:
 
