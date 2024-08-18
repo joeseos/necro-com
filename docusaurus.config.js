@@ -33,7 +33,6 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-
   presets: [
     [
       'classic',
@@ -47,6 +46,7 @@ const config = {
         },
         theme: {
           customCss: './src/css/custom.css',
+          showLastUpdateTime: true,
         },
       }),
     ],
