@@ -45,7 +45,7 @@ const config = {
           editUrl: 'https://github.com/joeseos/necro-com/tree/main/',
           // Enable last update time and author display
           showLastUpdateTime: true,
-          showLastUpdateAuthor: true,
+          showLastUpdateAuthor: false,
         },
         theme: {
           customCss: './src/css/custom.css',
