@@ -100,3 +100,29 @@ Although capable of holding a wealth of information, the crystalline nature of d
 |1      |**"She's Gonna Blow!":** The data crystals contained within the stack destabilise, leading to an explosive chain reaction! All models within D3+3" are automatically hit by a S5, D1, AP -1 attack and all fighters hit change their status to Prone and Pinned. No more Data Crystals may be harvested from this Data Crystal Stack.              |
 |2-3    |**Limited Explosion:** A couple of the data crystals within the stack destabilise and explode, however the majority of the data crystal stack remains intact. All fighters within 3" are automatically hit by a S3, D1, AP - attack and all fighters hit change their status to Prone and Pinned. Any future attempts to perform the Harvest Data Crystal (Basic) action suffer a -1 modifier to the Intelligence test.                         |
 |4-6    |**Lucky Escape:** Although several of the data crystals start to glow from the heat, they remain stable. |
+
+### Harvesting Data Crystal Stacks[​](#harvesting-data-crystal-stacks "Direct link to Harvesting Data Crystal Stacks")
+
+Any fighter within 1" of a Data Crystal Stack can perforn, the Harvest Data Crystal (Basic) action:
+
+**Harvest Data Crystal (Basic):** The fighter makes an Intelligence test, if passed they gain a Data Crystal. If the test is failed, they have instead roused the Malstrain - add 1 to the roll to generate Roaming Horrors at the start of the next round.
+
+### Carrying Data Crystals[​](#Carrying-data-crystals "Direct link to Carrying Data Crystals")
+
+Each fighter may only carry one Data Crystal at a time. If a fighter is taken Out of Action whilst holding a Data crystal, their controlling player places a marker on the battlefield in base contact with the fighter before removing them from the battlefield. 
+
+Any fighter who ends their activation in base contact with a Data Crystal may pick it up, as long as they are not already carrying a Data Crystal.
+
+When the battle ends, any Data Crystals that were held by a fighter still on the battlefield or a fighter that fled are added to the gang's Stash.
+
+### Using Data Crystals[​](#Using-data-crystals "Direct link to Using Data Crystals")
+
+During the Receive Rewards step of the post-battle sequence, each player may either sell any Data Crystals in their Stash for D3x10 credits or attempt to unlock them by rolling on the table below:
+
+|D6     |Result                                                                               |
+|:------|:------------------------------------------------------------------------------------|
+|1      |A fighter of your choice earns D3 XP.                                                |
+|2-3    |A fighter of your choice gains a random skill from one of their Primary skill sets.  |
+|4-5    |A fighter of your choice gains a random skill from one of their Secondary skill sets.|
+|6      |A fighter of your choice gains a random skill from any skill set.                    |
+
