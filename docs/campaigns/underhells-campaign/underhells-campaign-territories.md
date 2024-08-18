@@ -8,19 +8,15 @@ _Source: The Book of Desolation (2024)_
 Fallen Crane - Dead Zone[​](#fallen-crane-dead-zone "Direct link to Fallen Crane - Dead Zone")
 ------------------------------------------------------
 
-**Ace of Diamonds**
+_The Secundan Abyss is ringed with huge cranes to allow monitoring of the conditions below. During the centuries following the destruction of Hive Secundus, many of these behemoths have fallen either due to sabotage, neglect or just bad luck. They now act as a refuge for many of the dispossessed inhabitants of the Dead Zone with nowhere else to go._
 
-_Settlements dot the underhive. Most are scrapshanties, peopled by the brave, the foolish and the desperate. Some are even willing to risk the danger of the wastes to build a life for themselves._
-
-#### Territory Boon[​](#territory-boon "Direct link to Territory Boon")
+#### Territory Boons[​](#territory-boon "Direct link to Territory Boons")
 
 This Territory grants the following Boons:
 
-**Income:** The gang earns D6x10 credits from this Territory when collecting income.
+**Income:** The gang earns 2D6x10 credits from this Territory when collecting income.
 
-**Reputation:** Whilst it controls this Territory, the gang adds +1 to its Reputation.
-
-**Recruit:** The gang may choose to roll two D6 after every battle. On a roll of 6 on either dice, the gang may recruit a single Juve from their House List for free. If both dice come up as 6, then the gang may recruit a Ganger from their House List for free.
+**Recruit:** While a gang oontrols this Territory, during step 6 of the pre-battle sequence, they may add D3 Hive scum to their starting gang for free for the duration of the battle.
 
 Old Ruins[​](#old-ruins "Direct link to Old Ruins")
 ---------------------------------------------------
