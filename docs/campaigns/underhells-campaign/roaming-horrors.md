@@ -16,6 +16,14 @@ In a scenario that uses Roan1ing Horrors, the player with Priority rolls on one 
 
 _The hunters have drawn the notice of the Malstrain Patriarch and it is searching the darkness for them._
 
+|D66    |Adversaries                          |
+|:------|:------------------------------------|
+|11-36  |D3 Malstrain Tyramites               |
+|41-46  |03 Brood Scum                        |
+|51-56  |03 Brood Scum and 1 Brood Scum Leader|
+|61-65  |Malstrain Genestealer                |
+|66     |Malstrain Genestealer Prime          |
+
 At the start of the following cycle, all gangs discard their current Territory and are assigned a new random Territory. Which Territories are available is determined by the phase. In the Incursion phase gangs have access to Dead Zone territories, in the Delving phase they have access to Secundan Abyss territories, and finally in the Survival phase they have access to Underhells territories.
 
 Once again, they gain the benefits from this Territory just for the current campaign cycle, before discarding it in the following cycle and gaining a new Territory - representing their gang moving from one camp to the next. 
