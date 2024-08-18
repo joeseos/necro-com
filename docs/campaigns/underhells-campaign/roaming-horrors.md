@@ -60,6 +60,6 @@ Each time a player cornpletes an activation with one of their fighters, a Horror
 
 The nature of the Horror determines how it will act. Unless otherwise noted, Horrors always move toward the nearest non-Roaming Horror fighter.
 
-*Cautious (Brood Scum):* The Horror will move to within weapon range and attack if possible, sticking to cover. They will not expose themselves unless they can take a shot. If they are already in cover with a potential target, they will aim and shoot. If engaged, they will fight.
+**Cautious (Brood Scum):** The Horror will move to within weapon range and attack if possible, sticking to cover. They will not expose themselves unless they can take a shot. If they are already in cover with a potential target, they will aim and shoot. If engaged, they will fight.
 
-*Aggressive (Malstrain Genestealers and Tyramites):* The Horror will move so as to get within charge range or charge when possible. lf engaged, they will fight. 
+**Aggressive (Malstrain Genestealers and Tyramites):** The Horror will move so as to get within charge range or charge when possible. lf engaged, they will fight. 
