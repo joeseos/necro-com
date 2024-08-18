@@ -82,4 +82,21 @@ Some fighters are noted as being Primes or Leaders. These represent the most dan
 
 ### Horror And Malstrain Corrupted, Or Malstrain Gangs[​](#horror-and-malstrain-corrupted-or-malstrain-gangs "Direct link to Horror And Malstrain Corrupted, Or Malstrain Gangs")
 
-Roaming Horrors are worked up to a killing frenzy, as such they do not recognise Malstrain Corrupted or Malstrain gangs as being on the same side and will attack them as enemies. 
+Roaming Horrors are worked up to a killing frenzy, as such they do not recognise Malstrain Corrupted or Malstrain gangs as being on the same side and will attack them as enemies.
+
+Data Crystal Stacks[​](#data-crystal-stacks "Direct link to Data Crystal Stacks")
+---------------------------------------------------------------------------------------------
+
+Data crystal stacks are found throughout the Underhells of Hive Secundus. Ancient repositories of learning and technology, lost when Hive Secundus was destroyed, the data crystals they contain are highly sought-after treasures - if you can get them back across the Dust Wall...
+
+During battles taking place in the Underhells, each player deploys a Data Crystal Stack outside of their deployment zone before setting up their starting crew. In addition to following the standard rules for terrain from the _Necromunda Core Rulebook_, such as cover and blocking line of sight, Data Crystal Stacks have a number of unique features as described below:
+
+### Fragile Structures[​](#Fragile Structures "Direct link to Fragile Structures")
+
+Although capable of holding a wealth of information, the crystalline nature of data crystals makes them susceptible to thermal damage. If a Data Crystal Stack is hit by a weapon with the Blaze trait, roll a D6 and consult the following table:
+
+|D6     |Result                               |
+|:------|:------------------------------------|
+|1      |**"She's Gonna Blow!":** The data crystals contained within the stack destabilise, leading to an explosive chain reaction! All models within D3+3" are automatically hit by a S5, D1, AP -1 attack and all fighters hit change their status to Prone and Pinned. No more Data Crystals may be harvested from this Data Crystal Stack.              |
+|2-3    |**Limited Explosion:** A couple of the data crystals within the stack destabilise and explode, however the majority of the data crystal stack remains intact. All fighters within 3" are automatically hit by a S3, D1, AP - attack and all fighters hit change their status to Prone and Pinned. Any future attempts to perform the Harvest Data Crystal (Basic) action suffer a -1 modifier to the Intelligence test.                         |
+|4-6    |**Lucky Escape:** Although several of the data crystals start to glow from the heat, they remain stable. |
