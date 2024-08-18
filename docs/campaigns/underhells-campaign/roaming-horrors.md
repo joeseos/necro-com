@@ -7,15 +7,14 @@ _Source: The Book of Desolation (2024)_
 
 The psychic awareness of the Malstrain Patriarch is constantly scanning the exclusion zone for prey, sending their minions out to eliminate intruders. The rules for Roaming Horrors are designed to be used in all scenarios for the Underhells Campaign, though if the Arbitrator wishes they can only be used for certain scenarios or not at all. 
 
-### Territories And Phases[​](#territories-and-phases "Direct link to Territories And Phases")
+Using Roaming Horrors[​](#using-roaming-horrors "Direct link to Using Roaming Horrors")
+---------------------------------------------------------------------------------------------
+In a scenario that uses Roan1ing Horrors, the player with Priority rolls on one of the tables that follows before the Ready Gang step. Which table is rolled on is determined by the current region the gangs are exploring. When a Horror is generated, they are placed as detailed below. 
 
-To represent the long and arduous journey across hundreds of kilometres of hostile wasteland, the Underhells Campaign is divided into three phases (the Incursion Phase, Delving Phase and Survival Phase), separated by two Downtime phases where gangs will might rest, recover and re-equip their fighters. In these three phases gangs will hold a single Territory each campaign cycle, representing their camp along the way. At the end of the cycle, after the benefits of the Territory have been gathered, they will move on to a new camp and generate a new random Territory, as detailed on page 68. 
 
-Territories are also keyed to different phases (i.e., regions) and so depending on the phase different territories will be available for the gangs to make camp in.
+### Dead Zone[​](#dead-zone "Direct link to Dead Zone")
 
-### Generating And Changing Territories[​](#generating-and-changing-territories "Direct link to Generating And Changing Territories")
-
-At the start of the first campaign cycle, the Arbitrator should randomly assign a single Territory from those in the Dead Zone to each gang. Gangs then gain the benefits from this Territory for the duration of the campaign cycle. Note that multiple gangs can have the same Territory, with each gaining the benefits as normal. 
+_The hunters have drawn the notice of the Malstrain Patriarch and it is searching the darkness for them._
 
 At the start of the following cycle, all gangs discard their current Territory and are assigned a new random Territory. Which Territories are available is determined by the phase. In the Incursion phase gangs have access to Dead Zone territories, in the Delving phase they have access to Secundan Abyss territories, and finally in the Survival phase they have access to Underhells territories.
 
