@@ -18,18 +18,18 @@ This Territory grants the following Boons:
 
 **Recruit:** While a gang oontrols this Territory, during step 6 of the pre-battle sequence, they may add D3 Hive scum to their starting gang for free for the duration of the battle.
 
-Old Ruins[​](#old-ruins "Direct link to Old Ruins")
+Forlorn Waystation - Secundan Abyss[​](#old-ruins "Direct link to Old Ruins")
 ---------------------------------------------------
 
-**Two of Diamonds**
-
-_A complex of old ruins stands tall on the tangled landscape of the underhive or out in the wastes. Beneath the ashes and rubble, the tattered treasures of past ages wait._
+_The laws of nature are warped down in the Secundan Abyss; supplies that were laid up a week ago have rotted with age when revisited, whilst others are still fresh decades later. Waystations found within this mutable landscape offers brief island of sanity before ventuting once more into the Abyss._
 
 #### Territory Boon[​](#territory-boon-1 "Direct link to Territory Boon")
 
 This Territory grants the following Boon:
 
 **Income:** The gang earns D3x10 credits from this Territory when collecting income. Additionally, add +1 to the D3 result for each Dome Runner attached to the gang.
+
+**Special:** While a gang contcols this Territory, after both gangs have been deployed but before the first roll for Priority, D3 of their models may perform a Move (Simple) action. 
 
 Rogue Doc Shop[​](#rogue-doc-shop "Direct link to Rogue Doc Shop")
 ------------------------------------------------------------------
