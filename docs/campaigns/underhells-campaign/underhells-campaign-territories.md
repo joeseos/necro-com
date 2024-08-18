@@ -18,7 +18,7 @@ This Territory grants the following Boons:
 
 **Recruit:** While a gang oontrols this Territory, during step 6 of the pre-battle sequence, they may add D3 Hive scum to their starting gang for free for the duration of the battle.
 
-Forlorn Waystation - Secundan Abyss[​](#old-ruins "Direct link to Old Ruins")
+Forlorn Waystation - Secundan Abyss[​](#fornlorn-waystation-secundan-abyss "Direct link to Fornlorn Waystation - Secundan Abyss")
 ---------------------------------------------------
 
 _The laws of nature are warped down in the Secundan Abyss; supplies that were laid up a week ago have rotted with age when revisited, whilst others are still fresh decades later. Waystations found within this mutable landscape offers brief island of sanity before ventuting once more into the Abyss._
@@ -27,37 +27,35 @@ _The laws of nature are warped down in the Secundan Abyss; supplies that were la
 
 This Territory grants the following Boon:
 
-**Income:** The gang earns D3x10 credits from this Territory when collecting income. Additionally, add +1 to the D3 result for each Dome Runner attached to the gang.
+**Income:** The gang earns 2D6x10 credits from this Territory when collecting income.
 
 **Special:** While a gang contcols this Territory, after both gangs have been deployed but before the first roll for Priority, D3 of their models may perform a Move (Simple) action. 
 
-Rogue Doc Shop[​](#rogue-doc-shop "Direct link to Rogue Doc Shop")
+Gutted Rig - Secundan Abyss[​](#gutted-rig-secundan-abyss "Direct link to Gutted Rig - Secundan Abyss")
 ------------------------------------------------------------------
 
-**Three of Diamonds**
-
-_A sawbones, blood cleanser or chirurgeon has set up shop. Any gang willing to provide this rogue healer with protection can count on their loyal service._
+_With a lack of new parts flowing in from the great industriat factories of Necromunda, every rig operating within the Secundan Abyss is kept going by salvaging parts from other rigs, These donor rigs are then abandoned, though there ar often still useful equipment to be found within._
 
 #### Territory Boon[​](#territory-boon-2 "Direct link to Territory Boon")
 
 This Territory grants the following Boon:
 
-**Income:** If the gang is an Outlaw gang, they earn D6x10 credits from this Territory when collecting income.
+**Income:** The gang earns D6x10 credits from this Territory when collecting income.
 
-**Recruit:** If the gang is a Law-abiding gang, they may recruit a Rogue Doc Hanger-on for free.
+**Special:** While a gang controls thiS Territory, they may add up to D6x10 credits worth of equipment from their Gang Equipment List to their Stash during the post-battle sequence for free. 
 
-Promethium Cache[​](#promethium-cache "Direct link to Promethium Cache")
+Girder Forest - Secundan Abyss[​](#girder-forest-secundan-abyss "Direct link to Girder Forest - Secundan Abyss")
 ------------------------------------------------------------------------
 
-**Four of Diamonds**
-
-_Stacks of fuel drums and tanks fill this half-forgotten stash, enough to keep a factory running, or burn half of the Sump down if a stray spark catches it._
+_As the spire of Hive Secundus fell it broke up, scattering debris across the Secundan Abyss. Within the vast forests of plasteel girders and reinforced walls, large hulking menaces take shelter and if a gang is carefur they can be persuaded to help._
 
 #### Territory Boon[​](#territory-boon-3 "Direct link to Territory Boon")
 
-This Territory grants the following Boons: Equipment: Whilst it controls this Territory, three fighters in the gang gain incendiary charges for free.
+This Territory grants the following Boons: 
 
-**Special:** All fighters in the gang may re-roll Ammo tests for any weapon that has the Blaze trait.
+**Income:** The gang earns D6x10 credits from this Territory when collecting income.
+
+**Recruit:** While a gang oontrols this Territory, during step 6 of the pre-battle sequence, they may add a Brute to their starting gang for free for the duration of the battle.
 
 Wastes[​](#wastes "Direct link to Wastes")
 ------------------------------------------
