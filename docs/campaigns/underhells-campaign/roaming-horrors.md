@@ -62,4 +62,24 @@ The nature of the Horror determines how it will act. Unless otherwise noted, Hor
 
 **Cautious (Brood Scum):** The Horror will move to within weapon range and attack if possible, sticking to cover. They will not expose themselves unless they can take a shot. If they are already in cover with a potential target, they will aim and shoot. If engaged, they will fight.
 
-**Aggressive (Malstrain Genestealers and Tyramites):** The Horror will move so as to get within charge range or charge when possible. lf engaged, they will fight. 
+**Aggressive (Malstrain Genestealers and Tyramites):** The Horror will move so as to get within charge range or charge when possible. lf engaged, they will fight.
+
+### Killing Horrors[​](#killing-horrors "Direct link to Killing Horrors")
+
+Unless otherwise noted, Horrors do not follow the normal rules for resolving hits and are removed if an Injury dice would be rolled and applied to them. Models can earn XP and Kill points for killing Horrors Primes and Leaders count as Champions and all other Horrors count as Gangers for this purpose.
+
+### Horrors And Ammo[​](#horrors-and-ammo "Direct link to Horrors And Ammo")
+
+Horrors do not need to make Ammo rolls and their weapons never run out of ammo.
+
+### Malstrain Brood Scum Weapons[​](#malstrain-brood-scum-weapons "Direct link to Malstrain Brood Scum Weapons")
+
+When placing Malstrain Brood Scum, the player with Priority decides what weapons and Wargear they are equipped with.
+
+### Primes And Leaders[​](#primes-and-leaders "Direct link to Primes And Leaders")
+
+Some fighters are noted as being Primes or Leaders. These represent the most dangerous examples of their kind. If a fighter is indicated as being a Prime or Leader, increase its Attacks and Wounds characteristics by 1.
+
+### Horror And Malstrain Corrupted, Or Malstrain Gangs[​](#horror-and-malstrain-corrupted-or-malstrain-gangs "Direct link to Horror And Malstrain Corrupted, Or Malstrain Gangs")
+
+Roaming Horrors are worked up to a killing frenzy, as such they do not recognise Malstrain Corrupted or Malstrain gangs as being on the same side and will attack them as enemies. 
