@@ -131,17 +131,6 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
-
-  // Adding the search plugin without the `hashed` option
-  themes: [
-    [
-      require.resolve("@easyops-cn/docusaurus-search-local"),
-      /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
-      ({
-        // You can add other options here if needed, but remove `hashed`
-      }),
-    ],
-  ],
 };
 
 export default config;
