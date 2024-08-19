@@ -67,18 +67,23 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
+          { to: '/rules', label: 'Rules', position: 'left' }, // Link to Rules page
+          { to: '/gangs', label: 'Gangs', position: 'left' }, // Link to Gangs page
+          { to: '/trading-post', label: 'Trading Post', position: 'left' }, // Link to Trading Post page
+          { to: '/campaigns', label: 'Campaigns', position: 'left' }, // Link to Campaigns page
+          { to: '/scenarios', label: 'Scenarios', position: 'left' }, // Link to Scenarios page
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Tutorial',
-          },
-          { to: '/blog', label: 'UPDATES', position: 'right' },
+          }, // Link to Tutorial section
+          { to: '/blog', label: 'UPDATES', position: 'right' }, // Blog section
           {
             href: 'https://github.com/joeseos/necro-com',
             label: 'GitHub',
             position: 'right',
-          },
+          }, // GitHub link
         ],
       },
       footer: {
