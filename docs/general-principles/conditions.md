@@ -1,3 +1,7 @@
+---
+sidebar_position: 7
+---
+
 # Conditions
 _Source: Necromunda Core Rulebook (2023)_
 
