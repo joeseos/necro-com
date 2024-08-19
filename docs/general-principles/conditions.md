@@ -97,9 +97,11 @@ Certain skills, some types of terrain and some scenario rules may lead a model t
   * Result: The model can act as normal for the duration of this activation. Once their activation is over, make a Willpower test for them. If it is passed, they lose their Insanity marker.
 
 
-House Rule (A&A)
+:::House Rule (A&A)
 
 Roll a willpower check at the end of activation to see if they become sane.
+
+:::
 
 ### Webbed[​](#webbed "Direct link to Webbed")
 
