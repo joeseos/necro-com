@@ -33,6 +33,7 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
+
   presets: [
     [
       'classic',
@@ -130,6 +131,21 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+
+  // Adding the search plugin
+  plugins: [
+    [
+      require.resolve('@cmfcmf/docusaurus-search-local'),
+      /** @type {import('@cmfcmf/docusaurus-search-local').Options} */
+      ({
+        // Options here
+        indexDocs: true,  // Index your documentation
+        indexPages: true, // Index your static pages
+        // language: ["en"], // Specify language(s) to index, defaults to English
+        hashed: true, // Recommended for better cache handling
+      }),
+    ],
+  ],
 };
 
 export default config;
