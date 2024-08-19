@@ -142,7 +142,7 @@ const config = {
         indexDocs: true,  // Index your documentation
         indexPages: true, // Index your static pages
         // language: ["en"], // Specify language(s) to index, defaults to English
-        hashed: true, // Recommended for better cache handling
+        hashed: false, // Recommended for better cache handling
       }),
     ],
   ],
