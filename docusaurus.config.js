@@ -83,16 +83,10 @@ const config = {
             items: [
               {
                 label: 'The Underhells Campaign',
-                to: 'docs/campaigns/underhells-campaign/using-the-campaign', // Link to The Underhells Campaign page
+                to: 'https://necrocom.org/docs/campaigns/underhells-campaign/using-the-campaign', // Link to The Underhells Campaign page
               },
             ],
           },
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
-          }, // Link to Tutorial section
           { to: '/blog', label: 'UPDATES', position: 'right' }, // Blog section
           {
             href: 'https://github.com/joeseos/necro-com',
@@ -108,7 +102,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Rules Intro',
                 to: '/docs/intro',
               },
             ],
