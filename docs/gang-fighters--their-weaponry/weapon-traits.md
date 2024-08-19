@@ -23,9 +23,11 @@ The weapon utilises a [Blast marker](https://necrovox.org/docs/the-rules/shootin
 
 After an attack with the Blaze trait has been resolved, roll a D6 if the target was hit but not taken Out of Action or Wrecked. On a 4+, they become subject to the [Blaze condition](https://necrovox.org/docs/general-principles/conditions#blaze).
 
-YAQ
+:::tip YAQ
 
 Inorganic targets are not affected.
+
+:::
 
 ### Burrowing[​](#burrowing "Direct link to Burrowing")
 
@@ -135,9 +137,11 @@ If a weapon fails an Ammo test while using Limited ammo, they have run out – t
 
 This is in addition to the normal rules for the weapon running Out of Ammo. The weapon can still be reloaded as normal, using its remaining profile(s).
 
-YAQ
+:::tip YAQ
 
 Only a single ‘dose’ of ammo can be carried per weapon. Reduce fighter’s cost accordingly after the ammo is lost.
+
+:::
 
 ### Master-Crafted[​](#master-crafted "Direct link to Master-Crafted")
 
