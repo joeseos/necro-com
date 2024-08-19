@@ -33,6 +33,7 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
+
   presets: [
     [
       'classic',
@@ -130,6 +131,18 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+
+  // Adding the search plugin
+  themes: [
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
+      ({
+        hashed: true,
+        // Add more options if needed
+      }),
+    ],
+  ],
 };
 
 export default config;
