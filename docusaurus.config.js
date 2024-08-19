@@ -83,6 +83,10 @@ const config = {
                 label: 'Skills',
                 to: '/docs/gang-fighters--their-weaponry/skills', // Link to Skills page
               },
+              {
+                label: 'Weapon Traits',
+                to: '/docs/gang-fighters--their-weaponry/weapon-traits', // Link to Weapon Traits page
+              },
             ],
           },
           {
