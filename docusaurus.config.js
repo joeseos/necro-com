@@ -67,11 +67,11 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          { to: '/rules', label: 'Rules', position: 'left' }, // Link to Rules page
-          { to: '/gangs', label: 'Gangs', position: 'left' }, // Link to Gangs page
-          { to: '/trading-post', label: 'Trading Post', position: 'left' }, // Link to Trading Post page
-          { to: '/campaigns', label: 'Campaigns', position: 'left' }, // Link to Campaigns page
-          { to: '/scenarios', label: 'Scenarios', position: 'left' }, // Link to Scenarios page
+          { label: 'Rules', position: 'left' }, // No specific link
+          { label: 'Gangs', position: 'left' }, // No specific link
+          { label: 'Trading Post', position: 'left' }, // No specific link
+          { label: 'Campaigns', position: 'left' }, // No specific link
+          { label: 'Scenarios', position: 'left' }, // No specific link
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
