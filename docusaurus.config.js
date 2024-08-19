@@ -33,7 +33,6 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-
   presets: [
     [
       'classic',
@@ -124,29 +123,13 @@ const config = {
             ],
           },
         ],
-        copyright: `This site is a free community project not associated with Games Workshop. All original content is Copyright © ${new Date().getFullYear()} Games Workshop`,
+        copyright: This site is a free community project not associated with Games Workshop. All original content is Copyright © ${new Date().getFullYear()} Games Workshop,
       },
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
     }),
-
-  // Adding the local search plugin configuration
-  plugins: [
-    [
-      require.resolve('@easyops-cn/docusaurus-search-local'),
-      /** @type {import('@easyops-cn/docusaurus-search-local').PluginOptions} */
-      ({
-        // Optional: add your custom options here
-        hashed: true, // recommended to enable hashed filenames for cache busting
-        indexDocs: true, // index documentation pages
-        indexPages: true, // index static pages
-        language: ["en"], // language for indexing
-        docsRouteBasePath: "/docs", // Base path for the docs
-      }),
-    ],
-  ],
 };
 
 export default config;
