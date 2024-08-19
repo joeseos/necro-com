@@ -123,7 +123,7 @@ const config = {
             ],
           },
         ],
-        copyright: This site is a free community project not associated with Games Workshop. All original content is Copyright © ${new Date().getFullYear()} Games Workshop,
+        copyright: `This site is a free community project not associated with Games Workshop. All original content is Copyright © ${new Date().getFullYear()} Games Workshop`,
       },
       prism: {
         theme: prismThemes.github,
