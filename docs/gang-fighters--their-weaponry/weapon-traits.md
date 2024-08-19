@@ -281,9 +281,11 @@ A Shoot action made with this weapon counts as a Double action as opposed to a B
 
 In addition, a fighter who uses a weapon with both the Unwieldy and Melee traits in close combat cannot use a second weapon at the same time – this one requires both hands to use.
 
-House Rule (Necrodamus, A&A)
+:::danger House Rule (Necrodamus, A&A)
 
 Apply -1 hit modifier if shooting Unwieldy weapons as anything other than Double action.
+
+:::
 
 ### Versatile[​](#versatile "Direct link to Versatile")
 
