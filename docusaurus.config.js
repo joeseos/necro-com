@@ -132,17 +132,13 @@ const config = {
       },
     }),
 
-  // Adding the search plugin
-  plugins: [
+  // Adding the search plugin without the `hashed` option
+  themes: [
     [
-      require.resolve('@cmfcmf/docusaurus-search-local'),
-      /** @type {import('@cmfcmf/docusaurus-search-local').Options} */
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
       ({
-        // Options here
-        indexDocs: true,  // Index your documentation
-        indexPages: true, // Index your static pages
-        // language: ["en"], // Specify language(s) to index, defaults to English
-        hashed: false, // Recommended for better cache handling
+        // You can add other options here if needed, but remove `hashed`
       }),
     ],
   ],
