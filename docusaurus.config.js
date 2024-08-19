@@ -73,7 +73,7 @@ const config = {
             items: [
               {
                 label: 'Rules Intro',
-                to: 'https://necrocom.org/docs/intro', // Link to Rules Intro page
+                to: '/docs/intro', // Link to Rules Intro page without opening a new tab
               },
             ],
           },
