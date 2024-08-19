@@ -67,11 +67,26 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          { label: 'Rules', position: 'left' }, // No specific link
-          { label: 'Gangs', position: 'left' }, // No specific link
-          { label: 'Trading Post', position: 'left' }, // No specific link
-          { label: 'Campaigns', position: 'left' }, // No specific link
-          { label: 'Scenarios', position: 'left' }, // No specific link
+          {
+            label: 'Rules',
+            position: 'left',
+            items: [
+              {
+                label: 'Rules Intro',
+                to: 'https://necrocom.org/docs/intro', // Link to Rules Intro page
+              },
+            ],
+          },
+          {
+            label: 'Campaigns',
+            position: 'left',
+            items: [
+              {
+                label: 'The Underhells Campaign',
+                to: 'https://necrocom.org/docs/campaigns/underhells-campaign/using-the-campaign', // Link to The Underhells Campaign page
+              },
+            ],
+          },
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
