@@ -1,0 +1,11 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "moduleResolution": "Node",
+    "target": "ES6",
+    "module": "CommonJS",
+    "outDir": "dist/server",
+    "types": ["cheerio"]
+  },
+  "exclude": ["**/*.spec.ts", "src/client"]
+}
