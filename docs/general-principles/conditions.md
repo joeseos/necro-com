@@ -53,7 +53,7 @@ How the Blaze condition affects a model depends upon whether it is a fighter or 
 
 To attempt to put the fire out, roll a D6, adding 1 to the result for each other Active friendly fighter within 1". On a roll of 6 or more, the flames go out and the Blaze condition is removed. Prone and Pinned or Seriously Injured fighters add 2 to the roll to see if the flames go out.
 
-::: note Vehicles And Conditions
+:::note Vehicles And Conditions
 
 There are a huge number of Conditions in Necromunda, unless stated otherwise they do not affect vehicles at all.
 
