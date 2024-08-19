@@ -15,7 +15,7 @@ An assault/energy shield grants a +2 armour save modifier (to a maximum of 2+) a
 
 If the attacker is not within the target’s vision arc, add 1 to the attack’s Strength.
 
-### Blast(3"/5"/\*)[​](#blast35 "Direct link to Blast(3"/5"/*)")
+### Blast(3"/5"/\*)
 
 The weapon utilises a [Blast marker](https://necrovox.org/docs/the-rules/shooting#blast-markers).
 
