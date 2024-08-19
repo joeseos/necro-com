@@ -73,15 +73,15 @@ const config = {
             items: [
               {
                 label: 'Rules Intro',
-                to: '/docs/intro', // Link to Rules Intro page without opening a new tab
-              },
-              {
-                label: 'Skills',
-                to: '/docs/gang-fighters--their-weaponry/skills', // Link to Skills page
+                to: '/docs/intro', // Link to Rules Intro page
               },
               {
                 label: 'Conditions',
                 to: '/docs/general-principles/conditions', // Link to Conditions page
+              },
+              {
+                label: 'Skills',
+                to: '/docs/gang-fighters--their-weaponry/skills', // Link to Skills page
               },
             ],
           },
