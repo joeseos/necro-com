@@ -75,6 +75,10 @@ const config = {
                 label: 'Rules Intro',
                 to: '/docs/intro', // Link to Rules Intro page without opening a new tab
               },
+              {
+                label: 'Skills',
+                to: '/docs/gang-fighters--their-weaponry/skills', // Link to Skills page
+              },
             ],
           },
           {
@@ -83,7 +87,7 @@ const config = {
             items: [
               {
                 label: 'The Underhells Campaign',
-                to: 'https://necrocom.org/docs/campaigns/underhells-campaign/using-the-campaign', // Link to The Underhells Campaign page
+                to: '/docs/campaigns/underhells-campaign/using-the-campaign', // Link to The Underhells Campaign page
               },
             ],
           },
