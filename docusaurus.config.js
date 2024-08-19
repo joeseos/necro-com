@@ -79,6 +79,10 @@ const config = {
                 label: 'Skills',
                 to: '/docs/gang-fighters--their-weaponry/skills', // Link to Skills page
               },
+              {
+                label: 'Conditions',
+                to: '/docs/general-principles/conditions', // Link to Conditions page
+              },
             ],
           },
           {
