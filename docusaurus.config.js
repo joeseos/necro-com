@@ -83,7 +83,7 @@ const config = {
             items: [
               {
                 label: 'The Underhells Campaign',
-                to: 'https://necrocom.org/docs/campaigns/underhells-campaign/using-the-campaign', // Link to The Underhells Campaign page
+                to: 'docs/campaigns/underhells-campaign/using-the-campaign', // Link to The Underhells Campaign page
               },
             ],
           },
