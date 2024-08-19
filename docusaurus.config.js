@@ -33,7 +33,6 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-
   presets: [
     [
       'classic',
@@ -124,25 +123,13 @@ const config = {
             ],
           },
         ],
-        copyright: `This site is a free community project not associated with Games Workshop. All original content is Copyright © ${new Date().getFullYear()} Games Workshop`,
+        copyright: This site is a free community project not associated with Games Workshop. All original content is Copyright © ${new Date().getFullYear()} Games Workshop,
       },
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
     }),
-
-  // Adding the search plugin
-  themes: [
-    [
-      require.resolve("@easyops-cn/docusaurus-search-local"),
-      /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
-      ({
-        hashed: true,
-        // Add more options if needed
-      }),
-    ],
-  ],
 };
 
 export default config;
