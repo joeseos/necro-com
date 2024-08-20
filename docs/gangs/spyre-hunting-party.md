@@ -32,54 +32,6 @@ Fighters[​](#fighters "Direct link to Fighters")
 
 ### Gang Queen (Leader)[​](#gang-queen-leader "Direct link to Gang Queen (Leader)")
 
-<div class="fighterCard">
-    <div class="cost">
-        <span class="number">125</span> <span>credits</span>
-    </div>
-    <h3 class="anchor" id="gang-queen-leader">Gang Queen (Leader)
-        <a href="#gang-queen-leader" class="hash-link" aria-label="Direct link to Gang Queen (Leader)" title="Direct link to Gang Queen (Leader)"></a>
-    </h3>
-    <table>
-        <thead>
-            <tr>
-                <th>M</th>
-                <th>WS</th>
-                <th>BS</th>
-                <th>S</th>
-                <th>T</th>
-                <th>W</th>
-                <th>I</th>
-                <th>A</th>
-                <th>Ld</th>
-                <th>Cl</th>
-                <th>Wil</th>
-                <th>Int</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>5”</td>
-                <td>3+</td>
-                <td>3+</td>
-                <td>3</td>
-                <td>3</td>
-                <td>2</td>
-                <td>2+</td>
-                <td>3</td>
-                <td>5+</td>
-                <td>5+</td>
-                <td>6+</td>
-                <td>7+</td>
-            </tr>
-        </tbody>
-    </table>
-    <p><strong>Skills:</strong> 1 Primary (custom).<br>
-    <strong>Restrictions:</strong> None.<br>
-    <strong>Special Rules:</strong> Gang Leader, Gang Hierarchy (Leader), Tools of the Trade, Group Activation (2).</p>
-</div>
-
-
-
 
 **Skills:** 1 Primary (custom).  
 **Restrictions:** None.  
