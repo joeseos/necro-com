@@ -47,44 +47,45 @@ Fighters[​](#fighters "Direct link to Fighters")
   <table>
     <thead>
       <tr>
-        <th style="text-align:center">M</th>
-        <th style="text-align:center">WS</th>
-        <th style="text-align:center">BS</th>
-        <th style="text-align:center">S</th>
-        <th style="text-align:center">T</th>
-        <th style="text-align:center">W</th>
-        <th style="text-align:center">I</th>
-        <th style="text-align:center">A</th>
-        <th style="text-align:center">Ld</th>
-        <th style="text-align:center">Cl</th>
-        <th style="text-align:center">Wil</th>
-        <th style="text-align:center">Int</th>
+        <th style={{ textAlign: 'center' }}>M</th>
+        <th style={{ textAlign: 'center' }}>WS</th>
+        <th style={{ textAlign: 'center' }}>BS</th>
+        <th style={{ textAlign: 'center' }}>S</th>
+        <th style={{ textAlign: 'center' }}>T</th>
+        <th style={{ textAlign: 'center' }}>W</th>
+        <th style={{ textAlign: 'center' }}>I</th>
+        <th style={{ textAlign: 'center' }}>A</th>
+        <th style={{ textAlign: 'center' }}>Ld</th>
+        <th style={{ textAlign: 'center' }}>Cl</th>
+        <th style={{ textAlign: 'center' }}>Wil</th>
+        <th style={{ textAlign: 'center' }}>Int</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td style="text-align:center">5”</td>
-        <td style="text-align:center">3+</td>
-        <td style="text-align:center">3+</td>
-        <td style="text-align:center">3</td>
-        <td style="text-align:center">3</td>
-        <td style="text-align:center">2</td>
-        <td style="text-align:center">2+</td>
-        <td style="text-align:center">3</td>
-        <td style="text-align:center">5+</td>
-        <td style="text-align:center">5+</td>
-        <td style="text-align:center">6+</td>
-        <td style="text-align:center">7+</td>
+        <td style={{ textAlign: 'center' }}>5”</td>
+        <td style={{ textAlign: 'center' }}>3+</td>
+        <td style={{ textAlign: 'center' }}>3+</td>
+        <td style={{ textAlign: 'center' }}>3</td>
+        <td style={{ textAlign: 'center' }}>3</td>
+        <td style={{ textAlign: 'center' }}>2</td>
+        <td style={{ textAlign: 'center' }}>2+</td>
+        <td style={{ textAlign: 'center' }}>3</td>
+        <td style={{ textAlign: 'center' }}>5+</td>
+        <td style={{ textAlign: 'center' }}>5+</td>
+        <td style={{ textAlign: 'center' }}>6+</td>
+        <td style={{ textAlign: 'center' }}>7+</td>
       </tr>
     </tbody>
   </table>
   
   <p>
-    <strong>Skills:</strong> 1 Primary (custom).<br>
-    <strong>Restrictions:</strong> None.<br>
+    <strong>Skills:</strong> 1 Primary (custom).<br />
+    <strong>Restrictions:</strong> None.<br />
     <strong>Special Rules:</strong> Gang Leader, Gang Hierarchy (Leader), Tools of the Trade, Group Activation (2).
   </p>
 </div>
+
 
 
 
