@@ -120,3 +120,39 @@ _Within the heart of the Underhells, the remnants of the thermal heat sink that 
 This Territory grants the following Boons: 
 
 **Income:** The gang earns 3D6x10 credits from this Territory when collecting income.
+
+Fortified Dome - Underhells[​](#fortified-dome-underhells "Direct link to Fortified Dome - Underhells")
+------------------------------------------------------------------------
+
+_Many gangs have met their end within the depths of the Underhells, the survivors banding together in small fortified bases where they try to survive, all dreams of treasure forgotten._
+
+#### Territory Boon[​](#territory-boon-10 "Direct link to Territory Boon")
+This Territory grants the following Boons: 
+
+**Income:** The gang earns D3x10 credits from this Territory when collecting income.
+
+**Recruit:** While a gang controls this Territory, during step 6 of the pre-battle sequence they may add a Ganger with up to 50 credits worth of equipment to their starting gang for free for the duration of the battle.
+
+Cogitator Nexus - Underhells[​](#fortified-dome-underhells "Direct link to Fortified Dome - Underhells")
+------------------------------------------------------------------------
+
+_Renowned as a centre of science and culture, Hive Secundus had many domes dedicated to huge banks of advanced cogitator arrays. Although far from the wonders of technology they once were, there are still some that function at a small fraction of their original potential._
+
+#### Territory Boon[​](#territory-boon-11 "Direct link to Territory Boon")
+This Territory grants the following Boons: 
+
+**Income:** The gang earns 2D6x10 credits from this Territory when collecting income.
+
+**Special:** While a gang controls this Territory, once per battle they may automatically win the roll for Priority - this is declared before the dice are rolled.
+
+Xenos Boneyard Nexus - Underhells[​](#xenos-boneyard-underhells "Direct link to Xenos Boneyard - Underhells")
+------------------------------------------------------------------------
+
+_Hive Secundus did not fall without a fight; within the barely-lit depths of the Underhells are corridors and chambers buried under piles of bones, both xenos and human. Whether the site of battles fought long ago, or the bones collected by the Malstrain for purposes unknown, fighters can adorn themselves with these grisly remains as a way of trying to unsettle their opponents._
+
+#### Territory Boon[​](#territory-boon-12 "Direct link to Territory Boon")
+This Territory grants the following Boons: 
+
+**Income:** The gang earns 2D6x10 credits from this Territory when collecting income.
+
+**Special:** While a gang controls this Territory, during step 6 of the pre-battle sequence D3 fighters gain the Fearsome skill for the duration of the battle. 
