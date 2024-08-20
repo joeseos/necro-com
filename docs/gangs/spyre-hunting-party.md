@@ -33,28 +33,59 @@ Fighters[​](#fighters "Direct link to Fighters")
 ### Gang Queen (Leader)[​](#gang-queen-leader "Direct link to Gang Queen (Leader)")
 
 
-<div class="card-table">
+<div class="fighterCard_eWx_">
+  <div class="cost_vIwd">
+    <span class="number_XdbT">125</span> 
+    <span>credits</span>
+  </div>
+  
+  <h3 class="anchor anchorWithStickyNavbar_LWe7" id="gang-queen-leader">
+    Gang Queen (Leader)
+    <a href="#gang-queen-leader" class="hash-link" aria-label="Direct link to Gang Queen (Leader)" title="Direct link to Gang Queen (Leader)">​</a>
+  </h3>
+  
+  <table>
+    <thead>
+      <tr>
+        <th style="text-align:center">M</th>
+        <th style="text-align:center">WS</th>
+        <th style="text-align:center">BS</th>
+        <th style="text-align:center">S</th>
+        <th style="text-align:center">T</th>
+        <th style="text-align:center">W</th>
+        <th style="text-align:center">I</th>
+        <th style="text-align:center">A</th>
+        <th style="text-align:center">Ld</th>
+        <th style="text-align:center">Cl</th>
+        <th style="text-align:center">Wil</th>
+        <th style="text-align:center">Int</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="text-align:center">5”</td>
+        <td style="text-align:center">3+</td>
+        <td style="text-align:center">3+</td>
+        <td style="text-align:center">3</td>
+        <td style="text-align:center">3</td>
+        <td style="text-align:center">2</td>
+        <td style="text-align:center">2+</td>
+        <td style="text-align:center">3</td>
+        <td style="text-align:center">5+</td>
+        <td style="text-align:center">5+</td>
+        <td style="text-align:center">6+</td>
+        <td style="text-align:center">7+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  <p>
+    <strong>Skills:</strong> 1 Primary (custom).<br>
+    <strong>Restrictions:</strong> None.<br>
+    <strong>Special Rules:</strong> Gang Leader, Gang Hierarchy (Leader), Tools of the Trade, Group Activation (2).
+  </p>
+</div>
 
-## Goliath Forge Tyrant (Leader)
-
-**M** | **WS** | **BS** | **S** | **T** | **W** | **I** | **A** | **LD**
-:---: | :----: | :----: | :---: | :---: | :---: | :---: | :---: | :----:
-4"    | 3+     | 4+     | 5     | 4     | 2     | 4+    | 2     | 7+
-
-<div class="card-section">
-**Weapons:** Renderizer, Stub Cannon
-</div>
-<div class="card-section">
-**Armor:** Furnace Plates
-</div>
-<div class="card-section">
-**Skills:** Nerves of Steel
-</div>
-<div class="card-section">
-**Cost:** 170 Credits
-</div>
-
-</div>
 
 
 
