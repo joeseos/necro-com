@@ -33,23 +33,25 @@ Fighters[​](#fighters "Direct link to Fighters")
 ### Gang Queen (Leader)[​](#gang-queen-leader "Direct link to Gang Queen (Leader)")
 
 
-<div class="card-container">
+<div class="card-table">
 
-### Goliath Forge Tyrant (Leader)
+## Goliath Forge Tyrant (Leader)
 
-<div class="card">
-  <div class="card-header">
-    <strong>M</strong> | <strong>WS</strong> | <strong>BS</strong> | <strong>S</strong> | <strong>T</strong> | <strong>W</strong> | <strong>I</strong> | <strong>A</strong> | <strong>LD</strong>
-  </div>
-  <div class="card-body">
-    4" | 3+ | 4+ | 5 | 4 | 2 | 4+ | 2 | 7+
-  </div>
-  <div class="card-footer">
-    <p><strong>Weapons:</strong> Renderizer, Stub Cannon</p>
-    <p><strong>Armor:</strong> Furnace Plates</p>
-    <p><strong>Skills:</strong> Nerves of Steel</p>
-    <p><strong>Cost:</strong> 170 Credits</p>
-  </div>
+**M** | **WS** | **BS** | **S** | **T** | **W** | **I** | **A** | **LD**
+:---: | :----: | :----: | :---: | :---: | :---: | :---: | :---: | :----:
+4"    | 3+     | 4+     | 5     | 4     | 2     | 4+    | 2     | 7+
+
+<div class="card-section">
+**Weapons:** Renderizer, Stub Cannon
+</div>
+<div class="card-section">
+**Armor:** Furnace Plates
+</div>
+<div class="card-section">
+**Skills:** Nerves of Steel
+</div>
+<div class="card-section">
+**Cost:** 170 Credits
 </div>
 
 </div>
