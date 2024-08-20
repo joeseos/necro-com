@@ -52,3 +52,15 @@ This Territory grants the following Boons:
 **Income:** The gang earns D6x10 credits from this Territory when collecting income.
 
 **Recruit:** While a gang oontrols this Territory, during step 6 of the pre-battle sequence, they may add a Brute to their starting gang for free for the duration of the battle.
+
+Hunters Enclave - Secundan Abyss[​](#hunters-enclave-secundan-abyss "Direct link to Hunters Enclave - Secundan Abyss")
+------------------------------------------------------------------------
+
+_Some of those who travel to the ruins of Hive Secundus become obsessed with the hunt for Malstrains. Unable to draw themselves away from the Secundan Abyss, they band together in enclaves to keep the Malstrain under control._
+
+#### Territory Boon[​](#territory-boon-4 "Direct link to Territory Boon")
+This Territory grants the following Boons: 
+
+**Income:** The gang earns D6x10 credits from this Territory when collecting income.
+
+**Recruit:** Whilst it controls this Territory, the gang may recruit a Bounty Hunter for free prior to every battle.
