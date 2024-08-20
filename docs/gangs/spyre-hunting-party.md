@@ -38,7 +38,7 @@ Fighters[​](#fighters "Direct link to Fighters")
     </div>
     <h3 class="anchor" id="gang-queen-leader">Gang Queen (Leader)
         <a href="#gang-queen-leader" class="hash-link" aria-label="Direct link to Gang Queen (Leader)" title="Direct link to Gang Queen (Leader)"></a>
-    </h3> <!-- This was missing -->
+    </h3>
     <table>
         <thead>
             <tr>
