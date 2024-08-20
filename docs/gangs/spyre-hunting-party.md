@@ -2,7 +2,9 @@
 Gang Composition[​](#gang-composition "Direct link to Gang Composition")
 ------------------------------------------------------------------------
 
-House Escher follows the [normal rules](https://necrovox.org/docs/founding-a-gang/gang-creation#gang-composition) for Gang Composition.
+A Spyre Hunting Party is created using the standard rules for gang creation (see the Necromunda Core Rulebook) with the following exceptions:
+
+
 
 Special Rules[​](#special-rules "Direct link to Special Rules")
 ---------------------------------------------------------------
