@@ -38,7 +38,7 @@ Fighters[​](#fighters "Direct link to Fighters")
     </div>
     <h3 class="anchor" id="gang-queen-leader">Gang Queen (Leader)
         <a href="#gang-queen-leader" class="hash-link" aria-label="Direct link to Gang Queen (Leader)" title="Direct link to Gang Queen (Leader)"></a>
-    </h3>
+    </h3> <!-- This was missing -->
     <table>
         <thead>
             <tr>
@@ -77,7 +77,6 @@ Fighters[​](#fighters "Direct link to Fighters")
     <strong>Restrictions:</strong> None.<br>
     <strong>Special Rules:</strong> Gang Leader, Gang Hierarchy (Leader), Tools of the Trade, Group Activation (2).</p>
 </div>
-
 
 
 
