@@ -15,6 +15,12 @@
   --ifm-color-primary-lightest: #3cad6e;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-font-family-base: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  --ifm-font-color-base: #333;
+  --ifm-font-color-base-inverse: #fff;
+  --ifm-color-gray-200: #ebedf0;
+  --ifm-color-white: #fff;
+  --ifm-color-black: #000;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -29,12 +35,22 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
+/* General Styles */
+body {
+  -webkit-tap-highlight-color: transparent;
+  -webkit-font-smoothing: antialiased;
+  text-size-adjust: 100%;
+  color-scheme: var(--ifm-color-scheme);
+  font: var(--ifm-font-size-base)/var(--ifm-line-height-base) var(--ifm-font-family-base);
+  text-rendering: optimizelegibility;
+}
+
 /* Card Container */
 .fighterCard_eWx_ {
   border: 1px solid #333;
   border-radius: 8px;
   padding: 16px;
-  background-color: #fff;
+  background-color: var(--ifm-color-white);
   margin-bottom: 20px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
@@ -50,7 +66,7 @@
 /* Number Styling */
 .number_XdbT {
   font-size: 24px;
-  color: #ed6f1b;
+  color: var(--ifm-color-primary);
   margin-right: 5px;
 }
 
@@ -66,11 +82,13 @@
   width: 100%;
   border-collapse: collapse;
   margin-bottom: 16px;
+  background: var(--ifm-table-background, var(--ifm-color-white));
+  color: var(--ifm-font-color-base);
 }
 
 .fighterCard_eWx_ th,
 .fighterCard_eWx_ td {
-  border: 1px solid #ddd;
+  border: 1px solid var(--ifm-color-gray-200);
   padding: 8px;
   text-align: center;
 }
@@ -93,14 +111,15 @@
 }
 
 [data-theme='dark'] .number_XdbT {
-  color: #ed6f1b;
+  color: var(--ifm-color-primary);
 }
 
 [data-theme='dark'] .fighterCard_eWx_ th {
   background-color: #444;
-  color: white;
+  color: var(--ifm-color-white);
 }
 
 [data-theme='dark'] .fighterCard_eWx_ td {
   background-color: #3c3c3c;
+  color: var(--ifm-font-color-base-inverse);
 }
