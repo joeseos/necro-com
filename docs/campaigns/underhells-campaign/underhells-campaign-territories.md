@@ -64,3 +64,59 @@ This Territory grants the following Boons:
 **Income:** The gang earns D6x10 credits from this Territory when collecting income.
 
 **Recruit:** Whilst it controls this Territory, the gang may recruit a Bounty Hunter for free prior to every battle.
+
+Hab Scrap - Secundan Abyss[​](#hab-scrap-secundan-abyss "Direct link to Hab Scrap - Secundan Abyss")
+------------------------------------------------------------------------
+
+_Like all hives, Hive Secundus had huge sprawling hab complexes throughout to house the Sham workforce needed to keep the sophisticated hive running. Despite years of teams picking through their carcass, there still remains much of value hidden within these ruins._
+
+#### Territory Boon[​](#territory-boon-5 "Direct link to Territory Boon")
+This Territory grants the following Boons: 
+
+**Income:** The gang earns 3D6x10 credits from this Territory when collecting income.
+
+Fortified Camp - Secundan Abyss[​](#fortified-camp-secundan-abyss "Direct link to Fortified Camp - Secundan Abyss")
+------------------------------------------------------------------------
+
+_Few are brave (or perhaps foolhardy) enough to make their homes within the Secundan Abyss; those that do turn their dwellings into fortresses, bristling with whatever weapons they can scavenge to hold off the terrors of the Malstrain._
+
+#### Territory Boon[​](#territory-boon-6 "Direct link to Territory Boon")
+This Territory grants the following Boons: 
+
+**Income:** The gang earns 2D6x10 credits from this Territory when collecting income.
+
+**Recruit:** While a gang controls this Territory, they may add an Ammo-jack to their gang roster for free.
+
+Collapsed Dome - Underhells[​](#collapsed-dome-underhells "Direct link to Collapsed Dome - Underhells")
+------------------------------------------------------------------------
+
+_When the gravitonic charges blasted apart Hive Secundus, toppling it once glorious spire, the shockwave ran through the entire structure, even into the underhive, cutting off many sections and causing most of the domes within to collapse. These domes are even more highly sought than their counterparts in other underhives for the treasures they may hold within._
+
+#### Territory Boon[​](#territory-boon-7 "Direct link to Territory Boon")
+This Territory grants the following Boons: 
+
+**Income:** The gang earns 2D6x10 credits from this Territory when collecting income.
+
+**Special:** While a gang controls this Territory, they may generate an additional gang tactic at random during step 7 of the pre-battle sequence.
+
+Haunted Halls - Underhells[​](#haunted-halls-underhells "Direct link to Haunted Halls - Underhells")
+------------------------------------------------------------------------
+
+_Secundus is a dead hive, destroyed from orbit by a withering hail of weapons fire. Within the depths of the Underhells, the essence of all those that died becomes a tangible presence, but for those that can withstand it the maze of tunnels offers shortcuts._
+
+#### Territory Boon[​](#territory-boon-8 "Direct link to Territory Boon")
+This Territory grants the following Boons: 
+
+**Income:** The gang earns 2D6x10 credits from this Territory when collecting income.
+
+**Special:** While a gang controls this Territory, during step 6 of the pre-battle sequence, D3+1 of their fighters gain the infiltrate skill for the duration of the battle.
+
+Thermal Abyss - Underhells[​](#thermal-abyss-underhells "Direct link to Thermal Abyss - Underhells")
+------------------------------------------------------------------------
+
+_Within the heart of the Underhells, the remnants of the thermal heat sink that used to power the hive still sputters away, allowing those who shelter there a chance to rest and salvage equipment from the abandoned machinery before delving deeper._
+
+#### Territory Boon[​](#territory-boon-9 "Direct link to Territory Boon")
+This Territory grants the following Boons: 
+
+**Income:** The gang earns 3D6x10 credits from this Territory when collecting income.
