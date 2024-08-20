@@ -1,13 +1,23 @@
 # Spyre Hunting Party
+
+:::note Why Play A Spyre Hunter Party Gang?
+
+Spyrers are hunters without peer, n,erciless killers who stalk their prey before bringing thern down. They are noble scions of House Heln1awr, sent out into the deptl1s of Hive Secundus in order to prove the1nselves wortl1y of taking up positions of authority in the ln1perial House's don1ain, and as such they are very differenl to the norrnal gangs you will corne up against. When it conmes to playing a Spyre Hunting Party gang in canmaigns, every Spyre Hunter is a skilled individual equipped with an advanced hunting rig that has the potential to outshine anything used by the other denizens of the underhive. However, despite this potential they start out as a group of three or four fighters who will be constantly outnumbered and vulnerable to being overwhelmed. Caring little for the wealth sought by most gangs, Spyrers only care about increasing their kill count and so each battle the Spyrer player needs to focus on isolating enemy fighters and taking them down. Spyre Hunters excel in one-on-one encounters and hit and run tactics, but hey can be taken down by a combined assault or careless positioning. So if you enjoy stalking your prey and playing for different priorities than your opponents, all the while running a small elite gang which must rely upon cunning tactics to triumph then give the Spyre Hunting Party a try.  
+
+:::
+
 Gang Composition[​](#gang-composition "Direct link to Gang Composition")
 ------------------------------------------------------------------------
 
 A Spyre Hunting Party is created using the standard rules for gang creation (see the Necromunda Core Rulebook) with the following exceptions:
 
+*   A Spyre Hunting Party gang ignores the usual restriction on at least half of the models needing t have the Gang Fighter (X) special rule. 
+*   After founding the gang any unspent credits are discarded, they do not go into the gang"s Stash. 
 
-
-Special Rules[​](#special-rules "Direct link to Special Rules")
+Aliances[​](#aliances "Direct link to Aliances")
 ---------------------------------------------------------------
+
+A Spyre Hunting Party gang can never form an alliance.
 
 Follow normal rules as other gangs with the following exceptions:
 
