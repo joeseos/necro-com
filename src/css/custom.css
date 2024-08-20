@@ -28,3 +28,53 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* Card CSS */
+.card-table {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #f9f9f9;
+  margin-bottom: 20px;
+}
+
+.card-table th,
+.card-table td {
+  padding: 8px;
+  text-align: center;
+}
+
+.card-table th {
+  background-color: #ed6f1b;
+  color: white;
+}
+
+.card-table td {
+  background-color: #ffffff;
+}
+
+.card-header {
+  font-weight: bold;
+  font-size: 1.25rem;
+  margin-bottom: 12px;
+}
+
+.card-section {
+  margin-bottom: 8px;
+}
+
+/* Dark mode adjustments */
+[data-theme='dark'] .card-table {
+  border-color: #333;
+  background-color: #2c2c2c;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+[data-theme='dark'] .card-table th {
+  background-color: #21af90;
+}
+
+[data-theme='dark'] .card-table td {
+  background-color: #3c3c3c;
+}
