@@ -30,25 +30,22 @@
 }
 
 .fighter-card {
-  width: 650px;
+  width: 800px; /* Increased from 650px to 800px */
   background-color: #f0f0f0;
   border-radius: 10px;
   font-family: Arial, sans-serif;
   overflow: hidden;
   box-shadow: 0 2px 5px rgba(0,0,0,0.2);
 }
-
 .card-header {
   background-color: #333;
   padding: 15px 25px;
 }
-
 .header-container {
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
-
 .fighter-type {
   margin: 0;
   font-size: 24px;
@@ -56,14 +53,13 @@
   text-transform: uppercase;
   color: #f0f0f0;
 }
-
 .credits {
   background-color: white;
   color: black;
   border-radius: 50%;
   padding: 10px;
   font-weight: bold;
-  font-size: 24px;
+  font-size: 22px;
   height: 70px;
   width: 70px;
   display: flex;
@@ -72,58 +68,48 @@
   align-items: center;
   text-align: center;
 }
-
 .credits span {
-  font-size: 10px;
+  font-size: 14px;
   display: block;
 }
-
 .card-body {
   padding: 25px;
   background-color: #f0f0f0;
   color: #333;
 }
-
 .stats-table {
   width: 100%;
   border-collapse: collapse;
   margin-bottom: 15px;
   background-color: #f0f0f0;
 }
-
 .stats-table th, .stats-table td {
   padding: 5px;
   text-align: center;
   font-size: 18px;
   border: none;
 }
-
 .stats-table th {
   border-bottom: 1px solid #ccc;
 }
-
 .stats-table th.physical-stat,
 .stats-table td.physical-stat {
   background-color: #f0f0f0;
   color: #333;
 }
-
 .stats-table th.mental-stat,
 .stats-table td.mental-stat {
   background-color: #e0e0e0;
   color: #333;
 }
-
 .stats-table th:nth-child(9),
 .stats-table td:nth-child(9) {
   border-left: 2px solid #999;
 }
-
 .info p {
   margin: 5px 0;
   font-size: 18px;
 }
-
 .info strong {
   font-weight: bold;
 }
