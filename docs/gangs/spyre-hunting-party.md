@@ -30,34 +30,36 @@ Fighters[​](#fighters "Direct link to Fighters")
 
 <div class="fighter-card">
   <div class="card-header">
-    <h2 class="fighter-type">GANG QUEEN (LEADER)</h2>
-    <div class="credits">125 <span>CREDITS</span></div>
+    <div class="header-container">
+      <h2 class="fighter-type">GANG QUEEN (LEADER)</h2>
+      <div class="credits">125 <span>CREDITS</span></div>
+    </div>
   </div>
   <div class="card-body">
     <table class="stats-table">
       <tr>
-        <th>M</th>
-        <th>WS</th>
-        <th>BS</th>
-        <th>S</th>
-        <th>T</th>
-        <th>W</th>
-        <th>I</th>
-        <th>A</th>
+        <th class="physical-stat">M</th>
+        <th class="physical-stat">WS</th>
+        <th class="physical-stat">BS</th>
+        <th class="physical-stat">S</th>
+        <th class="physical-stat">T</th>
+        <th class="physical-stat">W</th>
+        <th class="physical-stat">I</th>
+        <th class="physical-stat">A</th>
         <th class="mental-stat">Ld</th>
         <th class="mental-stat">Cl</th>
         <th class="mental-stat">Wil</th>
         <th class="mental-stat">Int</th>
       </tr>
       <tr>
-        <td>5"</td>
-        <td>3+</td>
-        <td>3+</td>
-        <td>3</td>
-        <td>3</td>
-        <td>2</td>
-        <td>2+</td>
-        <td>3</td>
+        <td class="physical-stat">5"</td>
+        <td class="physical-stat">3+</td>
+        <td class="physical-stat">3+</td>
+        <td class="physical-stat">3</td>
+        <td class="physical-stat">3</td>
+        <td class="physical-stat">2</td>
+        <td class="physical-stat">2+</td>
+        <td class="physical-stat">3</td>
         <td class="mental-stat">5+</td>
         <td class="mental-stat">5+</td>
         <td class="mental-stat">6+</td>
