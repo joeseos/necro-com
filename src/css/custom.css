@@ -31,7 +31,7 @@
 
 /* Card CSS */
 .fighter-card {
-  width: 550px;
+  width: 600px;
   background-color: #f0f0f0;
   border-radius: 10px;
   font-family: Arial, sans-serif;
@@ -52,7 +52,7 @@
 
 .fighter-type {
   margin: 0;
-  font-size: 20px;
+  font-size: 22px;
   font-weight: bold;
   text-transform: uppercase;
   color: #f0f0f0;
@@ -64,9 +64,9 @@
   border-radius: 50%;
   padding: 10px;
   font-weight: bold;
-  font-size: 18px;
-  height: 50px;
-  width: 50px;
+  font-size: 20px;
+  height: 60px;
+  width: 60px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -75,7 +75,7 @@
 }
 
 .credits span {
-  font-size: 10px;
+  font-size: 12px;
   display: block;
 }
 
