@@ -90,6 +90,16 @@ const config = {
             ],
           },
           {
+            label: 'Gangs',
+            position: 'left',
+            items: [
+              {
+                label: 'Gang List',
+                to: '/docs/category/gangs', // Link to Gang List page
+              },
+            ],
+          },
+          {
             label: 'Campaigns',
             position: 'left',
             items: [
