@@ -69,7 +69,7 @@ Fighters[​](#fighters "Direct link to Fighters")
     <div class="info">
       <p><strong>Skills:</strong> 1 Primary (custom).</p>
       <p><strong>Restrictions:</strong> None.</p>
-      <p><strong>Special Rules:</strong> Gang Leader, Spyre Hunter, Experienced Hunter</p>
+      <p><strong>Special Rules:</strong> Gang Leader, Spyre Hunter, Experienced Hunter.</p>
     </div>
   </div>
 </div>
