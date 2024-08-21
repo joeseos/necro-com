@@ -74,8 +74,6 @@ Fighters[​](#fighters "Direct link to Fighters")
   </div>
 </div>
 
-125 credits
-
 ### Gang Queen (Leader)[​](#gang-queen-leader "Direct link to Gang Queen (Leader)")
 
 
