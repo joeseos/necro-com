@@ -31,7 +31,7 @@ Fighters[​](#fighters "Direct link to Fighters")
 <div class="fighter-card">
   <div class="card-header">
     <div class="header-container">
-      <h2 class="fighter-type">GANG QUEEN (LEADER)</h2>
+      <h2 class="fighter-type">SPYRE HUNT MASTER (LEADER)</h2>
       <div class="credits">125 <span>CREDITS</span></div>
     </div>
   </div>
@@ -52,18 +52,18 @@ Fighters[​](#fighters "Direct link to Fighters")
         <th class="mental-stat">Int</th>
       </tr>
       <tr>
-        <td class="physical-stat">5"</td>
-        <td class="physical-stat">3+</td>
-        <td class="physical-stat">3+</td>
-        <td class="physical-stat">3</td>
-        <td class="physical-stat">3</td>
-        <td class="physical-stat">2</td>
+        <td class="physical-stat">6"</td>
         <td class="physical-stat">2+</td>
+        <td class="physical-stat">3+</td>
         <td class="physical-stat">3</td>
-        <td class="mental-stat">5+</td>
+        <td class="physical-stat">3</td>
+        <td class="physical-stat">3</td>
+        <td class="physical-stat">3+</td>
+        <td class="physical-stat">3</td>
+        <td class="mental-stat">7+</td>
         <td class="mental-stat">5+</td>
         <td class="mental-stat">6+</td>
-        <td class="mental-stat">7+</td>
+        <td class="mental-stat">6+</td>
       </tr>
     </table>
     <div class="info">
