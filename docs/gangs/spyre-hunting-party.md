@@ -19,11 +19,15 @@ Aliances[​](#aliances "Direct link to Aliances")
 
 A Spyre Hunting Party gang can never form an alliance.
 
-Follow normal rules as other gangs with the following exceptions:
+Hired Guns[​](#hired-guns "Direct link to Hired Guns")
+---------------------------------------------------------------
 
-*   [Chem-alchemy Elixir](https://necrovox.org/docs/gangs/gang-lists/house-escher/chem-alchemy): A gang visiting the Trading post during the post-battle sequence can buy any number of doses (Common).
-*   Fighters promoted to Champion can only become a Matriarch, not a Death-Maiden.
-*   Death-Maidens do not have Group Activation (1).
+Hired Guns will not sign on to work with $pyre Huntir Party gangs unless their rules explicitly state they will.
+
+Hangers-Ons[​](#hangers-ons "Direct link to Hangers-Ons")
+---------------------------------------------------------------
+
+Hangers-ons will not sign on to work with Spyre Hunting Party gangs unless their rules explicitly state they will.
 
 Fighters[​](#fighters "Direct link to Fighters")
 ------------------------------------------------
