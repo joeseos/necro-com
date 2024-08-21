@@ -29,6 +29,25 @@ Hangers-Ons[​](#hangers-ons "Direct link to Hangers-Ons")
 
 Hangers-ons will not sign on to work with Spyre Hunting Party gangs unless their rules explicitly state they will.
 
+Campaign Play[​](#campaign-play "Direct link to Campaign Play")
+---------------------------------------------------------------
+
+During a campaign, Spyre Hunting Party gangs function differently to other gangs in severnl ways as described below.
+
+### Income, Equipment And Reqruitment
+
+A Spire Hunting Party gang only gains credits or equipment during Downtime. Any credits or equipment gained at any other time that would be added to their Stash are instead dlscarded.
+
+In addition, the only way a Spyre Hunting Party gang may recruit additional righters is through the Terror Level (see page 26).
+
+**Downtime:** During the Fresh Recruitment step of Downtime, Spyre Hunting Party gangs gain credits the same as all other gangs. These credits may only be used to perform the following actions: 
+
+*   Exchange weapons and Wargear on any of their fighters.
+-   Any weapon augmentations are lost if a weapon is swapped out. 
+*   Purchase additional Wargear from their Equipment options.
+*   Remove all Suit Glitches from a fighter for 100 credits.
+*   Hire one or more Caryatid Primes.
+
 Fighters[​](#fighters "Direct link to Fighters")
 ------------------------------------------------
 
