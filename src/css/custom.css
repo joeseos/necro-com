@@ -29,9 +29,8 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-/* Card CSS */
 .fighter-card {
-  width: 600px;
+  width: 650px;
   background-color: #f0f0f0;
   border-radius: 10px;
   font-family: Arial, sans-serif;
@@ -41,7 +40,7 @@
 
 .card-header {
   background-color: #333;
-  padding: 10px 20px;
+  padding: 15px 25px;
 }
 
 .header-container {
@@ -52,7 +51,7 @@
 
 .fighter-type {
   margin: 0;
-  font-size: 22px;
+  font-size: 24px;
   font-weight: bold;
   text-transform: uppercase;
   color: #f0f0f0;
@@ -64,9 +63,9 @@
   border-radius: 50%;
   padding: 10px;
   font-weight: bold;
-  font-size: 20px;
-  height: 60px;
-  width: 60px;
+  font-size: 22px;
+  height: 70px;
+  width: 70px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -75,12 +74,12 @@
 }
 
 .credits span {
-  font-size: 12px;
+  font-size: 14px;
   display: block;
 }
 
 .card-body {
-  padding: 20px;
+  padding: 25px;
   background-color: #f0f0f0;
   color: #333;
 }
@@ -95,7 +94,7 @@
 .stats-table th, .stats-table td {
   padding: 5px;
   text-align: center;
-  font-size: 16px;
+  font-size: 18px;
   border: none;
 }
 
@@ -122,7 +121,7 @@
 
 .info p {
   margin: 5px 0;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .info strong {
