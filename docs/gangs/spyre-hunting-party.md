@@ -28,6 +28,50 @@ Follow normal rules as other gangs with the following exceptions:
 Fighters[​](#fighters "Direct link to Fighters")
 ------------------------------------------------
 
+<div class="fighter-card">
+  <div class="card-header">
+    <h2 class="fighter-type">GANG QUEEN (LEADER)</h2>
+    <div class="credits">125 <span>CREDITS</span></div>
+  </div>
+  <div class="card-body">
+    <table class="stats-table">
+      <tr>
+        <th>M</th>
+        <th>WS</th>
+        <th>BS</th>
+        <th>S</th>
+        <th>T</th>
+        <th>W</th>
+        <th>I</th>
+        <th>A</th>
+        <th class="mental-stat">Ld</th>
+        <th class="mental-stat">Cl</th>
+        <th class="mental-stat">Wil</th>
+        <th class="mental-stat">Int</th>
+      </tr>
+      <tr>
+        <td>5"</td>
+        <td>3+</td>
+        <td>3+</td>
+        <td>3</td>
+        <td>3</td>
+        <td>2</td>
+        <td>2+</td>
+        <td>3</td>
+        <td class="mental-stat">5+</td>
+        <td class="mental-stat">5+</td>
+        <td class="mental-stat">6+</td>
+        <td class="mental-stat">7+</td>
+      </tr>
+    </table>
+    <div class="info">
+      <p><strong>Skills:</strong> 1 Primary (custom).</p>
+      <p><strong>Restrictions:</strong> None.</p>
+      <p><strong>Special Rules:</strong> Gang Leader, Gang Hierarchy (Leader), Tools of the Trade, Group Activation (2).</p>
+    </div>
+  </div>
+</div>
+
 125 credits
 
 ### Gang Queen (Leader)[​](#gang-queen-leader "Direct link to Gang Queen (Leader)")
