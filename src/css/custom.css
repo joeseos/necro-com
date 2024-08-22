@@ -93,6 +93,7 @@
 .credits {
   background-color: white;
   color: black;
+  border: 5px solid #333;
   border-radius: 50%;
   padding: 10px;
   font-weight: bold;
