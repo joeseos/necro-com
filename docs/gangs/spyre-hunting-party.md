@@ -40,13 +40,27 @@ A Spire Hunting Party gang only gains credits or equipment during Downtime. Any 
 
 In addition, the only way a Spyre Hunting Party gang may recruit additional righters is through the Terror Level (see page 26).
 
-**Downtime:** During the Fresh Recruitment step of Downtime, Spyre Hunting Party gangs gain credits the same as all other gangs. These credits may only be used to perform the following actions: 
+**Downtime** During the Fresh Recruitment step of Downtime, Spyre Hunting Party gangs gain credits the same as all other gangs. These credits may only be used to perform the following actions: 
 
 *   Exchange weapons and Wargear on any of their fighters.
 -   Any weapon augmentations are lost if a weapon is swapped out. 
 *   Purchase additional Wargear from their Equipment options.
 *   Remove all Suit Glitches from a fighter for 100 credits.
 *   Hire one or more Caryatid Primes.
+
+Any unspent credits are discarded at the end of Downtime.
+
+**Captives** 
+
+Spyrers have no interest in selling Captives to Guilders or claiming bounties - as far as they are concerned, the only use for a Captive is as bait to lure more prey in. Spyre Hunting Parties cannot trade, sell or dispose of captives. 
+
+**Territories** 
+
+Spyre Hunting Party gangs contest and control Territories in the same manner as other gangs. However, as they have no interest in working a Territory and extorting creditS or services from the local populace there are some key differences. 
+
+**Boons** 
+
+The only Territory a Spyre Hunting Party gang gains Boons from is the Spyrer Base Camp, all other Territories grant no Boons to a Spyre Hunting Party gang. 
 
 Fighters[​](#fighters "Direct link to Fighters")
 ------------------------------------------------
