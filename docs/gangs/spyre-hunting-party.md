@@ -69,6 +69,10 @@ Whenever a Spyre Hunting Party gang wins a battle as part of a campaign, they pe
 
 *   When a gang performs a Terror Purge, every fighter in the gang earns 2 XP.
 
+### Base Of Operation
+
+In addition to any other Territory a Spyre Hunting Party gang controls, they always have a Spyrer Base Camp Territory which they can never lose.
+
 Fighters[​](#fighters "Direct link to Fighters")
 ------------------------------------------------
 
