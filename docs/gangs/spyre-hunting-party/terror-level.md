@@ -28,5 +28,5 @@ The Boons granted by a gang's Terror Level are listed in the table below. As a g
 |**1-4**  |No boon.                                                                                                        |
 |**5-9**  |The gang may immediately equip a Spyrer with a Caryatid Prime for free                                          |
 |**10-14**|The gang may immediately hire a Spyrer with a total cost including equipment of 300 credits or less for free.   |
-|**15-19**|One additional Spyrer may perform post-battle actions while in Convalescence during every post-battle se(luence.|
+|**15-19**|One additional Spyrer may perform post-battle actions while in Convalescence during every post-battle sequence.|
 |**20+**  |The gang may immediately hire a Spyrer with a total cost including equipment of 400 credits or less for free.   |
