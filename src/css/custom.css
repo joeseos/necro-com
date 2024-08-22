@@ -36,7 +36,7 @@
   font-family: Arial, sans-serif;
   overflow: hidden;
   box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-  padding: 20px 20px 20px 20px; /* Add padding to the top, right, bottom, and left */
+  padding: 20px 20px 10px 20px; /* Add padding to the top, right, bottom, and left */
 }
 
 .card-header {
