@@ -110,6 +110,17 @@ All Spyre Hunters can perform the Suit Evolution post-battle action:
 
 To increase power to the hunting rig, roll a D6 on the Power Boost table, apply the result to the Spyrer and increase their credit cost by the amount shown:
 
+**Power Boost Table**
+|D6       |Result                                                                                                                                                                                     |Cost Increase|
+|:------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------|
+|**1**  |**Combat Neuroware:** The hunting rig links up additional neuroware which sharpens the Spyrer's fighting skills. Increase the Spyrer's WS or BS characteristic by 1 to a maximum of 2+.      |+20          |
+|**5**  |**Heiehtened Reactions:** The hunting rig's reflexes sharpen significantly so that they react with incredible speed. Increase the Spyrer's Initiative characteristic by 1 to a maximum of 2+.|+10          |
+|**3**  |**Improved Motive Power:** The hunting rigs power output for movement is boosted, increasing its speed. The Spyrer's Movement characteristic is increased by 1 to a maximum of 8".           |+10          |
+|**4**  |**Thickened Armour:** The hunung rig's armour thickens and hardens, providing greater protection to the Spyrer. Increase the Spyrer's armour save by 1 to a maximum of 2+.                   |+15          |
+|**5-6**|**Hunting rig Augmentation:** The hunting rig improves the power supply to one or its systems and brings additional functions online. Pick one weapon or piece of Wargear carried by the Spyrer and increase its Augmentation level by one. If the new Augmentation would Increase a characteristic beyond its maximum, increase the Augmentation level by an additional one.|+20          |
+
+If a roll on the Power Boost table would increase e a characteristic beyond its maximum, treat the result as Hunting Rig Augmentation instead. 
+
 Fighters[​](#fighters "Direct link to Fighters")
 ------------------------------------------------
 
