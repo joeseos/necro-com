@@ -81,6 +81,35 @@ _A stronghold from which the Spyrers can operate, a Spyrer Base Camp is heavily 
 
 **Recovery Systems:** During the Wrap-up of each battle the Spyre Hunting Party gang takes part in, one Spyrer may perform post-battle actions even if they are in Convalescence. A Spyre Hunting Party gang may never lose control of their Spyrer Base Camp Territory.
 
+The Spyrer[​](#the-spyrer "Direct link to The Spyrer")
+------------------------------------------------
+
+A Spyrer is a noble of the Imperial House equipped with the most advanced technology that can be found on Necromunda, making them capable of taking on a Malstrain Genestealer and winning. As such, there are a number of special rules that apply to a Spyrer. 
+
+### Reflex Enhancers
+
+Dyring the Ready Gang step of the Priority Phase, all Spyrers gain one extra Ready marker; if an effect would prevent them from gettining a Ready marker, they gain one fewer Ready markers. Each time a Spyrer activates, they only remove one Ready marker - this means they will be able to activate twice each round. any effect that removes a Ready markers only removes one Ready marker from a Spyrer. 
+
+### Master Of The Hunt
+
+As Spyrers have a suite of speclal rules granted to them by their hunting rigs:
+
+*   When a Spyrer is hit by a ranged attack, they are only placed Prone and Pinned if the attack damages them (e.g., they lose a Wound or suffer a Flesh Wound). 
+*   A Spyrer may never be Captured for any reason, any time they are they instead are considered to have suffered Superficial Damage (see page 29).
+*   Spyrers do not suffer side effects from chems and can never become addicted to them.
+*   A Spyrer never needs to check if they become Broken as a result of a friendty model taking being taken Out of Action.
+*   Spyre Hunting Party gangs take Bottle checks on a D3 Instead of on a D6. 
+
+### Kill Count
+
+Each Spyre hunting rig records all that happens to the Spyrer, verifying their kills and unlocking functions of the hunting rig and its weaponry as their kill count ticks up, making them an ever more dangerous foe. In addition to gaining XP, each time a Spyrer takes an enemy fighter Out of Action, increase the Spyrer's Kill Count by one.
+
+All Spyre Hunters can perform the Suit Evolution post-battle action:
+
+**Suit Evolutlon:** If a Spyrer's Kill Count is at least four, reduce their Kill Count by four, and either clear all Spyrer Hunting Rig Glitches (resetting their Glitch Count to zero and removing all negatives caused by the glitches), or increase power to their hunting rig as follows. If the Spyrer's Kill Count is still at least four, they may perform this action again.
+
+To increase power to the hunting rig, roll a D6 on the Power Boost table, apply the result to the Spyrer and increase their credit cost by the amount shown:
+
 Fighters[​](#fighters "Direct link to Fighters")
 ------------------------------------------------
 
