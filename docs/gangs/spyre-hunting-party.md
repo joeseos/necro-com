@@ -50,7 +50,7 @@ In addition, the only way a Spyre Hunting Party gang may recruit additional righ
 
 Any unspent credits are discarded at the end of Downtime.
 
-**Captives** 
+**Captives**
 
 Spyrers have no interest in selling Captives to Guilders or claiming bounties - as far as they are concerned, the only use for a Captive is as bait to lure more prey in. Spyre Hunting Parties cannot trade, sell or dispose of captives. 
 
