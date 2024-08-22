@@ -63,6 +63,12 @@ Spyre Hunting Party gangs contest and control Territories in the same manner as 
 
 The only Territory a Spyre Hunting Party gang gains Boons from is the Spyrer Base Camp, all other Territories grant no Boons to a Spyre Hunting Party gang. 
 
+### Terror Purge
+
+Whenever a Spyre Hunting Party gang wins a battle as part of a campaign, they perform a Terror Purge during the Wrap up step of the post-battle sequence. 
+
+*   When a gang performs a Terror Purge, every fighter in the gang earns 2 XP.
+
 Fighters[​](#fighters "Direct link to Fighters")
 ------------------------------------------------
 
