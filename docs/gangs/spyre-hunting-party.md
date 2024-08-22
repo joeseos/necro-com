@@ -73,6 +73,14 @@ Whenever a Spyre Hunting Party gang wins a battle as part of a campaign, they pe
 
 In addition to any other Territory a Spyre Hunting Party gang controls, they always have a Spyrer Base Camp Territory which they can never lose.
 
+### Unique Territory - Spyrer Base Camp
+
+_A stronghold from which the Spyrers can operate, a Spyrer Base Camp is heavily fortified and highly mobile, moving with the Spyre Hunting Party gang so they always have a safe place to recover from battle and hone their skills._ 
+
+### Territory Boon
+
+**Recovery Systems:** During the Wrap-up of each battle the Spyre Hunting Party gang takes part in, one Spyrer may perform post-battle actions even if they are in Convalescence. A Spyre Hunting Party gang may never lose control of their Spyrer Base Camp Territory.
+
 Fighters[​](#fighters "Direct link to Fighters")
 ------------------------------------------------
 
