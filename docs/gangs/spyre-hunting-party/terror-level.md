@@ -21,3 +21,12 @@ Benefits Of Terror Level[​](#Benefits-of-terror-level "Direct link to Benefits
 ------------------------------------------------------------------------
 
 The Boons granted by a gang's Terror Level are listed in the table below. As a gang's Terror Level increases, so does the number of Boons it can claim. However, each Boon can only be claimed once. 
+
+**Terror**
+|Level    |Boon                                                                                                            |
+|:--------|:---------------------------------------------------------------------------------------------------------------|
+|**1-4**  |No boon.                                                                                                        |
+|**5-9**  |The gang may immediately equip a Spyrer with a Caryatid Prime for free                                          |
+|**10-14**|The gang may immediately hire a Spyrer with a total cost including equipment of 300 credits or less for free.   |
+|**15-19**|One additional Spyrer may perform post-battle actions while in Convalescence during every post-battle se(luence.|
+|**20+**  |The gang may immediately hire a Spyrer with a total cost including equipment of 400 credits or less for free.   |
