@@ -54,7 +54,8 @@ Any unspent credits are discarded at the end of Downtime.
 
 Spyrers have no interest in selling Captives to Guilders or claiming bounties - as far as they are concerned, the only use for a Captive is as bait to lure more prey in. Spyre Hunting Parties cannot trade, sell or dispose of captives. 
 
-**Territories** 
+Territories[​](#territories "Direct link to Territories")
+---------------------------------------------------------------
 
 Spyre Hunting Party gangs contest and control Territories in the same manner as other gangs. However, as they have no interest in working a Territory and extorting creditS or services from the local populace there are some key differences. 
 
