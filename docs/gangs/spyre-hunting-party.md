@@ -50,7 +50,7 @@ In addition, the only way a Spyre Hunting Party gang may recruit additional righ
 
 Any unspent credits are discarded at the end of Downtime.
 
-**Captives**
+### Captives
 
 Spyrers have no interest in selling Captives to Guilders or claiming bounties - as far as they are concerned, the only use for a Captive is as bait to lure more prey in. Spyre Hunting Parties cannot trade, sell or dispose of captives. 
 
@@ -59,7 +59,7 @@ Territories[​](#territories "Direct link to Territories")
 
 Spyre Hunting Party gangs contest and control Territories in the same manner as other gangs. However, as they have no interest in working a Territory and extorting creditS or services from the local populace there are some key differences. 
 
-**Boons** 
+### Boons
 
 The only Territory a Spyre Hunting Party gang gains Boons from is the Spyrer Base Camp, all other Territories grant no Boons to a Spyre Hunting Party gang. 
 
