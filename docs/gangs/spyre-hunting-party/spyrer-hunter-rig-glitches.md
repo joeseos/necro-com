@@ -7,11 +7,11 @@ If, during the Purchase Advancements step of the post-battle sequence, a Spyrer'
 Spyre Hunting Rig Glitches Table[​](#spyre-hunting-rig-glitches-table "Direct link to Increasing Spyre Hunting Rig Glitches Table")
 ------------------------------------------------------------------------
 
-### Terror Level Increase Table:
-|D66      |Hunting Rig Glitch                                                    |
-|:--------|:---------------------------------------------------------------------|
-|**11**   |**Lesson Learned:** The Spyrer goes into Convalesance and gains D3 XP.|
-|**12-26**|                                                                      |
+### Spyrer Hunting Rig Glitch Table:
+|D66      |Hunting Rig Glitch                                                                                                                                                                                                                                   |
+|:--------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|**11**   |**Lesson Learned:** The Spyrer goes into Convalesance and gains D3 XP.                                                                                                                                                                               |
+|**12-26**|**Superficial Damage:** Despite being incapacitated, the Spyrer's hunting rig successfully maintains all systems and preserves the the fighter inside. The Spyrer misses the rest of the battle, but recovers in time to perfomn post-battle actions.|
 |**31-36**|                                                                      |
 |**41**   |                                                                      |
 |**42**   |                                                                      |
