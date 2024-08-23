@@ -12,8 +12,8 @@ Spyre Hunting Rig Glitches Table[​](#spyre-hunting-rig-glitches-table "Direct 
 |:--------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |**11**   |**Lesson Learned:** The Spyrer goes into Convalesance and gains D3 XP.                                                                                                                                                                               |
 |**12-26**|**Superficial Damage:** Despite being incapacitated, the Spyrer's hunting rig successfully maintains all systems and preserves the the fighter inside. The Spyrer misses the rest of the battle, but recovers in time to perfomn post-battle actions.|
-|**31-36**|                                                                      |
-|**41**   |                                                                      |
+|**31-36**|**Convalesance:** The Spyrer goes into Convalesance.                                                                                                                                                                                                 |
+|**41**   |**Humbled:** The Spyrer goes into Convalesance, increasing their Glitch count by one and reduces their Leadership characteristic by 1.                                                                                                               |
 |**42**   |                                                                      |
 |**43**   |                                                                      |
 |**44**   |                                                                      |
