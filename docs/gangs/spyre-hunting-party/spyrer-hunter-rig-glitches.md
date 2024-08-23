@@ -21,11 +21,11 @@ Spyre Hunting Rig Glitches Table[​](#spyre-hunting-rig-glitches-table "Direct 
 |**46**   |**Gyroscopic Destabilisation:** The Spyrer goes into Convalesance, increasing their Glitch count by one and reduces their Initiative characteristic by 1.                                                                                                                              |
 |**51**   |**Jammed Articulatlon:** The Spyrer goes into Convalesance, increasing their Glitch count by one and a randomy selected weapond suffers -1 to hit.                                                                                                                                     |
 |**52**   |**Disrupted Ammo cables:** The Spyrer goes into Convalescence, increases their Glitch Count by one and a random weapon without the Melee trait reduces its Ammo characteristic by 1, to a mmimum of 6+. If the Spyrer has no eligible weapons, treat this result as Cracked Power Cell.|
-|**53**   |                                                                      |
-|**54**   |                                                                      |
-|**55**   |                                                                      |
-|**56**   |                                                                      |
-|**61**   |                                                                      |
+|**53**   |**System Downgrade:** The Spyrer goes into Convalescence, increases their Glitch Count by one and a random system reduces its Augmentation skill level by one. If the Spyrer has no systems with Augmentation, treat this result as Cracked Power Cell.                                |
+|**54**   |**Cracked Power Cell:** The Spyrer increases their Glitch Count by one and at the end of each battle this Spyrer participates in, roll a D6. On a 1, the Spyrer goes into Convalescence.                                                                                               |
+|**55**   |**Reduced Power Distribution:** The Spyrer goes into Convalescence, increases their Glitch Count by one and reduces a randomly selected weapon's AP by 1.                                                                                                                              |
+|**56**   |**Seized Locomotors:** The Spyrer goes into Convalescence, increases their Glitch Count by one and reduces their Movement characteristic by 1.                                                                                                                                         |
+|**61**   |**Targeting Uplink Disruption:** The Spyrer goes into Convalescence, increases their Glitch Count by one and reduces their BS characteristic by 1.                                                                                                                                     |
 |**62**   |                                                                      |
 |**63**   |                                                                      |
 |**64**   |                                                                      |
