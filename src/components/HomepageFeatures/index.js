@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Rules',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/rules_icon.svg').default,
     description: (
       <>
         Rules based on RAW and adjusted according to community consensus, together with house rule suggestions and other useful input.
