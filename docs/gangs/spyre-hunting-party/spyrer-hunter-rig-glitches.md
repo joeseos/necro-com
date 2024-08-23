@@ -8,8 +8,26 @@ Spyre Hunting Rig Glitches Table[​](#spyre-hunting-rig-glitches-table "Direct 
 ------------------------------------------------------------------------
 
 ### Terror Level Increase Table:
-|Event                                                                                                                                                                        |Terror Level Increase|
-|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------|
-|**Censure:** At least four enemy fighters or vehicles were taken Out of Action or Wrecked during the course of the battle as a direct result of an action taken by a Spyrer. |+1                   |
-|**Cull the Leadership:** An enemy Leader or Champion was taken Out or Action as a direct result of an action taken by a Spyrer.                                              |+1                   |
-|**Lightning Raid:** One or more enemy fighters or vehicles was taken Out of Action or Wrecked as a direct result of an action taken by a Spyrer during the first round.      |+1                   |
+|D66      |Hunting Rig Glitch                                                    |
+|:--------|:---------------------------------------------------------------------|
+|**11**   |**Lesson Learned:** The Spyrer goes into Convalesance and gains D3 XP.|
+|**12-26**|                                                                      |
+|**31-36**|                                                                      |
+|**41**   |                                                                      |
+|**42**   |                                                                      |
+|**43**   |                                                                      |
+|**44**   |                                                                      |
+|**45**   |                                                                      |
+|**46**   |                                                                      |
+|**51**   |                                                                      |
+|**52**   |                                                                      |
+|**53**   |                                                                      |
+|**54**   |                                                                      |
+|**55**   |                                                                      |
+|**56**   |                                                                      |
+|**61**   |                                                                      |
+|**62**   |                                                                      |
+|**63**   |                                                                      |
+|**64**   |                                                                      |
+|**65**   |                                                                      |
+|**66**   |                                                                      |
