@@ -22,12 +22,11 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'No Lore Or Artwork',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        This site does not contain lore or artwork from Games Workshop. Get the books.
       </>
     ),
   },
