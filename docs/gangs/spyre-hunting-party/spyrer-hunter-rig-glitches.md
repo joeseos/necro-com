@@ -18,8 +18,8 @@ Spyre Hunting Rig Glitches Table[​](#spyre-hunting-rig-glitches-table "Direct 
 |**43**   |**Neural Feedback:** The Spyrer goes into Convalesance, increasing their Glitch count by one and reduces their Intelligence characteristic by 1.                                                                                                     |
 |**44**   |**Vox Ghosts** The Spyrer goes into Convalesance, increasing their Glitch count by one and reduces their Willpower characteristic by 1.                                                                                                              |
 |**45**   |**Weakened Polymers:** The Spyrer goes into Convalesance, increasing their Glitch count by one and reduces their armour save by 1.                                                                                                                   |
-|**46**   |                                                                      |
-|**51**   |                                                                      |
+|**46**   |**Gyroscopic Destabilisation:** The Spyrer goes into Convalesance, increasing their Glitch count by one and reduces their Initiative characteristic by 1.                                                                                            |
+|**51**   |**Jammed Articulatlon:** The Spyrer goes into Convalesance, increasing their Glitch count by one and a randomy selected weapond suffers -1 to hit.                                                                                                   |
 |**52**   |                                                                      |
 |**53**   |                                                                      |
 |**54**   |                                                                      |
