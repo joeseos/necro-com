@@ -4,7 +4,7 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Rules',
+    title: 'RULES',
     Svg: require('@site/static/img/rules_icon.svg').default,
     description: (
       <>
@@ -13,7 +13,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Mobile-Friendly',
+    title: 'MOBILE-FRIENDLY',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
@@ -22,7 +22,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'No Lore Or Artwork',
+    title: 'NO LORE OR ARTWORK',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
