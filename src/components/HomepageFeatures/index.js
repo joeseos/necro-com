@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Rules based on RAW and adjusted according to community consensus, together with house rules and other useful input.
+        Rules based on RAW and adjusted according to community consensus, together with house rule suggestions and other useful input.
       </>
     ),
   },
