@@ -46,4 +46,4 @@ The Underhells Campaign uses all of the standard rules for the pre- and post-bat
 Winning[​](#winning "Direct link to Winning")
 ---------------------------------------------
 
-Rather than a single winner, there are many Triumphs that a gang can achieve in an Underhells Campaign. Once the Survival phase ends, the Underhells Campaign is over. The Arbitrator then totals up each gang's total Exploration points earned, number of Malstrain Genestealers slain, final Reputation, and the number of battles fought by each gang, and then award Triumphs to players (see page 70).
+Rather than a single winner, there are many Triumphs that a gang can achieve in an Underhells Campaign. Once the Survival phase ends, the Underhells Campaign is over. The Arbitrator then totals up each gang's total Exploration points earned, number of Malstrain Genestealers slain, final Reputation, and the number of battles fought by each gang, and then award [Triumphs to players](/docs/campaigns/underhells-campaign/running-the-campaign.md#winning).
