@@ -41,7 +41,7 @@ The Underhells Campaign uses all of the standard rules for the pre- and post-bat
 *   No Territory is nominated as the Stake for battles.
 *   The Assign/Reassign Te rritory step of the post-battle sequence Is skipped.  
 *   Captives may not be sold to the Guilders.
-*   The Visit the Trading Post sub-step of the Update roster step of the post-battle sequence is affected by the Desolation level (see page 71). 
+*   The Visit the Trading Post sub-step of the Update roster step of the post-battle sequence is affected by the [Desolation](/docs/campaigns/underhells-campaign/madness-desolation-and-darkness#desolation) level. 
 
 Winning[​](#winning "Direct link to Winning")
 ---------------------------------------------
