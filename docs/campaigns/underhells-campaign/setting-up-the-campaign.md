@@ -30,8 +30,8 @@ Benefits Of The Archeo-Hunters [​](#benefits-of-the-archeo-hunters "Direct lin
 
 It is impossible for a gang to cross the Dust Wall without employing a Ferryman team to guide them. The following rules apply to all Archeo-hunter Allegiance Gangs: 
 
-*   Archeo-hunter Allegiance gangs gain a Ferryman team for the duration of the [Incursion and Delving phases](./docs/campaigns/underhells-campaign/running-the-campaign).
-*   This Allegiance changes how the gang is affected by the [Madness and Desolation](./docs/campaigns/underhells-campaign/madness-desolation-and-darkness) rules.
+*   Archeo-hunter Allegiance gangs gain a Ferryman team for the duration of the [Incursion and Delving phases](/docs/campaigns/underhells-campaign/running-the-campaign).
+*   This Allegiance changes how the gang is affected by the [Madness and Desolation](/docs/campaigns/underhells-campaign/madness-desolation-and-darkness) rules.
 
 Benefits Of The Malstrain [​](#benefits-of-the-malstrain "Direct link to Benefits Of The Malstrain")
 ---------------------------------------------------------------------------------------------
