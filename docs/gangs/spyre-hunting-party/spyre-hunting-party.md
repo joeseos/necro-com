@@ -180,3 +180,4 @@ Skill Access[​](#fskill-access "Direct link to Skill Access")
 |Yeld Spyre Hunter (Champion)    |Primary  |       |Secondary|Primary  |Secondary|           |       |Primary  |
 |Jakara Spyre Hunter (Champion)  |Secondary|Primary|Primary  |Primary  |Secondary|           |       |         |
 |Malcadon Spyre Hunter (Champion)|Secondary|       |Primary  |Primary  |Secondary|           |       |Primary  |
+|Caryatid Prime (Exotic Beast)   |Primary  |       |         |Secondary|         |           |       |         |
