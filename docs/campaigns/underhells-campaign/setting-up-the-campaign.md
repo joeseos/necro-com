@@ -40,7 +40,7 @@ Maistrain Allegiance gangs have eked out an existence within the Dust Wall and h
 
 *   Malstrain Allegiance gangs gain an additional 400 credits when being founded - this can only be spent on Crew, vehicles or fighters that come by defautt with Wargear that grants the Mounted condition (such as the Ash Waste Nomads Wy tari Stormcalier), or on Wargear that grants the Mounted condition. Any unspent credits from this allowance are lost after the gang és founded (note that credits may be spent from the gang's initial 1,000 credits on vehicles and Wargear that grants the Mounted condition as well). 
 *   At the start of each battle, before the first roll for Priority, Malstrain Allegiance gangs may apply either a +1 or -1 modifier to all rolls to generate Roaming Horrors for the duration of the battle.
-*   This Allegiance changes how the gang Is affected by the Madness and Desolation rules (see page 71). 
+*   This Allegiance changes how the gang Is affected by the [Madness and Desolation](/docs/campaigns/underhells-campaign/madness-desolation-and-darkness) rules. 
 
 :::info Balancing The Malstrain And Archeo-Hunters 
 
