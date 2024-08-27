@@ -61,30 +61,32 @@
 }
 
 .fighter-card {
-  width: 650px;
+  width: 100%;
+  max-width: 650px;
   background-color: #f0f0f0;
   border-radius: 10px;
   font-family: Arial, sans-serif;
   overflow: hidden;
   box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-  padding: 20px 20px 20px 20px; /* Add padding to the top, right, bottom, and left */
+  padding: 15px;
+  margin: 0 auto;
 }
 
 .card-header {
   background-color: #333;
-  padding: 10px 25px;
+  padding: 10px 15px;
 }
 
 .header-container {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  height: 50px;
+  flex-wrap: wrap;
 }
 
 .fighter-type {
   margin: 0;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: bold;
   text-transform: uppercase;
   color: #f0f0f0;
@@ -93,27 +95,28 @@
 .credits {
   background-color: white;
   color: black;
-  border: 5px solid #333;
+  border: 3px solid #333;
   border-radius: 50%;
-  padding: 10px;
+  padding: 5px;
   font-weight: bold;
-  font-size: 22px;
-  height: 80px;
-  width: 80px;
+  font-size: 18px;
+  height: 60px;
+  width: 60px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   text-align: center;
+  margin-top: 10px;
 }
 
 .credits span {
-  font-size: 10px;
+  font-size: 8px;
   display: block;
 }
 
 .card-body {
-  padding: 25px;
+  padding: 15px;
   background-color: #f0f0f0;
   color: #333;
 }
@@ -123,12 +126,13 @@
   border-collapse: collapse;
   margin-bottom: 15px;
   background-color: #f0f0f0;
+  font-size: 16px;
 }
 
 .stats-table th, .stats-table td {
   padding: 5px;
   text-align: center;
-  font-size: 18px;
+  font-size: 16px;
   border: none;
 }
 
@@ -136,28 +140,85 @@
   border-bottom: 1px solid #ccc;
 }
 
-.stats-table th.physical-stat,
-.stats-table td.physical-stat {
+.stats-table th.physical-stat, .stats-table td.physical-stat {
   background-color: #f0f0f0;
   color: #333;
 }
 
-.stats-table th.mental-stat,
-.stats-table td.mental-stat {
+.stats-table th.mental-stat, .stats-table td.mental-stat {
   background-color: #e0e0e0;
   color: #333;
 }
 
-.stats-table th:nth-child(9),
-.stats-table td:nth-child(9) {
+.stats-table th:nth-child(9), .stats-table td:nth-child(9) {
   border-left: 2px solid #999;
 }
 
 .info p {
   margin: 5px 0;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .info strong {
   font-weight: bold;
+}
+
+@media (max-width: 768px) {
+  .fighter-card {
+    padding: 10px;
+  }
+
+  .card-header {
+    padding: 8px 10px;
+  }
+
+  .fighter-type {
+    font-size: 18px;
+  }
+
+  .credits {
+    height: 50px;
+    width: 50px;
+    font-size: 16px;
+  }
+
+  .credits span {
+    font-size: 7px;
+  }
+
+  .card-body {
+    padding: 10px;
+  }
+
+  .stats-table, .stats-table th, .stats-table td {
+    font-size: 14px;
+  }
+
+  .info p {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 480px) {
+  .fighter-type {
+    font-size: 16px;
+  }
+
+  .credits {
+    height: 40px;
+    width: 40px;
+    font-size: 14px;
+  }
+
+  .credits span {
+    font-size: 6px;
+  }
+
+  .stats-table, .stats-table th, .stats-table td {
+    font-size: 12px;
+  }
+
+  .info p {
+    font-size: 12px;
+  }
 }
