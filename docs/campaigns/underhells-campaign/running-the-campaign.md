@@ -29,9 +29,9 @@ the Hive Secundus Genestealer Cult uprising. The dead zone between the Dust Wall
 
 The first part of the Underhells Campaign follows the gangs as they move through the dead zone within the Dust Wall towards the Secundan Abyss. During this phase, the following rules apply: 
 
-*   The Madness level is set to [Ghosts of the Dead](docs/campaigns/undehells-campaign/madness-desolation-and-darkness.md#ghost-of-the-dead). 
-*   The Desolation level is set to [Limited Trade](docs/campaigns/undehells-campaign/madness-desolation-and-darkness.md#limited-trade). 
-*   The Darkness level is set to [Heavy Skies](docs/campaigns/undehells-campaign/madness-desolation-and-darkness.md#heavy-skies). 
+*   The Madness level is set to [Ghosts of the Dead](docs/campaigns/undehells-campaign/madness-desolation-and-darkness#ghost-of-the-dead). 
+*   The Desolation level is set to [Limited Trade](docs/campaigns/undehells-campaign/madness-desolation-and-darkness#limited-trade). 
+*   The Darkness level is set to [Heavy Skies](docs/campaigns/undehells-campaign/madness-desolation-and-darkness#heavy-skies). 
 
 ### Territories And Phases[​](#territories-and-phases "Direct link to Territories And Phases")
 
