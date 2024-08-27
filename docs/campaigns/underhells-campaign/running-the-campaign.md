@@ -127,10 +127,10 @@ _Beneath the shattered bones of Hive Secundus is a tangled labyrinth of collapse
 
 The final part of the Underhells Campaign follows the gangs as they descend into the depths of the Underhells in search of archeotech. During this phase, the following rules apply: 
 
-*   The Madness level is set to [Shadow of the Broodmind] (/docs/campaigns/underhells-campaign/#shadow-of-the-broodmind).  
-*   The Desolation level is set to [Cut off from the World] (/docs/campaigns/underhells-campaign/#cut-of-from-the-world).
-*   The Darkness level is set to [Stygian Depths] (/docs/campaigns/underhells-campaign/#stygian-depths).
-*   Two [Data Crystal Stacks] (/docs/campaigns/underhells-campaign/roaming-horrors#data-crystal-stacks) are set up at the start of each battle. 
+*   The Madness level is set to [Shadow of the Broodmind](/docs/campaigns/underhells-campaign/madness-desolation-and-darkness#shadow-of-the-broodmind).  
+*   The Desolation level is set to [Cut off from the World](/docs/campaigns/underhells-campaign/madness-desolation-and-darkness#cut-of-from-the-world).
+*   The Darkness level is set to [Stygian Depths](/docs/campaigns/underhells-campaign/madness-desolation-and-darkness#stygian-depths).
+*   Two [Data Crystal Stacks](/docs/campaigns/underhells-campaign/roaming-horrors#data-crystal-stacks) are set up at the start of each battle.
 
 Winning[​](#winning "Direct link to Winning")
 ---------------------------------------------
