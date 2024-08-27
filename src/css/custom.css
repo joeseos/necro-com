@@ -61,32 +61,31 @@
 }
 
 .fighter-card {
-  width: 100%;
-  max-width: 650px;
+  width: 650px;
   background-color: #f0f0f0;
   border-radius: 10px;
   font-family: Arial, sans-serif;
   overflow: hidden;
   box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-  padding: 15px;
-  margin: 0 auto;
+  padding: 20px;
+  box-sizing: border-box;
 }
 
 .card-header {
   background-color: #333;
-  padding: 10px 15px;
+  padding: 10px 25px;
 }
 
 .header-container {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  flex-wrap: wrap;
+  height: 50px;
 }
 
 .fighter-type {
   margin: 0;
-  font-size: 20px;
+  font-size: 24px;
   font-weight: bold;
   text-transform: uppercase;
   color: #f0f0f0;
@@ -95,28 +94,27 @@
 .credits {
   background-color: white;
   color: black;
-  border: 3px solid #333;
+  border: 5px solid #333;
   border-radius: 50%;
-  padding: 5px;
+  padding: 10px;
   font-weight: bold;
-  font-size: 18px;
-  height: 60px;
-  width: 60px;
+  font-size: 22px;
+  height: 80px;
+  width: 80px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   text-align: center;
-  margin-top: 10px;
 }
 
 .credits span {
-  font-size: 8px;
+  font-size: 10px;
   display: block;
 }
 
 .card-body {
-  padding: 15px;
+  padding: 25px;
   background-color: #f0f0f0;
   color: #333;
 }
@@ -126,13 +124,12 @@
   border-collapse: collapse;
   margin-bottom: 15px;
   background-color: #f0f0f0;
-  font-size: 16px;
 }
 
 .stats-table th, .stats-table td {
   padding: 5px;
   text-align: center;
-  font-size: 16px;
+  font-size: 18px;
   border: none;
 }
 
@@ -156,14 +153,51 @@
 
 .info p {
   margin: 5px 0;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .info strong {
   font-weight: bold;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 700px) {
+  .fighter-card {
+    width: 100%;
+    padding: 15px;
+  }
+
+  .card-header {
+    padding: 10px 15px;
+  }
+
+  .fighter-type {
+    font-size: 20px;
+  }
+
+  .credits {
+    height: 70px;
+    width: 70px;
+    font-size: 20px;
+  }
+
+  .credits span {
+    font-size: 9px;
+  }
+
+  .card-body {
+    padding: 15px;
+  }
+
+  .stats-table, .stats-table th, .stats-table td {
+    font-size: 16px;
+  }
+
+  .info p {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 480px) {
   .fighter-card {
     padding: 10px;
   }
@@ -177,13 +211,13 @@
   }
 
   .credits {
-    height: 50px;
-    width: 50px;
-    font-size: 16px;
+    height: 60px;
+    width: 60px;
+    font-size: 18px;
   }
 
   .credits span {
-    font-size: 7px;
+    font-size: 8px;
   }
 
   .card-body {
@@ -196,29 +230,5 @@
 
   .info p {
     font-size: 14px;
-  }
-}
-
-@media (max-width: 480px) {
-  .fighter-type {
-    font-size: 16px;
-  }
-
-  .credits {
-    height: 40px;
-    width: 40px;
-    font-size: 14px;
-  }
-
-  .credits span {
-    font-size: 6px;
-  }
-
-  .stats-table, .stats-table th, .stats-table td {
-    font-size: 12px;
-  }
-
-  .info p {
-    font-size: 12px;
   }
 }
