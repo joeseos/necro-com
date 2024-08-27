@@ -170,7 +170,7 @@ Fighters[​](#fighters "Direct link to Fighters")
   </div>
 </div>
 
-
+<div style="height: 20px;"></div> <!-- Spacer div -->
 
 <div class="fighter-card">
   <div class="card-header">
