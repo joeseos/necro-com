@@ -169,3 +169,14 @@ Fighters[​](#fighters "Direct link to Fighters")
     </div>
   </div>
 </div>
+
+Skill Access[​](#fskill-access "Direct link to Skill Access")
+------------------------------------------------
+
+|                                |Agility	 |Brawn	 |Combat |Cunning  |Ferocity |Leadership |Savant |Shooting |
+|:-------------------------------|:--------|:------|:------|:--------|:--------|:----------|:------|:--------|
+|Spyre Hunt Master (Leader)      |Secondary|Primary|Primary|         |Secondary|           |       |Primary  |
+|Orrus Spyre Hunter (Champion)   |         |       |       |         |         |           |       |         |
+|Yeld Spyre Hunter (Champion)    |         |       |       |         |         |           |       |         |
+|Jakara Spyre Hunter (Champion)  |         |       |       |         |         |           |       |         |
+|Malcadon Spyre Hunter (Champion)|         |       |       |         |         |           |       |         |
