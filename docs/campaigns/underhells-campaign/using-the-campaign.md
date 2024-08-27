@@ -29,7 +29,7 @@ Unlike other campalgns that focus on gangs fighting over part of he underhive or
 Territories And Phases [​](#controlling-territories "Direct link to Territories And Phases")
 ---------------------------------------------------------------------------------------------
 
-To represent the long and arduous journey across hundreds of kilometres of hostile wasteland, the Underhells Campaign is divided into three phases (the Incursion Phase, Delving Phase and Survival Phase), separated by two Downtime phases (see page 69) where gangs may rest, recover and re-equip their fighters. In these three phases gangs will each hold a single Territory each campaign cycle, representing their camp along the way. At the end of the cycle, after the benefits of the Territory have been gathered, they will move on to a new camp and generate a new random Territory, as detailed on page 68. 
+To represent the long and arduous journey across hundreds of kilometres of hostile wasteland, the Underhells Campaign is divided into three phases (the Incursion Phase, Delving Phase and Survival Phase), separated by two Downtime phases (see page 69) where gangs may rest, recover and re-equip their fighters. In these three phases gangs will each hold a single Territory each campaign cycle, representing their camp along the way. At the end of the cycle, after the benefits of the Territory have been gathered, they will move on to a new camp and generate a new random Territory[generate a new random Territory](/docs/campaigns/underhells-campaign/territories). 
 
 Territories are also keyed to different phases (e., regions) and so depending on the phase different Territories will be available for the gangs to make camp in.
 
