@@ -109,9 +109,9 @@ _In the centre of the dead zone is the Secundan Abyss, a kilometres-deep pit, te
 
 The second part of the Underhells Campaign follows the gangs as they explore the Secundan Abyss, searching for a way into the depths of the Underhells, During this phase. the following rules apply: 
 
-*   The Madness level is set to Echoes in the Abyss (see page 71). 
-*   The Desolation level is set to Crane Cities (see page 71). 
-*   The Darkness level is set to Toxic Deeps (see page 71). 
+*   The Madness level is set to [Echoes in the Abyss](/docs/campaigns/underhells-campaign/#echoes-in-the-abyss). 
+*   The Desolation level is set to [Crane Cities](/docs/campaigns/underhells-campaign/#crane-cities).
+*   The Darkness level is set to [Toxic Deeps](/docs/campaigns/underhells-campaign/#toxic-deeps). 
 
 4\. Downtime (1 Cycle)[​](#4-Downtime-1-cycle "Direct link to 4. Downtime (1 Cycle)")
 ----------------------------------------------------------------------------------------------------------
@@ -127,10 +127,10 @@ _Beneath the shattered bones of Hive Secundus is a tangled labyrinth of collapse
 
 The final part of the Underhells Campaign follows the gangs as they descend into the depths of the Underhells in search of archeotech. During this phase, the following rules apply: 
 
-*   The Madness level is set to Shadow of the Broodmind (see page 71).  
-*   The Desolation level is set to Cut off from the World (see page 71) 
-*   The Darkness level is set to Stygian Depths (see page 71).
-*   Two Data Crystal Stacks are set up at the start of each battle (see page 84) 
+*   The Madness level is set to [Shadow of the Broodmind](/docs/campaigns/underhells-campaign/#shadow-of-the-broodmind).  
+*   The Desolation level is set to [Cut off from the World](/docs/campaigns/underhells-campaign/#cut-of-from-the-world).
+*   The Darkness level is set to [Stygian Depths](/docs/campaigns/underhells-campaign/#stygian-depths).
+*   Two [Data Crystal Stacks](/docs/campaigns/underhells-campaign/roaming-horrors#data-crystal-stacks) are set up at the start of each battle. 
 
 Winning[​](#winning "Direct link to Winning")
 ---------------------------------------------
