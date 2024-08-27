@@ -170,6 +170,8 @@ Fighters[​](#fighters "Direct link to Fighters")
   </div>
 </div>
 
+
+
 <div class="fighter-card">
   <div class="card-header">
     <div class="header-container">
