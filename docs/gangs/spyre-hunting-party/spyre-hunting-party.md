@@ -173,10 +173,10 @@ Fighters[​](#fighters "Direct link to Fighters")
 Skill Access[​](#fskill-access "Direct link to Skill Access")
 ------------------------------------------------
 
-|                                |Agility	 |Brawn	 |Combat |Cunning  |Ferocity |Leadership |Savant |Shooting |
-|:-------------------------------|:--------|:------|:------|:--------|:--------|:----------|:------|:--------|
-|Spyre Hunt Master (Leader)      |Secondary|Primary|Primary|         |Secondary|           |       |Primary  |
-|Orrus Spyre Hunter (Champion)   |         |       |       |         |         |           |       |         |
-|Yeld Spyre Hunter (Champion)    |         |       |       |         |         |           |       |         |
-|Jakara Spyre Hunter (Champion)  |         |       |       |         |         |           |       |         |
-|Malcadon Spyre Hunter (Champion)|         |       |       |         |         |           |       |         |
+|                                |Agility	 |Brawn	 |Combat   |Cunning  |Ferocity |Leadership |Savant |Shooting |
+|:-------------------------------|:--------|:------|:--------|:--------|:--------|:----------|:------|:--------|
+|Spyre Hunt Master (Leader)      |Secondary|       |Primary  |Secondary|         |Primary    |       |Primary  |
+|Orrus Spyre Hunter (Champion)   |Secondary|Primary|Primary  |         |Secondary|           |       |Primary  |
+|Yeld Spyre Hunter (Champion)    |Primary  |       |Secondary|Primary  |Secondary|           |       |Primary  |
+|Jakara Spyre Hunter (Champion)  |Secondary|Primary|Primary  |Primary  |Secondary|           |       |         |
+|Malcadon Spyre Hunter (Champion)|Secondary|       |Primary  |Primary  |Secondary|           |       |Primary  |
