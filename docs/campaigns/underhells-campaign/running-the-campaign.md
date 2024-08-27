@@ -109,9 +109,9 @@ _In the centre of the dead zone is the Secundan Abyss, a kilometres-deep pit, te
 
 The second part of the Underhells Campaign follows the gangs as they explore the Secundan Abyss, searching for a way into the depths of the Underhells, During this phase. the following rules apply: 
 
-*   The Madness level is set to [Echoes in the Abyss](/docs/campaigns/underhells-campaign/#echoes-in-the-abyss). 
-*   The Desolation level is set to [Crane Cities] (/docs/campaigns/underhells-campaign/#crane-cities).
-*   The Darkness level is set to [Toxic Deeps] (/docs/campaigns/underhells-campaign/#toxic-deeps). 
+*   The Madness level is set to [Echoes in the Abyss](/docs/campaigns/underhells-campaign/madness-desolation-and-darkness#echoes-in-the-abyss).
+*   The Desolation level is set to [Crane Cities](/docs/campaigns/underhells-campaign/madness-desolation-and-darkness#crane-cities).
+*   The Darkness level is set to [Toxic Deeps](/docs/campaigns/underhells-campaign/madness-desolation-and-darkness#toxic-deeps). 
 
 4\. Downtime (1 Cycle)[​](#4-Downtime-1-cycle "Direct link to 4. Downtime (1 Cycle)")
 ----------------------------------------------------------------------------------------------------------
