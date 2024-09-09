@@ -219,3 +219,15 @@ The Ferryman comes from the Rust Warrens, Warlords of the Deep, or the Windspine
 
 ### Cunning Killer[​](#cunning-killer "Direct link to Cunning Killer") 
 While this Abyssal Ferryman team is in the employ of the gang, all members of the team and any friendly fighters within 6" can re-roll failed Wound rolls against Roaming Horrors.
+
+## Tinker[​](#tinker "Direct link to Tinker") 
+The Ferryman is part of the Cog Collective, Forlorn Mining Clans, or Scrapper Vox Enclaves, their people talented at digging through the detritus left behind after the war for Secundus and turning it into useful weapons and Wargear to combat the minions of the Malstrain. An Abyssal Ferryman team from a Tinker Enclave has the Warchest special rule.
+
+### Warchest[​](#warchest "Direct link to warchest") 
+At the end of each cycle this Abyssal Ferryman team is in the employ of the gang, add D6x5 credits worth of weapons or Wargear to the gang's stash from their House Equipment List.
+
+## Survivor[​](#survivor "Direct link to Survivor") 
+The Ferryman hails from the Lone Crane, Freesettlers Alliance, or Deep Hive Enclave, their people consummate survivalists who always manage to endure, no matter the horrors arrayed against them. An Abyssal Ferryman team from a Survivor Enclave has the Second Chance special rule. 
+
+### Second Chance[​](#second-chance "Direct link to Second Chance") 
+While this Abyssal Ferryman team is in the employ of the gang, once during each cycle the gang may perform one Medical Escort post-battle action costing zero credits. This Medical Escort post-battle action may also be used to save a fighter that suffered a Memorable Death (66) result on the Lasting Injury table. 
