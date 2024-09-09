@@ -2,7 +2,7 @@
 sidebar_position: 152
 ---
 
-# Defend The Camp
+# 152. Defend The Camp
 
 _Source: The Book of Desolation (2024)_
 
