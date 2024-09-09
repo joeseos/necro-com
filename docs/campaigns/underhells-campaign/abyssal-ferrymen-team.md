@@ -17,7 +17,7 @@ Unlike other models, members of an Abyssal Ferryman team do not gain XP. When ro
 #### "Here To Help"[​](#here-to-help "Direct link to Here To Help") 
 Unlike other models, Abyssal Ferryman teams are not counted during the Choose Crew step of the pre-battle sequence. Instead, at the end of this step, these models may be added to the crew, regardless of the Crew Selection method in use (note that a Ferryman Steersman may only be included if the scenario is an Ash Wastes battle). This may take the number of models in a starting crew above the number specified by the scenario. 
 
-Abyssal Ferryman Team Special Rules[​](#abyssal-ferryman-team-special-rules "Direct link to Abyssal Ferryman Team Special Rules")
+Ferryman Skipper Special Rules[​](#abyssal-ferryman-team-special-rules "Direct link to Abyssal Ferryman Team Special Rules")
 --------------------------------------------------------------------------------------------------------------------------------
 
 #### Leader Of The Ferryman[​](#leader-of-the-ferryman "Direct link to Leader Of The Ferryman") 
@@ -100,3 +100,12 @@ During a batlle, once this fighter's gang has failed a Bottle check, during any 
     </div>
   </div>
 </div>
+
+Ferryman Rig-Hand Special Rules[​](#ferryman-righand-special-rules "Direct link to Ferryman Rig-Hand Special Rules")
+--------------------------------------------------------------------------------------------------------------------------------
+
+#### Leader Of The Ferryman[​](#leader-of-the-ferryman "Direct link to Leader Of The Ferryman") 
+When a Ferryman Skipper is hired, choose a profile to represent them from those presented below.
+
+#### Abyssal Ferryman Team Hierarchy (Leader)[​](#abyssal-ferryman-team-hierarchy-leader "Direct link to Abyssal Ferryman Team Hierarchy (Leader)") 
+During a batlle, once this fighter's gang has failed a Bottle check, during any End phase in which this fighter passes its Cool test and does not flee the battlefield, any friendly Abyssal Ferryman team models that are within 12" of this fighter will automatically pass their Cool lest and will not flee the battlefield.
