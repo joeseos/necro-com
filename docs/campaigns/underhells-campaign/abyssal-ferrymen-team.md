@@ -11,6 +11,9 @@ Abyssal Ferryman Team Special Rules[​](#abyssal-ferryman-team-special-rules "D
 #### Ferryman Enclaves[​](#ferryman-enclaves "Direct link to Ferryman Enclaves")
 An Abyssal Ferryman Team may not be hired in the usual way, the only way to include one in your gangs is by supporing the Archeo-hunters in an Underhells Campaign. 
 
+#### Wanderers Of The Abyss[​](#wanderers-of-the-abyss "Direct link to Wanderers Of The Abyss")
+Unlike other models, members of an Abyssal Ferryman team do not gain XP. When rolling on the Lasting Injury table for Ferryman Skippers, Ferryman Rig-hands and Ferryman Steersmen, the result is automatically Out Cold, there is no need to roll the dice. Additionally, whenever a vehicle crewed by a Ferryman Steersman is Wrecked, do not roll on the Lasting Damage lable - Ferryman Steersman are experts at jury-rigging their vehlcle and keeping it running. 
+
 Forlorn Waystation - Secundan Abyss[​](#fornlorn-waystation-secundan-abyss "Direct link to Fornlorn Waystation - Secundan Abyss")
 ---------------------------------------------------
 
