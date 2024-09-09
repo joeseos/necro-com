@@ -14,17 +14,8 @@ An Abyssal Ferryman Team may not be hired in the usual way, the only way to incl
 #### Wanderers Of The Abyss[​](#wanderers-of-the-abyss "Direct link to Wanderers Of The Abyss") 
 Unlike other models, members of an Abyssal Ferryman team do not gain XP. When rolling on the Lasting Injury table for Ferryman Skippers, Ferryman Rig-hands and Ferryman Steersmen, the result is automatically Out Cold, there is no need to roll the dice. Additionally, whenever a vehicle crewed by a Ferryman Steersman is Wrecked, do not roll on the Lasting Damage lable - Ferryman Steersman are experts at jury-rigging their vehlcle and keeping it running. 
 
-Forlorn Waystation - Secundan Abyss[​](#fornlorn-waystation-secundan-abyss "Direct link to Fornlorn Waystation - Secundan Abyss")
----------------------------------------------------
-
-_The laws of nature are warped down in the Secundan Abyss; supplies that were laid up a week ago have rotted with age when revisited, whilst others are still fresh decades later. Waystations found within this mutable landscape offers brief island of sanity before ventuting once more into the Abyss._
-
-#### Territory Boon[​](#territory-boon-1 "Direct link to Territory Boon")
-This Territory grants the following Boon:
-
-**Income:** The gang earns 2D6x10 credits from this Territory when collecting income.
-
-**Special:** While a gang contcols this Territory, after both gangs have been deployed but before the first roll for Priority, D3 of their models may perform a Move (Simple) action. 
+#### "Here To Help"[​](#"here-to-help" "Direct link to "Here To Help"") 
+Unlike other models, members of an Abyssal Ferryman team do not gain XP. When rolling on the Lasting Injury table for Ferryman Skippers, Ferryman Rig-hands and Ferryman Steersmen, the result is automatically Out Cold, there is no need to roll the dice. Additionally, whenever a vehicle crewed by a Ferryman Steersman is Wrecked, do not roll on the Lasting Damage lable - Ferryman Steersman are experts at jury-rigging their vehlcle and keeping it running. 
 
 <div class="fighter-card">
   <div class="card-header">
