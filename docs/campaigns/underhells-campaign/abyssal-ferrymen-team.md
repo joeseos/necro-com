@@ -33,7 +33,7 @@ This Territory grants the following Boon:
   <div class="card-header">
     <div class="header-container">
       <h2 class="fighter-type">Ferryman SKIPPER</h2>
-      <div class="credits"> <span>CREDITS</span></div>
+      <div class="credits">- <span>CREDITS</span></div>
     </div>
   </div>
   <div class="card-body">
