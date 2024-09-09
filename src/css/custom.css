@@ -61,13 +61,13 @@
 }
 
 .fighter-card {
-  width: 650px;
+  max-width: 650px; /* Changed from fixed width to max-width */
+  width: 100%; /* Added to ensure it takes full width up to max-width */
   background-color: #f0f0f0;
   border-radius: 10px;
   font-family: Arial, sans-serif;
   overflow: hidden;
   box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-  padding: 20px;
   box-sizing: border-box;
   margin-bottom: 30px;
 }
@@ -115,7 +115,7 @@
 }
 
 .card-body {
-  padding: 25px 25px 5px 25px;
+  padding: 25px 15px 5px; /* Adjusted horizontal padding */
   background-color: #f0f0f0;
   color: #333;
 }
@@ -125,13 +125,15 @@
   border-collapse: collapse;
   margin-bottom: 15px;
   background-color: #f0f0f0;
+  table-layout: fixed; /* Added to ensure equal column widths */
 }
 
 .stats-table th, .stats-table td {
-  padding: 5px;
+  padding: 5px 2px; /* Reduced horizontal padding */
   text-align: center;
-  font-size: 18px;
+  font-size: 16px; /* Slightly reduced font size */
   border: none;
+  width: 8.33%; /* Set each column to take up 1/12 of the table width */
 }
 
 .stats-table th {
@@ -163,7 +165,6 @@
 
 @media (max-width: 700px) {
   .fighter-card {
-    width: 100%;
     padding: 15px;
   }
 
@@ -186,11 +187,11 @@
   }
 
   .card-body {
-    padding: 15px;
+    padding: 15px 10px; /* Adjusted for smaller screens */
   }
 
   .stats-table, .stats-table th, .stats-table td {
-    font-size: 16px;
+    font-size: 14px;
   }
 
   .info p {
@@ -222,11 +223,11 @@
   }
 
   .card-body {
-    padding: 10px;
+    padding: 10px 5px; /* Further adjusted for very small screens */
   }
 
   .stats-table, .stats-table th, .stats-table td {
-    font-size: 14px;
+    font-size: 12px;
   }
 
   .info p {
