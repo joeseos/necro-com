@@ -204,3 +204,8 @@ Both the Ferryman Skipper and Ferryman Rig-hand may choose one skill from either
 
 Ferryman Enclaves[​](#ferryman-enclaves "Direct link to Ferryman Enclaves")
 --------------------------------------------------------------------------
+Dozens of Ferryman enclaves exist within the wastelands sorounding Hive Secundus. Over the decades, these fortified settlements have grown into faint sparks of civilisation in the pervading darkness of the Dead Zone. Each enclave has developed to have its own brand of leadership and skills, growing rich both from the illicit trade from the Abyss, and by aiding those from beyond the Dust Wall who come to plunder the ruins of the ancient hive city.
+
+When an Abyssal Ferryman team is hired, the player must choose which Enclave they hail from, which will then inform their playstyle and any special rules they bring to the gang they have joined.
+
+### Explorer[​](#explorer "Direct link to Explorer")
