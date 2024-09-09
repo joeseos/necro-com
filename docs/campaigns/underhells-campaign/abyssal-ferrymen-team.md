@@ -196,3 +196,11 @@ Equipment[​](#equipment "Direct link to Equipment")
 ---------------------------------------------------
 
 The Ferryman Skipper is equipped with mesh armour and up to 140 credits worth of weapons and wargear from the Trading Post with a Rare or Illegal rating of 10 or less. The ferryman Rig-hand is equipped with flak armour and up to 100 credits worth of weapons and Wargear from the Trading Post with a Rare or Illegal rating of 8 or less. The Ferryman Steersman is armed with a stub gun and a Custom Rig with up to 150 creditS worth of Upgrades, weapons and vehicle Wargear drawn from the Custom Rig Equipment List and the Trading Post with a Rare or Illegal rating of 8 or less. 
+
+Skills[​](#skills "Direct link to Skills")
+-----------------------------------------
+
+Both the Ferryman Skipper and Ferryman Rig-hand may choose one skill from either the Combat, Ferocity, Brawn, Shooting, Cunning, Savant or Agility skill set. The Ferryman Steersman may choose one skill from either the Driving or Shooting skill set.
+
+Ferryman Enclaves[​](#ferryman-enclaves "Direct link to Ferryman Enclaves")
+--------------------------------------------------------------------------
