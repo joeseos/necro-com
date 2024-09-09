@@ -15,7 +15,7 @@ An Abyssal Ferryman Team may not be hired in the usual way, the only way to incl
 Unlike other models, members of an Abyssal Ferryman team do not gain XP. When rolling on the Lasting Injury table for Ferryman Skippers, Ferryman Rig-hands and Ferryman Steersmen, the result is automatically Out Cold, there is no need to roll the dice. Additionally, whenever a vehicle crewed by a Ferryman Steersman is Wrecked, do not roll on the Lasting Damage lable - Ferryman Steersman are experts at jury-rigging their vehlcle and keeping it running. 
 
 #### "Here To Help"[​](#here-to-help "Direct link to Here To Help") 
-Unlike other models, members of an Abyssal Ferryman team do not gain XP. When rolling on the Lasting Injury table for Ferryman Skippers, Ferryman Rig-hands and Ferryman Steersmen, the result is automatically Out Cold, there is no need to roll the dice. Additionally, whenever a vehicle crewed by a Ferryman Steersman is Wrecked, do not roll on the Lasting Damage lable - Ferryman Steersman are experts at jury-rigging their vehlcle and keeping it running. 
+Unlike other models, Abyssal Ferryman teams are not counted during the Choose Crew step of the pre-battle sequence. Instead, at the end of this step, these models may be added to the crew, regardless of the Crew Selection method in use (note that a Ferryman Steersman may only be included if the scenario is an Ash Wastes battle). This may take the number of models in a starting crew above the number specified by the scenario. 
 
 <div class="fighter-card">
   <div class="card-header">
