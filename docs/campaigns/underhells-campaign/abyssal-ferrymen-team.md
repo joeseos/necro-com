@@ -5,17 +5,11 @@ sidebar_position: 6
 # Abyssal Ferrymen Team
 _Source: The Book of Desolation (2024)_
 
-Fallen Crane - Dead Zone[​](#fallen-crane-dead-zone "Direct link to Fallen Crane - Dead Zone")
+Abyssal Ferryman Team Special Rules[​](#abyssal-ferryman-team-special-rules "Direct link to Abyssal Ferryman Team Special Rules")
 ------------------------------------------------------
 
-_The Secundan Abyss is ringed with huge cranes to allow monitoring of the conditions below. During the centuries following the destruction of Hive Secundus, many of these behemoths have fallen either due to sabotage, neglect or just bad luck. They now act as a refuge for many of the dispossessed inhabitants of the Dead Zone with nowhere else to go._
-
-#### Territory Boons[​](#territory-boon "Direct link to Territory Boons")
-This Territory grants the following Boons:
-
-**Income:** The gang earns 2D6x10 credits from this Territory when collecting income.
-
-**Recruit:** While a gang oontrols this Territory, during step 6 of the pre-battle sequence, they may add D3 Hive scum to their starting gang for free for the duration of the battle.
+#### Ferryman Enclaves[​](#ferryman-enclaves "Direct link to Ferryman Enclaves")
+An Abyssal Ferryman Team may not be hired in the usual way, the only way to include one in your gangs is by supporing the Archeo-hunters in an Underhells Campaign. 
 
 Forlorn Waystation - Secundan Abyss[​](#fornlorn-waystation-secundan-abyss "Direct link to Fornlorn Waystation - Secundan Abyss")
 ---------------------------------------------------
