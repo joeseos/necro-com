@@ -11,15 +11,20 @@ Attacker And Defender[​](#attacker-and-defender "Direct link to Attacker And D
 
 In this scenario, one gang is the attacker and the other is the defender. If this scenrio is being played as part of a campaign, then the gang that issued the challange is the attacker; otherwise, roll off with the winner deciding whether they will attack or defend.
 
+Battle Type[​](#battle-type "Direct link to Battle Type")
+---------------------------------------------------------
+
+This scenario is an Underhive battle; vehicles and Wargear that grant the Mounted condition cannot be included in either gangs's starting crew or Reinforcements.
+
 Battlefield[​](#battlefield "Direct link to Battlefield")
 ---------------------------------------------------------
 
-Standard. Mark the centre point of the battlefield, this is the escape point. If using Sector Mechanicus, the escape point should be on an elevated platform - the higher the better!
+This scenario uses the standard rules for setting up a battlefield, as described in the Battlefield Set-up & Scenario selection of the _Necromunda Core Rulebook_.
 
 Crews[​](#crews "Direct link to Crews")
 ---------------------------------------
 
-*   Random (D3+4).
+This scenario uses the standard rules for choosing a crew; as described in the Battlefield Set-up & Scenarios section of the _Necromunda Core Rulebook_. The attacking gang uses the Customer Selection (8) method to determine their starting crew. The defender's starting crew are their sentries. They use the Random Selection (4) method, but before drawing their crew, they can declare any number of fighters unfit (or too important) for sentry duty, removing them from their deck - they are returned to the deck after the starting crew has been drawn. The rest of the deck is then set to one side to form their Reinforcements deck.
 
 Tactics Cards[​](#tactics-cards "Direct link to Tactics Cards")
 ---------------------------------------------------------------
