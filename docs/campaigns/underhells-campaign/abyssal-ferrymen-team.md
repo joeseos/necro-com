@@ -53,15 +53,29 @@ This Territory grants the following Boon:
         <th class="mental-stat">Int</th>
       </tr>
       <tr>
-        <td class="physical-stat">4"</td>
+        <td class="physical-stat">5"</td>
+        <td class="physical-stat">4+</td>
+        <td class="physical-stat">3+</td>
+        <td class="physical-stat">3</td>
+        <td class="physical-stat">3</td>
+        <td class="physical-stat">2</td>
         <td class="physical-stat">2+</td>
-        <td class="physical-stat">3+</td>
-        <td class="physical-stat">3</td>
-        <td class="physical-stat">3</td>
-        <td class="physical-stat">3</td>
-        <td class="physical-stat">3+</td>
         <td class="physical-stat">3</td>
         <td class="mental-stat">7+</td>
+        <td class="mental-stat">6+</td>
+        <td class="mental-stat">7+</td>
+        <td class="mental-stat">7+</td>
+      </tr>
+      <tr>
+        <td class="physical-stat">5"</td>
+        <td class="physical-stat">3+</td>
+        <td class="physical-stat">4+</td>
+        <td class="physical-stat">4</td>
+        <td class="physical-stat">3</td>
+        <td class="physical-stat">2</td>
+        <td class="physical-stat">4+</td>
+        <td class="physical-stat">2</td>
+        <td class="mental-stat">8+</td>
         <td class="mental-stat">5+</td>
         <td class="mental-stat">6+</td>
         <td class="mental-stat">6+</td>
