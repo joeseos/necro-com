@@ -181,3 +181,58 @@ When a Ferryman Rig-hand is hired, choose a profile to represent them from those
     </div>
   </div>
 </div>
+
+Ferryman Steerman Special Rules[​](#ferryman-steerman-special-rules "Direct link to Ferryman Steerman Special Rules")
+-------------------------------------------------------------------------------------------------------------------
+
+#### Vehicle Crew[​](#vehicle-crew "Direct link to Vehicle Crew") 
+A Ferryman Steersman must always be equipped with a vehicte.
+
+### Ferryman Rig-hand[​](#ferryman-rig-hand "Direct link to Ferryman Rig-hand")
+<div class="fighter-card">
+  <div class="card-header">
+    <div class="header-container">
+      <h2 class="fighter-type">Ferryman RIG_HAND</h2>
+      <div class="credits">- <span>CREDITS</span></div>
+    </div>
+  </div>
+  <div class="card-body">
+    <table class="stats-table">
+      <tr>
+        <th class="physical-stat">M</th>
+        <th class="physical-stat">Front</th>
+        <th class="physical-stat">Side</th>
+        <th class="physical-stat">Rear</th>
+        <th class="physical-stat">HP</th>
+        <th class="physical-stat">Hnd</th>
+        <th class="physical-stat">Sv</th>
+        <th class="physical-stat">A</th>
+        <th class="mental-stat">BS</th>
+        <th class="mental-stat">Ld</th>
+        <th class="mental-stat">Cl</th>
+        <th class="mental-stat">Wil</th>
+        <th class="mental-stat">Int</th>
+      </tr>
+      <tr>
+        <td class="physical-stat">*</td>
+        <td class="physical-stat">*</td>
+        <td class="physical-stat">*</td>
+        <td class="physical-stat">*</td>
+        <td class="physical-stat">*</td>
+        <td class="physical-stat">*</td>
+        <td class="physical-stat">*</td>
+        <td class="physical-stat">*</td>
+        <td class="mental-stat">4+</td>
+        <td class="mental-stat">7+</td>
+        <td class="mental-stat">6+</td>
+        <td class="mental-stat">7+</td>
+        <td class="mental-stat">8+</td>
+      </tr>
+    </table>
+    <div class="info">
+      <p><strong>Skills:</strong> 1 Primary (custom).</p>
+      <p><strong>Restrictions:</strong> None.</p>
+      <p><strong>Special Rules:</strong> Vehicle Crew.</p>
+    </div>
+  </div>
+</div>
