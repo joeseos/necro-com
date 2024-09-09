@@ -29,131 +29,50 @@ This Territory grants the following Boon:
 
 **Special:** While a gang contcols this Territory, after both gangs have been deployed but before the first roll for Priority, D3 of their models may perform a Move (Simple) action. 
 
-Gutted Rig - Secundan Abyss[​](#gutted-rig-secundan-abyss "Direct link to Gutted Rig - Secundan Abyss")
-------------------------------------------------------------------
-
-_With a lack of new parts flowing in from the great industriat factories of Necromunda, every rig operating within the Secundan Abyss is kept going by salvaging parts from other rigs, These donor rigs are then abandoned, though there ar often still useful equipment to be found within._
-
-#### Territory Boon[​](#territory-boon-2 "Direct link to Territory Boon")
-This Territory grants the following Boon:
-
-**Income:** The gang earns D6x10 credits from this Territory when collecting income.
-
-**Special:** While a gang controls thiS Territory, they may add up to D6x10 credits worth of equipment from their Gang Equipment List to their Stash during the post-battle sequence for free. 
-
-Girder Forest - Secundan Abyss[​](#girder-forest-secundan-abyss "Direct link to Girder Forest - Secundan Abyss")
-------------------------------------------------------------------------
-
-_As the spire of Hive Secundus fell it broke up, scattering debris across the Secundan Abyss. Within the vast forests of plasteel girders and reinforced walls, large hulking menaces take shelter and if a gang is carefur they can be persuaded to help._
-
-#### Territory Boon[​](#territory-boon-3 "Direct link to Territory Boon")
-This Territory grants the following Boons: 
-
-**Income:** The gang earns D6x10 credits from this Territory when collecting income.
-
-**Recruit:** While a gang oontrols this Territory, during step 6 of the pre-battle sequence, they may add a Brute to their starting gang for free for the duration of the battle.
-
-Hunters Enclave - Secundan Abyss[​](#hunters-enclave-secundan-abyss "Direct link to Hunters Enclave - Secundan Abyss")
-------------------------------------------------------------------------
-
-_Some of those who travel to the ruins of Hive Secundus become obsessed with the hunt for Malstrains. Unable to draw themselves away from the Secundan Abyss, they band together in enclaves to keep the Malstrain under control._
-
-#### Territory Boon[​](#territory-boon-4 "Direct link to Territory Boon")
-This Territory grants the following Boons: 
-
-**Income:** The gang earns D6x10 credits from this Territory when collecting income.
-
-**Recruit:** Whilst it controls this Territory, the gang may recruit a Bounty Hunter for free prior to every battle.
-
-Hab Scrap - Secundan Abyss[​](#hab-scrap-secundan-abyss "Direct link to Hab Scrap - Secundan Abyss")
-------------------------------------------------------------------------
-
-_Like all hives, Hive Secundus had huge sprawling hab complexes throughout to house the Sham workforce needed to keep the sophisticated hive running. Despite years of teams picking through their carcass, there still remains much of value hidden within these ruins._
-
-#### Territory Boon[​](#territory-boon-5 "Direct link to Territory Boon")
-This Territory grants the following Boons: 
-
-**Income:** The gang earns 3D6x10 credits from this Territory when collecting income.
-
-Fortified Camp - Secundan Abyss[​](#fortified-camp-secundan-abyss "Direct link to Fortified Camp - Secundan Abyss")
-------------------------------------------------------------------------
-
-_Few are brave (or perhaps foolhardy) enough to make their homes within the Secundan Abyss; those that do turn their dwellings into fortresses, bristling with whatever weapons they can scavenge to hold off the terrors of the Malstrain._
-
-#### Territory Boon[​](#territory-boon-6 "Direct link to Territory Boon")
-This Territory grants the following Boons: 
-
-**Income:** The gang earns 2D6x10 credits from this Territory when collecting income.
-
-**Recruit:** While a gang controls this Territory, they may add an Ammo-jack to their gang roster for free.
-
-Collapsed Dome - Underhells[​](#collapsed-dome-underhells "Direct link to Collapsed Dome - Underhells")
-------------------------------------------------------------------------
-
-_When the gravitonic charges blasted apart Hive Secundus, toppling it once glorious spire, the shockwave ran through the entire structure, even into the underhive, cutting off many sections and causing most of the domes within to collapse. These domes are even more highly sought than their counterparts in other underhives for the treasures they may hold within._
-
-#### Territory Boon[​](#territory-boon-7 "Direct link to Territory Boon")
-This Territory grants the following Boons: 
-
-**Income:** The gang earns 2D6x10 credits from this Territory when collecting income.
-
-**Special:** While a gang controls this Territory, they may generate an additional gang tactic at random during step 7 of the pre-battle sequence.
-
-Haunted Halls - Underhells[​](#haunted-halls-underhells "Direct link to Haunted Halls - Underhells")
-------------------------------------------------------------------------
-
-_Secundus is a dead hive, destroyed from orbit by a withering hail of weapons fire. Within the depths of the Underhells, the essence of all those that died becomes a tangible presence, but for those that can withstand it the maze of tunnels offers shortcuts._
-
-#### Territory Boon[​](#territory-boon-8 "Direct link to Territory Boon")
-This Territory grants the following Boons: 
-
-**Income:** The gang earns 2D6x10 credits from this Territory when collecting income.
-
-**Special:** While a gang controls this Territory, during step 6 of the pre-battle sequence, D3+1 of their fighters gain the infiltrate skill for the duration of the battle.
-
-Thermal Abyss - Underhells[​](#thermal-abyss-underhells "Direct link to Thermal Abyss - Underhells")
-------------------------------------------------------------------------
-
-_Within the heart of the Underhells, the remnants of the thermal heat sink that used to power the hive still sputters away, allowing those who shelter there a chance to rest and salvage equipment from the abandoned machinery before delving deeper._
-
-#### Territory Boon[​](#territory-boon-9 "Direct link to Territory Boon")
-This Territory grants the following Boons: 
-
-**Income:** The gang earns 3D6x10 credits from this Territory when collecting income.
-
-Fortified Dome - Underhells[​](#fortified-dome-underhells "Direct link to Fortified Dome - Underhells")
-------------------------------------------------------------------------
-
-_Many gangs have met their end within the depths of the Underhells, the survivors banding together in small fortified bases where they try to survive, all dreams of treasure forgotten._
-
-#### Territory Boon[​](#territory-boon-10 "Direct link to Territory Boon")
-This Territory grants the following Boons: 
-
-**Income:** The gang earns D3x10 credits from this Territory when collecting income.
-
-**Recruit:** While a gang controls this Territory, during step 6 of the pre-battle sequence they may add a Ganger with up to 50 credits worth of equipment to their starting gang for free for the duration of the battle.
-
-Cogitator Nexus - Underhells[​](#fortified-dome-underhells "Direct link to Fortified Dome - Underhells")
-------------------------------------------------------------------------
-
-_Renowned as a centre of science and culture, Hive Secundus had many domes dedicated to huge banks of advanced cogitator arrays. Although far from the wonders of technology they once were, there are still some that function at a small fraction of their original potential._
-
-#### Territory Boon[​](#territory-boon-11 "Direct link to Territory Boon")
-This Territory grants the following Boons: 
-
-**Income:** The gang earns 2D6x10 credits from this Territory when collecting income.
-
-**Special:** While a gang controls this Territory, once per battle they may automatically win the roll for Priority - this is declared before the dice are rolled.
-
-Xenos Boneyard Nexus - Underhells[​](#xenos-boneyard-underhells "Direct link to Xenos Boneyard - Underhells")
-------------------------------------------------------------------------
-
-_Hive Secundus did not fall without a fight; within the barely-lit depths of the Underhells are corridors and chambers buried under piles of bones, both xenos and human. Whether the site of battles fought long ago, or the bones collected by the Malstrain for purposes unknown, fighters can adorn themselves with these grisly remains as a way of trying to unsettle their opponents._
-
-#### Territory Boon[​](#territory-boon-12 "Direct link to Territory Boon")
-This Territory grants the following Boons: 
-
-**Income:** The gang earns 2D6x10 credits from this Territory when collecting income.
-
-**Special:** While a gang controls this Territory, during step 6 of the pre-battle sequence D3 fighters gain the Fearsome skill for the duration of the battle. 
-
+<div class="fighter-card">
+  <div class="card-header">
+    <div class="header-container">
+      <h2 class="fighter-type">Ferryman SKIPPER</h2>
+      <div class="credits"> <span>CREDITS</span></div>
+    </div>
+  </div>
+  <div class="card-body">
+    <table class="stats-table">
+      <tr>
+        <th class="physical-stat">M</th>
+        <th class="physical-stat">WS</th>
+        <th class="physical-stat">BS</th>
+        <th class="physical-stat">S</th>
+        <th class="physical-stat">T</th>
+        <th class="physical-stat">W</th>
+        <th class="physical-stat">I</th>
+        <th class="physical-stat">A</th>
+        <th class="mental-stat">Ld</th>
+        <th class="mental-stat">Cl</th>
+        <th class="mental-stat">Wil</th>
+        <th class="mental-stat">Int</th>
+      </tr>
+      <tr>
+        <td class="physical-stat">5"</td>
+        <td class="physical-stat">5"</td>
+        <td class="physical-stat">4"</td>
+        <td class="physical-stat">2+</td>
+        <td class="physical-stat">3+</td>
+        <td class="physical-stat">3</td>
+        <td class="physical-stat">3</td>
+        <td class="physical-stat">3</td>
+        <td class="physical-stat">3+</td>
+        <td class="physical-stat">3</td>
+        <td class="mental-stat">7+</td>
+        <td class="mental-stat">5+</td>
+        <td class="mental-stat">6+</td>
+        <td class="mental-stat">6+</td>
+      </tr>
+    </table>
+    <div class="info">
+      <p><strong>Skills:</strong> 1 Primary (custom).</p>
+      <p><strong>Restrictions:</strong> None.</p>
+      <p><strong>Special Rules:</strong> Gang Leader, Spyre Hunter, Experienced Hunter.</p>
+    </div>
+  </div>
+</div>
