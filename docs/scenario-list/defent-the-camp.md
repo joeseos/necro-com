@@ -78,3 +78,30 @@ If a captive is the Target, they are assumed to have been subdued and so do not 
 Any attacking fighter within 1" of the Target may perform the carry Target (Basic) action:
 
 **Carry Target (Basic)**: If this fighter is within 1" of the Target, they may make a Move (Simple) action, carrying the Target with them. When the action ends, the Target is placed in base contact with this fighter. 
+
+Reinforcements[​](#reinforcements "Direct link to Reinforcements")
+-----------------------------------------------------------------
+
+In the round that the alarm is raised, and in each subsequent round, D3 Reinforcements arrive for the defender.
+
+Escaping The Battlefield[​](#escaping-the-battlefield "Direct link to Escaping The Battlefield")
+-----------------------------------------------------------------------------------------------
+
+If, at the start of the End phase, the Target is within 1" of any battlefield edge, they are removed from the battlefield. Once the Target has been removed from the battlefield, any attacking fighter within 1" of a battlefield edge may perform the Escape (Basic) action:
+
+**Escape (Basic)**: Remove this fighter from the battlefield. They count as having been taken Out of Action for the purpose of Bottle checks.
+
+Spawn Points[​](#spawn-points "Direct link to Spawn Points")
+-----------------------------------------------------------
+
+Before deploying their gang, the defender places six Spawn Points anywhere they wish within 1" of a battlefield edge and assigns them each a number from 1 to 6.
+
+Roaming Horrors[​](#roaming-horrors "Direct link to Roaming Horrors")
+--------------------------------------------------------------------
+
+No Roaming Horrors are generated until the alarm has been raised. Once the alarm has been raised they are generated as described on page 82. Once they have been generated, the player with Priority rolls a D6 and places them all as close to the Spawn Point with the corresponding number as possible, at least 1" away from other models.
+
+Fleeing The Battlefield[​](#fleeing-the-battlefield "Direct link to Fleeing The Battlefield")
+--------------------------------------------------------------------------------------------
+
+If either gang voluntarily bottles out and subsequently flees the battlefield, their opponent automatically wins the scenario.
