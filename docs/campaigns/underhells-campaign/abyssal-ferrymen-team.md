@@ -189,50 +189,10 @@ Ferryman Steerman Special Rules[​](#ferryman-steerman-special-rules "Direct li
 A Ferryman Steersman must always be equipped with a vehicte.
 
 ### Ferryman Rig-hand[​](#ferryman-rig-hand "Direct link to Ferryman Rig-hand")
-<div class="fighter-card">
-  <div class="card-header">
-    <div class="header-container">
-      <h2 class="fighter-type">Ferryman RIG_HAND</h2>
-      <div class="credits">- <span>CREDITS</span></div>
-    </div>
-  </div>
-  <div class="card-body">
-    <table class="stats-table">
-      <tr>
-        <th class="physical-stat">M</th>
-        <th class="physical-stat">Front</th>
-        <th class="physical-stat">Side</th>
-        <th class="physical-stat">Rear</th>
-        <th class="physical-stat">HP</th>
-        <th class="physical-stat">Hnd</th>
-        <th class="physical-stat">Sv</th>
-        <th class="physical-stat">A</th>
-        <th class="mental-stat">BS</th>
-        <th class="mental-stat">Ld</th>
-        <th class="mental-stat">Cl</th>
-        <th class="mental-stat">Wil</th>
-        <th class="mental-stat">Int</th>
-      </tr>
-      <tr>
-        <td class="physical-stat">*</td>
-        <td class="physical-stat">*</td>
-        <td class="physical-stat">*</td>
-        <td class="physical-stat">*</td>
-        <td class="physical-stat">*</td>
-        <td class="physical-stat">*</td>
-        <td class="physical-stat">*</td>
-        <td class="physical-stat">*</td>
-        <td class="mental-stat">4+</td>
-        <td class="mental-stat">7+</td>
-        <td class="mental-stat">6+</td>
-        <td class="mental-stat">7+</td>
-        <td class="mental-stat">8+</td>
-      </tr>
-    </table>
-    <div class="info">
-      <p><strong>Skills:</strong> 1 Primary (custom).</p>
-      <p><strong>Restrictions:</strong> None.</p>
-      <p><strong>Special Rules:</strong> Vehicle Crew.</p>
-    </div>
-  </div>
-</div>
+
+PLACEHOLDER FOR THE FERRYMAN RIG-HAND FIGTHER CARD
+
+Equipment[​](#equipment "Direct link to Equipment")
+---------------------------------------------------
+
+The Ferryman Skipper is equipped with mesh armour and up to 140 credits worth of weapons and wargear from the Trading Post with a Rare or Illegal rating of 10 or less. The ferryman Rig-hand is equipped with flak armour and up to 100 credits worth of weapons and Wargear from the Trading Post with a Rare or Illegal rating of 8 or less. The Ferryman Steersman is armed with a stub gun and a Custom Rig with up to 150 creditS worth of Upgrades, weapons and vehicle Wargear drawn from the Custom Rig Equipment List and the Trading Post with a Rare or Illegal rating of 8 or less. 
