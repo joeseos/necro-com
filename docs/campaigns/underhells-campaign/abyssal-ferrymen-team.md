@@ -101,11 +101,83 @@ During a batlle, once this fighter's gang has failed a Bottle check, during any 
   </div>
 </div>
 
-Ferryman Rig-Hand Special Rules[​](#ferryman-righand-special-rules "Direct link to Ferryman Rig-Hand Special Rules")
---------------------------------------------------------------------------------------------------------------------------------
+Ferryman Rig-hand Special Rules[​](#ferryman-righand-special-rules "Direct link to Ferryman Rig-hand Special Rules")
+-------------------------------------------------------------------------------------------------------------------
 
-#### Leader Of The Ferryman[​](#leader-of-the-ferryman "Direct link to Leader Of The Ferryman") 
-When a Ferryman Skipper is hired, choose a profile to represent them from those presented below.
+#### Deadzone Survivor[​](#deadzone-survivor "Direct link to Deadzone Survivor") 
+When a Ferryman Rig-hand is hired, choose a profile to represent them from those presented balow. 
 
-#### Abyssal Ferryman Team Hierarchy (Leader)[​](#abyssal-ferryman-team-hierarchy-leader "Direct link to Abyssal Ferryman Team Hierarchy (Leader)") 
-During a batlle, once this fighter's gang has failed a Bottle check, during any End phase in which this fighter passes its Cool test and does not flee the battlefield, any friendly Abyssal Ferryman team models that are within 12" of this fighter will automatically pass their Cool lest and will not flee the battlefield.
+### Ferryman Rig-hand[​](#ferryman-rig-hand "Direct link to Ferryman Rig-hand")
+<div class="fighter-card">
+  <div class="card-header">
+    <div class="header-container">
+      <h2 class="fighter-type">Ferryman RIG_HAND</h2>
+      <div class="credits">- <span>CREDITS</span></div>
+    </div>
+  </div>
+  <div class="card-body">
+    <table class="stats-table">
+      <tr>
+        <th class="physical-stat">M</th>
+        <th class="physical-stat">WS</th>
+        <th class="physical-stat">BS</th>
+        <th class="physical-stat">S</th>
+        <th class="physical-stat">T</th>
+        <th class="physical-stat">W</th>
+        <th class="physical-stat">I</th>
+        <th class="physical-stat">A</th>
+        <th class="mental-stat">Ld</th>
+        <th class="mental-stat">Cl</th>
+        <th class="mental-stat">Wil</th>
+        <th class="mental-stat">Int</th>
+      </tr>
+      <tr>
+        <td class="physical-stat">3"</td>
+        <td class="physical-stat">4+</td>
+        <td class="physical-stat">4+</td>
+        <td class="physical-stat">4</td>
+        <td class="physical-stat">4</td>
+        <td class="physical-stat">2</td>
+        <td class="physical-stat">5+</td>
+        <td class="physical-stat">2</td>
+        <td class="mental-stat">8+</td>
+        <td class="mental-stat">5+</td>
+        <td class="mental-stat">6+</td>
+        <td class="mental-stat">7+</td>
+      </tr>
+      <tr>
+        <td class="physical-stat">5"</td>
+        <td class="physical-stat">4+</td>
+        <td class="physical-stat">4+</td>
+        <td class="physical-stat">3</td>
+        <td class="physical-stat">4</td>
+        <td class="physical-stat">3</td>
+        <td class="physical-stat">5+</td>
+        <td class="physical-stat">2</td>
+        <td class="mental-stat">8+</td>
+        <td class="mental-stat">6+</td>
+        <td class="mental-stat">8+</td>
+        <td class="mental-stat">7+</td>
+      </tr>
+      <tr>
+        <td class="physical-stat">4"</td>
+        <td class="physical-stat">4+</td>
+        <td class="physical-stat">5+</td>
+        <td class="physical-stat">5</td>
+        <td class="physical-stat">4</td>
+        <td class="physical-stat">3</td>
+        <td class="physical-stat">6+</td>
+        <td class="physical-stat">2</td>
+        <td class="mental-stat">10+</td>
+        <td class="mental-stat">6+</td>
+        <td class="mental-stat">7+</td>
+        <td class="mental-stat">9+</td>
+      </tr>
+    </table>
+    <div class="info">
+      <p><strong>Skills:</strong> 1 Primary (custom).</p>
+      <p><strong>Restrictions:</strong> None.</p>
+      <p><strong>Special Rules:</strong> Deadzone Survivor.</p>
+    </div>
+  </div>
+</div>
