@@ -211,23 +211,23 @@ When an Abyssal Ferryman team is hired, the player must choose which Enclave the
 ## Explorer[​](#explorer "Direct link to Explorer")
 The Ferryman hails from the Iron Worm or Dust Racers Enclave, their people always on the move in great tracked land-runners or low-flying strato-rigs to stay ahead of the creatures of the Malstrain. An Abyssal Ferryman team from an Explorer Enclave has the New Horizons special rule.
 
-### New Horizons[​](#new-horizons "Direct link to New Horizons") 
+#### New Horizons[​](#new-horizons "Direct link to New Horizons") 
 At the end of each cycle this Abyssal Ferryman team is in the employ of the gang, add D3 Exploration Points to their gang's total.
 
 ## Hunter[​](#explorer "Direct link to Hunter")
 The Ferryman comes from the Rust Warrens, Warlords of the Deep, or the Windspine Enclave, their people skilled Malstrain hunters who hang the remains of their kills upon their vehicles as trophies. An Abyssal Ferryman team from a Hunter Enclave has the Cunning Killers special rule. 
 
-### Cunning Killer[​](#cunning-killer "Direct link to Cunning Killer") 
+#### Cunning Killer[​](#cunning-killer "Direct link to Cunning Killer") 
 While this Abyssal Ferryman team is in the employ of the gang, all members of the team and any friendly fighters within 6" can re-roll failed Wound rolls against Roaming Horrors.
 
 ## Tinker[​](#tinker "Direct link to Tinker") 
 The Ferryman is part of the Cog Collective, Forlorn Mining Clans, or Scrapper Vox Enclaves, their people talented at digging through the detritus left behind after the war for Secundus and turning it into useful weapons and Wargear to combat the minions of the Malstrain. An Abyssal Ferryman team from a Tinker Enclave has the Warchest special rule.
 
-### Warchest[​](#warchest "Direct link to warchest") 
+#### Warchest[​](#warchest "Direct link to warchest") 
 At the end of each cycle this Abyssal Ferryman team is in the employ of the gang, add D6x5 credits worth of weapons or Wargear to the gang's stash from their House Equipment List.
 
 ## Survivor[​](#survivor "Direct link to Survivor") 
 The Ferryman hails from the Lone Crane, Freesettlers Alliance, or Deep Hive Enclave, their people consummate survivalists who always manage to endure, no matter the horrors arrayed against them. An Abyssal Ferryman team from a Survivor Enclave has the Second Chance special rule. 
 
-### Second Chance[​](#second-chance "Direct link to Second Chance") 
+#### Second Chance[​](#second-chance "Direct link to Second Chance") 
 While this Abyssal Ferryman team is in the employ of the gang, once during each cycle the gang may perform one Medical Escort post-battle action costing zero credits. This Medical Escort post-battle action may also be used to save a fighter that suffered a Memorable Death (66) result on the Lasting Injury table. 
