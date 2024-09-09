@@ -98,7 +98,7 @@ This Territory grants the following Boon:
     <div class="info">
       <p><strong>Skills:</strong> 1 Primary (custom).</p>
       <p><strong>Restrictions:</strong> None.</p>
-      <p><strong>Special Rules:</strong> Gang Leader, Spyre Hunter, Experienced Hunter.</p>
+      <p><strong>Special Rules:</strong> Leader of the Ferrymen, Abyssal Ferryman Team Hierarchy (Leader).</p>
     </div>
   </div>
 </div>
