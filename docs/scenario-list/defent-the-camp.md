@@ -77,4 +77,4 @@ If a captive is the Target, they are assumed to have been subdued and so do not 
 
 Any attacking fighter within 1" of the Target may perform the carry Target (Basic) action:
 
---Carry Target (Basic)--: If this fighter is within 1" of the Target, they may make a Move (Simple) action, carrying the Target with them. When the action ends, the Target is placed in base contact with this fighter. 
+**Carry Target (Basic)**: If this fighter is within 1" of the Target, they may make a Move (Simple) action, carrying the Target with them. When the action ends, the Target is placed in base contact with this fighter. 
