@@ -29,7 +29,7 @@ Madness[​](#madness "Direct link to Madness")
 
 :::info A Special Kind Of Madness
 
-In the Underhelis Campaign, fighters who become subject to the Insane condition act a little differently. On a result of 3-4 on the Insanity table, where the opposing player would normally control the fighter, the fighter instead counts as a Malstrain fighter and follows the activation guidelines as-detailed in Roaming Horrors as follows. Malstrain fighters have a Nature of Cautious if armed with a Special or Heavy Weapon and Aggressive otherwise.
+In the Underhells Campaign, fighters who become subject to the Insane condition act a little differently. On a result of 3-4 on the Insanity table, where the opposing player would normally control the fighter, the fighter instead counts as a Malstrain fighter and follows the activation guidelines as-detailed in Roaming Horrors as follows. Malstrain fighters have a Nature of Cautious if armed with a Special or Heavy Weapon and Aggressive otherwise.
 
 :::
 
