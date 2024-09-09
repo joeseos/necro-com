@@ -4,7 +4,12 @@ sidebar_position: 152
 
 # Defend The Camp
 
-_Source: Necromunda 2018 Rulebook_
+_Source: The Book of Desolation (2024)_
+
+Attacker And Defender[​](#attacker-and-defender "Direct link to Attacker And Defender")
+---------------------------------------------------------
+
+In this scenario, one gang is the attacker and the other is the defender. If this scenrio is being played as part of a campaign, then the gang that issued the challange is the attacker; otherwise, roll off with the winner deciding whether they will attack or defend.
 
 Battlefield[​](#battlefield "Direct link to Battlefield")
 ---------------------------------------------------------
