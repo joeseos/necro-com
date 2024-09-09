@@ -60,9 +60,10 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-.fighter-card {
-  max-width: 650px; /* Changed from fixed width to max-width */
-  width: 100%; /* Added to ensure it takes full width up to max-width */
+/* Increase specificity by adding a parent class or ID */
+.fighter-card-container .fighter-card {
+  max-width: 650px;
+  width: 100%;
   background-color: #f0f0f0;
   border-radius: 10px;
   font-family: Arial, sans-serif;
@@ -72,19 +73,21 @@
   margin-bottom: 30px;
 }
 
-.card-header {
+.fighter-card-container .card-header {
   background-color: #333;
   padding: 10px 25px;
+  position: relative;
+  height: 70px;
 }
 
-.header-container {
+.fighter-card-container .header-container {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  height: 50px;
+  height: 100%;
 }
 
-.fighter-type {
+.fighter-card-container .fighter-type {
   margin: 0;
   font-size: 24px;
   font-weight: bold;
@@ -92,7 +95,7 @@
   color: #f0f0f0;
 }
 
-.credits {
+.fighter-card-container .credits {
   background-color: white;
   color: black;
   border: 5px solid #333;
@@ -107,130 +110,109 @@
   justify-content: center;
   align-items: center;
   text-align: center;
+  position: absolute;
+  top: -15px;
+  right: 25px;
 }
 
-.credits span {
+.fighter-card-container .credits span {
   font-size: 10px;
   display: block;
 }
 
-.card-body {
-  padding: 25px 15px 5px; /* Adjusted horizontal padding */
+.fighter-card-container .card-body {
+  padding: 25px 15px 5px;
   background-color: #f0f0f0;
   color: #333;
 }
 
-.stats-table {
+.fighter-card-container .stats-table {
   width: 100%;
-  border-collapse: collapse;
+  border-collapse: separate;
+  border-spacing: 0;
   margin-bottom: 15px;
   background-color: #f0f0f0;
-  table-layout: fixed; /* Added to ensure equal column widths */
+  table-layout: fixed;
 }
 
-.stats-table th, .stats-table td {
-  padding: 5px 2px; /* Reduced horizontal padding */
+.fighter-card-container .stats-table th,
+.fighter-card-container .stats-table td {
+  padding: 5px 2px;
   text-align: center;
-  font-size: 16px; /* Slightly reduced font size */
+  font-size: 16px;
   border: none;
-  width: 8.33%; /* Set each column to take up 1/12 of the table width */
+  width: 8.33%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
-.stats-table th {
+.fighter-card-container .stats-table th {
   border-bottom: 1px solid #ccc;
 }
 
-.stats-table th.physical-stat, .stats-table td.physical-stat {
+.fighter-card-container .stats-table th.physical-stat,
+.fighter-card-container .stats-table td.physical-stat {
   background-color: #f0f0f0;
   color: #333;
 }
 
-.stats-table th.mental-stat, .stats-table td.mental-stat {
+.fighter-card-container .stats-table th.mental-stat,
+.fighter-card-container .stats-table td.mental-stat {
   background-color: #e0e0e0;
   color: #333;
 }
 
-.stats-table th:nth-child(9), .stats-table td:nth-child(9) {
+.fighter-card-container .stats-table th:nth-child(9),
+.fighter-card-container .stats-table td:nth-child(9) {
   border-left: 2px solid #999;
 }
 
-.info p {
+.fighter-card-container .info p {
   margin: 5px 0;
   font-size: 18px;
 }
 
-.info strong {
+.fighter-card-container .info strong {
   font-weight: bold;
 }
 
 @media (max-width: 700px) {
-  .fighter-card {
-    padding: 15px;
+  .fighter-card-container .card-header {
+    height: 60px;
   }
 
-  .card-header {
-    padding: 10px 15px;
-  }
-
-  .fighter-type {
-    font-size: 20px;
-  }
-
-  .credits {
+  .fighter-card-container .credits {
     height: 70px;
     width: 70px;
     font-size: 20px;
+    top: -10px;
+    right: 15px;
   }
 
-  .credits span {
-    font-size: 9px;
-  }
-
-  .card-body {
-    padding: 15px 10px; /* Adjusted for smaller screens */
-  }
-
-  .stats-table, .stats-table th, .stats-table td {
+  .fighter-card-container .stats-table,
+  .fighter-card-container .stats-table th,
+  .fighter-card-container .stats-table td {
     font-size: 14px;
-  }
-
-  .info p {
-    font-size: 16px;
   }
 }
 
 @media (max-width: 480px) {
-  .fighter-card {
-    padding: 10px;
+  .fighter-card-container .card-header {
+    height: 50px;
   }
 
-  .card-header {
-    padding: 8px 10px;
-  }
-
-  .fighter-type {
-    font-size: 18px;
-  }
-
-  .credits {
+  .fighter-card-container .credits {
     height: 60px;
     width: 60px;
     font-size: 18px;
+    top: -5px;
+    right: 10px;
   }
 
-  .credits span {
-    font-size: 8px;
-  }
-
-  .card-body {
-    padding: 10px 5px; /* Further adjusted for very small screens */
-  }
-
-  .stats-table, .stats-table th, .stats-table td {
+  .fighter-card-container .stats-table,
+  .fighter-card-container .stats-table th,
+  .fighter-card-container .stats-table td {
     font-size: 12px;
-  }
-
-  .info p {
-    font-size: 14px;
   }
 }
