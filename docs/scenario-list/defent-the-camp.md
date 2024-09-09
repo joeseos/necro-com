@@ -57,3 +57,23 @@ The winning gang's Leader earns D3 XP even if they did not take part in the batt
 
 #### Reputation
 The victorious gang gains D3 Reputation, if either gang bottled out, they lose 1 Reputation.
+
+Home Turf Advantage[​](#home-turf-advantage "Direct link to Home Turf Advantage")
+--------------------------------------------------------------------------------
+
+The defenter has the Home Turf Advantage as described in the Battlefield Set-up & Scenarios section of the _Necromunda Core Rulebook_.
+
+Sneak Attack[​](#sneak-attack "Direct link to Sneak Attack")
+--------------------------------------------------------------------------------
+
+This scenario uses the Sneak Attack rules in the _Necromunda Core Rulebook_.
+
+The Target[​](#the-target "Direct link to The Target")
+--------------------------------------------------------------------------------
+
+The attacker is attemting to take something of value from the defender. If the defender has a Captive from the attacker's gang they are automatically the Target, otherwise use a marker such as a Loot Casket denote the target.
+
+If a captive is the Target, they are assumed to have been subdued and so do not gain a Ready marker and not be activated.
+
+Any attacking fighter within 1" of the Target may perform the carry Target (Basic) action:
+***Carry Target (Basic)***: If this fighter is within 1" of the Target, they may make a Move (Simple) action, carrying the Target with them. When the action ends, the Target is placed in base contact with this fighter. 
