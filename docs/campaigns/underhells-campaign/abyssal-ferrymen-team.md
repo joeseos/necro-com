@@ -211,4 +211,11 @@ When an Abyssal Ferryman team is hired, the player must choose which Enclave the
 ### Explorer[​](#explorer "Direct link to Explorer")
 The Ferryman hails from the Iron Worm or Dust Racers Enclave, their people always on the move in great tracked land-runners or low-flying strato-rigs to stay ahead of the creatures of the Malstrain. An Abyssal Ferryman team from an Explorer Enclave has the New Horizons special rule.
 
+#### New Horizons[​](#new-horizons "Direct link to New Horizons") 
+At the end of each cycle this Abyssal Ferryman team is in the employ of the gang, add D3 Exploration Points to their gang's total.
 
+### Hunter[​](#explorer "Direct link to Hunter")
+The Ferryman comes from the Rust Warrens, Warlords of the Deep, or the Windspine Enclave, their people skilled Malstrain hunters who hang the remains of their kills upon their vehicles as trophies. An Abyssal Ferryman team from a Hunter Enclave has the Cunning Killers special rule. 
+
+#### Cunning Killer[​](#cunning-killer "Direct link to Cunning Killer") 
+While this Abyssal Ferryman team is in the employ of the gang, all members of the team and any friendly fighters within 6" can re-roll failed Wound rolls against Roaming Horrors.
