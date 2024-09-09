@@ -14,7 +14,7 @@ An Abyssal Ferryman Team may not be hired in the usual way, the only way to incl
 #### Wanderers Of The Abyss[​](#wanderers-of-the-abyss "Direct link to Wanderers Of The Abyss") 
 Unlike other models, members of an Abyssal Ferryman team do not gain XP. When rolling on the Lasting Injury table for Ferryman Skippers, Ferryman Rig-hands and Ferryman Steersmen, the result is automatically Out Cold, there is no need to roll the dice. Additionally, whenever a vehicle crewed by a Ferryman Steersman is Wrecked, do not roll on the Lasting Damage lable - Ferryman Steersman are experts at jury-rigging their vehlcle and keeping it running. 
 
-#### "Here To Help"[​](#here-to-help "Direct link to "Here To Help"") 
+#### Here To Help[​](#here-to-help "Direct link to "Here To Help"") 
 Unlike other models, members of an Abyssal Ferryman team do not gain XP. When rolling on the Lasting Injury table for Ferryman Skippers, Ferryman Rig-hands and Ferryman Steersmen, the result is automatically Out Cold, there is no need to roll the dice. Additionally, whenever a vehicle crewed by a Ferryman Steersman is Wrecked, do not roll on the Lasting Damage lable - Ferryman Steersman are experts at jury-rigging their vehlcle and keeping it running. 
 
 <div class="fighter-card">
