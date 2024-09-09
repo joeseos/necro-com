@@ -26,76 +26,93 @@ When a Ferryman Skipper is hired, choose a profile to represent them from those 
 #### Abyssal Ferryman Team Hierarchy (Leader)[​](#abyssal-ferryman-team-hierarchy-leader "Direct link to Abyssal Ferryman Team Hierarchy (Leader)") 
 During a batlle, once this fighter's gang has failed a Bottle check, during any End phase in which this fighter passes its Cool test and does not flee the battlefield, any friendly Abyssal Ferryman team models that are within 12" of this fighter will automatically pass their Cool lest and will not flee the battlefield.
 
-<div class="fighter-card">
-  <div class="card-header">
-    <div class="header-container">
-      <h2 class="fighter-type">Ferryman SKIPPER</h2>
-      <div class="credits">- <span>CREDITS</span></div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fighter Card with Multiple Rows</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="fighter-card-container">
+        <div class="fighter-card">
+            <div class="card-header">
+                <div class="header-container">
+                    <h2 class="fighter-type">Ferryman SKIPPER</h2>
+                    <div class="credits">- <span>CREDITS</span></div>
+                </div>
+            </div>
+            <div class="card-body">
+                <table class="stats-table">
+                    <thead>
+                        <tr>
+                            <th class="physical-stat">M</th>
+                            <th class="physical-stat">WS</th>
+                            <th class="physical-stat">BS</th>
+                            <th class="physical-stat">S</th>
+                            <th class="physical-stat">T</th>
+                            <th class="physical-stat">W</th>
+                            <th class="physical-stat">I</th>
+                            <th class="physical-stat">A</th>
+                            <th class="mental-stat">Ld</th>
+                            <th class="mental-stat">Cl</th>
+                            <th class="mental-stat">Wil</th>
+                            <th class="mental-stat">Int</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td class="physical-stat">4"</td>
+                            <td class="physical-stat">2+</td>
+                            <td class="physical-stat">3+</td>
+                            <td class="physical-stat">3</td>
+                            <td class="physical-stat">3</td>
+                            <td class="physical-stat">3</td>
+                            <td class="physical-stat">3+</td>
+                            <td class="physical-stat">3</td>
+                            <td class="mental-stat">7+</td>
+                            <td class="mental-stat">5+</td>
+                            <td class="mental-stat">6+</td>
+                            <td class="mental-stat">6+</td>
+                        </tr>
+                        <tr>
+                            <td class="physical-stat">5"</td>
+                            <td class="physical-stat">3+</td>
+                            <td class="physical-stat">4+</td>
+                            <td class="physical-stat">4</td>
+                            <td class="physical-stat">3</td>
+                            <td class="physical-stat">2</td>
+                            <td class="physical-stat">2+</td>
+                            <td class="physical-stat">2</td>
+                            <td class="mental-stat">8+</td>
+                            <td class="mental-stat">6+</td>
+                            <td class="mental-stat">7+</td>
+                            <td class="mental-stat">5+</td>
+                        </tr>
+                        <tr>
+                            <td class="physical-stat">3"</td>
+                            <td class="physical-stat">4+</td>
+                            <td class="physical-stat">2+</td>
+                            <td class="physical-stat">2</td>
+                            <td class="physical-stat">4</td>
+                            <td class="physical-stat">4</td>
+                            <td class="physical-stat">4+</td>
+                            <td class="physical-stat">1</td>
+                            <td class="mental-stat">6+</td>
+                            <td class="mental-stat">4+</td>
+                            <td class="mental-stat">5+</td>
+                            <td class="mental-stat">7+</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <div class="info">
+                    <p><strong>Skills:</strong> 1 Primary (custom).</p>
+                    <p><strong>Restrictions:</strong> None.</p>
+                    <p><strong>Special Rules:</strong> Gang Leader, Spyre Hunter, Experienced Hunter.</p>
+                </div>
+            </div>
+        </div>
     </div>
-  </div>
-  <div class="card-body">
-    <table class="stats-table">
-      <tr>
-        <th class="physical-stat">M</th>
-        <th class="physical-stat">WS</th>
-        <th class="physical-stat">BS</th>
-        <th class="physical-stat">S</th>
-        <th class="physical-stat">T</th>
-        <th class="physical-stat">W</th>
-        <th class="physical-stat">I</th>
-        <th class="physical-stat">A</th>
-        <th class="mental-stat">Ld</th>
-        <th class="mental-stat">Cl</th>
-        <th class="mental-stat">Wil</th>
-        <th class="mental-stat">Int</th>
-      </tr>
-      <tr>
-        <td class="physical-stat">5"</td>
-        <td class="physical-stat">4+</td>
-        <td class="physical-stat">3+</td>
-        <td class="physical-stat">3</td>
-        <td class="physical-stat">3</td>
-        <td class="physical-stat">2</td>
-        <td class="physical-stat">2+</td>
-        <td class="physical-stat">3</td>
-        <td class="mental-stat">7+</td>
-        <td class="mental-stat">6+</td>
-        <td class="mental-stat">7+</td>
-        <td class="mental-stat">7+</td>
-      </tr>
-      <tr>
-        <td class="physical-stat">5"</td>
-        <td class="physical-stat">3+</td>
-        <td class="physical-stat">4+</td>
-        <td class="physical-stat">4</td>
-        <td class="physical-stat">3</td>
-        <td class="physical-stat">2</td>
-        <td class="physical-stat">4+</td>
-        <td class="physical-stat">2</td>
-        <td class="mental-stat">8+</td>
-        <td class="mental-stat">5+</td>
-        <td class="mental-stat">6+</td>
-        <td class="mental-stat">6+</td>
-      </tr>
-      <tr>
-        <td class="physical-stat">4"</td>
-        <td class="physical-stat">4+</td>
-        <td class="physical-stat">3+</td>
-        <td class="physical-stat">3</td>
-        <td class="physical-stat">4</td>
-        <td class="physical-stat">2</td>
-        <td class="physical-stat">3+</td>
-        <td class="physical-stat">2</td>
-        <td class="mental-stat">7+</td>
-        <td class="mental-stat">6+</td>
-        <td class="mental-stat">7+</td>
-        <td class="mental-stat">5+</td>
-      </tr>
-    </table>
-    <div class="info">
-      <p><strong>Skills:</strong> 1 Primary (custom).</p>
-      <p><strong>Restrictions:</strong> None.</p>
-      <p><strong>Special Rules:</strong> Leader of the Ferrymen, Abyssal Ferryman Team Hierarchy (Leader).</p>
-    </div>
-  </div>
-</div>
+</body>
+</html>
