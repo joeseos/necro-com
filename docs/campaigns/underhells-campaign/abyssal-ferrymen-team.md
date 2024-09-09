@@ -209,3 +209,6 @@ Dozens of Ferryman enclaves exist within the wastelands sorounding Hive Secundus
 When an Abyssal Ferryman team is hired, the player must choose which Enclave they hail from, which will then inform their playstyle and any special rules they bring to the gang they have joined.
 
 ### Explorer[​](#explorer "Direct link to Explorer")
+The Ferryman hails from the Iron Worm or Dust Racers Enclave, their people always on the move in great tracked land-runners or low-flying strato-rigs to stay ahead of the creatures of the Malstrain. An Abyssal Ferryman team from an Explorer Enclave has the New Horizons special rule.
+
+
