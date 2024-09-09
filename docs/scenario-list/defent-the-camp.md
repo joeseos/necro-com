@@ -2,7 +2,7 @@
 sidebar_position: 152
 ---
 
-_Gangs are looting the depths of the hive when ancient machinery grinds to life._
+# Defend The Camp
 
 _Source: Necromunda 2018 Rulebook_
 
