@@ -80,6 +80,20 @@ This Territory grants the following Boon:
         <td class="mental-stat">6+</td>
         <td class="mental-stat">6+</td>
       </tr>
+      <tr>
+        <td class="physical-stat">4"</td>
+        <td class="physical-stat">4+</td>
+        <td class="physical-stat">3+</td>
+        <td class="physical-stat">3</td>
+        <td class="physical-stat">4</td>
+        <td class="physical-stat">2</td>
+        <td class="physical-stat">3+</td>
+        <td class="physical-stat">2</td>
+        <td class="mental-stat">7+</td>
+        <td class="mental-stat">6+</td>
+        <td class="mental-stat">7+</td>
+        <td class="mental-stat">5+</td>
+      </tr>
     </table>
     <div class="info">
       <p><strong>Skills:</strong> 1 Primary (custom).</p>
