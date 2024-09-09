@@ -26,6 +26,7 @@ When a Ferryman Skipper is hired, choose a profile to represent them from those 
 #### Abyssal Ferryman Team Hierarchy (Leader)[​](#abyssal-ferryman-team-hierarchy-leader "Direct link to Abyssal Ferryman Team Hierarchy (Leader)") 
 During a batlle, once this fighter's gang has failed a Bottle check, during any End phase in which this fighter passes its Cool test and does not flee the battlefield, any friendly Abyssal Ferryman team models that are within 12" of this fighter will automatically pass their Cool lest and will not flee the battlefield.
 
+### Ferryman Skipper[​](#ferryman-skipper "Direct link to Ferryman Skipper")
 <div class="fighter-card">
   <div class="card-header">
     <div class="header-container">
