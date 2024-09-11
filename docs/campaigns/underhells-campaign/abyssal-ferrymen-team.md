@@ -111,7 +111,7 @@ When a Ferryman Rig-hand is hired, choose a profile to represent them from those
 <div class="fighter-card">
   <div class="card-header">
     <div class="header-container">
-      <h2 class="fighter-type">Ferryman RIG_HAND</h2>
+      <h2 class="fighter-type">Ferryman RIG HAND</h2>
       <div class="credits">- <span>CREDITS</span></div>
     </div>
   </div>
