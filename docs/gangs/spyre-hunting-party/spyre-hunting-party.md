@@ -261,8 +261,8 @@ Fighters[​](#fighters "Direct link to Fighters")
     </table>
     <div class="info">
       <p><strong>Skills:</strong> 1 Primary (custom).</p>
-      <p><strong>Weapons:</strong> Orrus power talons, two bolt launchers.</p>
-      <p><strong>Wargear:</strong> Orrus hunting rig.</p> 
+      <p><strong>Weapons:</strong> Paired Yeld laser gauntlets and Yeld wings.</p>
+      <p><strong>Wargear:</strong> Yeld hunting rig.</p> 
       <p><strong>Restrictions:</strong> None.</p>
       <p><strong>Special Rules:</strong> Spyre Hunter.</p>
     </div>
