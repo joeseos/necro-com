@@ -416,7 +416,7 @@ Fighters[​](#fighters "Direct link to Fighters")
   </div>
 </div>
 
-Spyre Hunter Skill Access[​](#spyre-hunter-skill-access "Direct link to Spyre Hunter Skill Access")
+Skill Access[​](#skill-access "Direct link to Skill Access")
 ------------------------------------------------------------
 
 |                                |Agility	 |Brawn	 |Combat   |Cunning  |Ferocity |Leadership |Savant |Shooting |
