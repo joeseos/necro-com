@@ -128,7 +128,7 @@ Fighters[​](#fighters "Direct link to Fighters")
 <div class="fighter-card">
   <div class="card-header">
     <div class="header-container">
-      <h2 class="fighter-type">SPYRE HUNT MASTER (LEADER)</h2>
+      <h2 class="fighter-type">SPYRE HUNTER Master (LEADER)</h2>
       <div class="credits">180 <span>CREDITS</span></div>
     </div>
   </div>
@@ -165,8 +165,10 @@ Fighters[​](#fighters "Direct link to Fighters")
     </table>
     <div class="info">
       <p><strong>Skills:</strong> 1 Primary (custom).</p>
+      <p><strong>Weapons:</strong> </p>
+      <p><strong>Wargear:</strong> Sovereign hunting rig.</p> 
       <p><strong>Restrictions:</strong> None.</p>
-      <p><strong>Special Rules:</strong> Gang Leader, Spyre Hunter, Experienced Hunter.</p>
+      <p><strong>Special Rules:</strong> Gang Leader. Spyre Hunter. Experienced Hunter.</p>
     </div>
   </div>
 </div>
