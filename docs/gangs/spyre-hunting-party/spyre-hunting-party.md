@@ -367,8 +367,57 @@ Fighters[​](#fighters "Direct link to Fighters")
   </div>
 </div>
 
-Skill Access[​](#fskill-access "Direct link to Skill Access")
-------------------------------------------------
+### Caryatid Prime[​](#caryatid-prime "Direct link to Caryatid Prime")
+<div class="fighter-card">
+  <div class="card-header">
+    <div class="header-container">
+      <h2 class="fighter-type">CARYATID PRIME (EXOTIC BEAST)</h2>
+      <div class="credits">90 <span>CREDITS</span></div>
+    </div>
+  </div>
+  <div class="card-body">
+    <table class="stats-table">
+      <tr>
+        <th class="physical-stat">M</th>
+        <th class="physical-stat">WS</th>
+        <th class="physical-stat">BS</th>
+        <th class="physical-stat">S</th>
+        <th class="physical-stat">T</th>
+        <th class="physical-stat">W</th>
+        <th class="physical-stat">I</th>
+        <th class="physical-stat">A</th>
+        <th class="mental-stat">Ld</th>
+        <th class="mental-stat">Cl</th>
+        <th class="mental-stat">Wil</th>
+        <th class="mental-stat">Int</th>
+      </tr>
+      <tr>
+        <td class="physical-stat">6"</td>
+        <td class="physical-stat">5+</td>
+        <td class="physical-stat">-</td>
+        <td class="physical-stat">2</td>
+        <td class="physical-stat">2</td>
+        <td class="physical-stat">1</td>
+        <td class="physical-stat">2+</td>
+        <td class="physical-stat">1</td>
+        <td class="mental-stat">7+</td>
+        <td class="mental-stat">6+</td>
+        <td class="mental-stat">7+</td>
+        <td class="mental-stat">8+</td>
+      </tr>
+    </table>
+    <div class="info">
+      <p><strong>Skills:</strong> 1 Primary (custom).</p>
+      <p><strong>Weapons:</strong></p>
+      <p><strong>Wargear:</strong> A Caryatid Prime may not purchase weapons or Wargear. A Caryatid Prime carries no weapons and will always make unarmed attacks.</p> 
+      <p><strong>Restrictions:</strong> None.</p>
+      <p><strong>Special Rules:</strong> Spyrer companion. Charmed Companion. Precognition. Flight.</p>
+    </div>
+  </div>
+</div>
+
+Spyre Hunter Skill Access[​](#spyre-hunter-skill-access "Direct link to Spyre Hunter Skill Access")
+------------------------------------------------------------
 
 |                                |Agility	 |Brawn	 |Combat   |Cunning  |Ferocity |Leadership |Savant |Shooting |
 |:-------------------------------|:--------|:------|:--------|:--------|:--------|:----------|:------|:--------|
