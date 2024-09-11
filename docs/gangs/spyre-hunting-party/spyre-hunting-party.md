@@ -124,7 +124,7 @@ If a roll on the Power Boost table would increase e a characteristic beyond its 
 Fighters[​](#fighters "Direct link to Fighters")
 ------------------------------------------------
 
-### Spyre Hunter Master[​](#spyre-hunter-master "Direct link to Spyre Hunter Master")
+### Spyre Hunt Master[​](#spyre-hunt-master "Direct link to Spyre Hunt Master")
 <div class="fighter-card">
   <div class="card-header">
     <div class="header-container">
