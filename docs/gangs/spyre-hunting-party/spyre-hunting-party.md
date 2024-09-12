@@ -199,14 +199,6 @@ Fighters[​](#fighters "Direct link to Fighters")
   </div>
 </div>
 
-<script>
-  document.querySelectorAll('.dropdown-header').forEach(header => {
-    header.addEventListener('click', () => {
-      header.parentElement.classList.toggle('active');
-    });
-  });
-</script>
-
 ### Orrus Spyre Hunter[​](#orrus-spyre-hunter "Direct link to Orrus Spyre Hunter")
 <div class="fighter-card">
   <div class="card-header">
