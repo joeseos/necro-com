@@ -170,8 +170,42 @@ Fighters[​](#fighters "Direct link to Fighters")
       <p><strong>Restrictions:</strong> None.</p>
       <p><strong>Special Rules:</strong> Gang Leader. Spyre Hunter. Experienced Hunter.</p>
     </div>
+    <div class="dropdown">
+      <div class="dropdown-header">Special Rules</div>
+      <div class="dropdown-content">
+        <div class="dropdown-inner">
+          <p><strong>Gang Leader:</strong> [Insert gang leader rules here]</p>
+          <p><strong>Spyre Hunter:</strong> [Insert spyre hunter rules here]</p>
+          <p><strong>Experienced Hunter:</strong> [Insert experienced hunter rules here]</p>
+        </div>
+      </div>
+    </div>
+    <div class="dropdown">
+      <div class="dropdown-header">Skill Access</div>
+      <div class="dropdown-content">
+        <div class="dropdown-inner">
+          <p>[Insert skill access information here]</p>
+        </div>
+      </div>
+    </div>
+    <div class="dropdown">
+      <div class="dropdown-header">Equipment</div>
+      <div class="dropdown-content">
+        <div class="dropdown-inner">
+          <p>[Insert equipment details here]</p>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
+
+<script>
+  document.querySelectorAll('.dropdown-header').forEach(header => {
+    header.addEventListener('click', () => {
+      header.parentElement.classList.toggle('active');
+    });
+  });
+</script>
 
 ### Orrus Spyre Hunter[​](#orrus-spyre-hunter "Direct link to Orrus Spyre Hunter")
 <div class="fighter-card">
