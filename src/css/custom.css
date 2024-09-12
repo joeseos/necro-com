@@ -125,6 +125,7 @@
 .card-header {
   background-color: #333;
   padding: 10px 25px;
+  margin: -20px -20px 20px -20px;
 }
 
 .header-container {
@@ -209,6 +210,51 @@
 
 .info strong {
   font-weight: bold;
+}
+
+.dropdown {
+  background-color: #e0e0e0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-top: 10px;
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+
+.dropdown-header {
+  background-color: #d0d0d0;
+  color: #333;
+  padding: 10px;
+  cursor: pointer;
+  user-select: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: bold;
+}
+
+.dropdown-header::after {
+  content: '▼';
+  font-size: 12px;
+  transition: transform 0.3s ease;
+}
+
+.dropdown.active .dropdown-header::after {
+  transform: rotate(180deg);
+}
+
+.dropdown-content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease;
+}
+
+.dropdown.active .dropdown-content {
+  max-height: 500px;
+}
+
+.dropdown-inner {
+  padding: 10px;
 }
 
 @media (max-width: 700px) {
