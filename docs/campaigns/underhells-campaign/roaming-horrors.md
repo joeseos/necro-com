@@ -9,7 +9,7 @@ The psychic awareness of the Malstrain Patriarch is constantly scanning the excl
 
 Using Roaming Horrors[​](#using-roaming-horrors "Direct link to Using Roaming Horrors")
 ---------------------------------------------------------------------------------------------
-In a scenario that uses Roan1ing Horrors, the player with Priority rolls on one of the tables that follows before the Ready Gang step. Which table is rolled on is determined by the current region the gangs are exploring. When a Horror is generated, they are placed as detailed below. 
+In a scenario that uses Roaming Horrors, the player with Priority rolls on one of the tables that follows before the Ready Gang step. Which table is rolled on is determined by the current region the gangs are exploring. When a Horror is generated, they are placed as detailed below. 
 
 
 ### Dead Zone[​](#dead-zone "Direct link to Dead Zone")
