@@ -15,7 +15,7 @@ This Territory grants the following Boons:
 
 **Income:** The gang earns 2D6x10 credits from this Territory when collecting income.
 
-**Recruit:** While a gang oontrols this Territory, during step 6 of the pre-battle sequence, they may add D3 Hive scum to their starting gang for free for the duration of the battle.
+**Recruit:** While a gang controls this Territory, during step 6 of the pre-battle sequence, they may add D3 Hive scum to their starting gang for free for the duration of the battle.
 
 Forlorn Waystation - Secundan Abyss[​](#fornlorn-waystation-secundan-abyss "Direct link to Fornlorn Waystation - Secundan Abyss")
 ---------------------------------------------------
