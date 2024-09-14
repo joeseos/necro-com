@@ -39,7 +39,7 @@ This Territory grants the following Boon:
 
 **Income:** The gang earns D6x10 credits from this Territory when collecting income.
 
-**Special:** While a gang controls thiS Territory, they may add up to D6x10 credits worth of equipment from their Gang Equipment List to their Stash during the post-battle sequence for free. 
+**Special:** While a gang controls this Territory, they may add up to D6x10 credits worth of equipment from their Gang Equipment List to their Stash during the post-battle sequence for free. 
 
 Girder Forest - Secundan Abyss[​](#girder-forest-secundan-abyss "Direct link to Girder Forest - Secundan Abyss")
 ------------------------------------------------------------------------
