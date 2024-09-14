@@ -51,7 +51,7 @@ This Territory grants the following Boons:
 
 **Income:** The gang earns D6x10 credits from this Territory when collecting income.
 
-**Recruit:** While a gang oontrols this Territory, during step 6 of the pre-battle sequence, they may add a Brute to their starting gang for free for the duration of the battle.
+**Recruit:** While a gang controls this Territory, during step 6 of the pre-battle sequence, they may add a Brute to their starting gang for free for the duration of the battle.
 
 Hunters Enclave - Secundan Abyss[​](#hunters-enclave-secundan-abyss "Direct link to Hunters Enclave - Secundan Abyss")
 ------------------------------------------------------------------------
