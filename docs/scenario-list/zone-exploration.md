@@ -6,11 +6,6 @@ sidebar_position: 153
 
 _Source: The Book of Desolation (2024)_
 
-Attacker And Defender[​](#attacker-and-defender "Direct link to Attacker And Defender")
----------------------------------------------------------
-
-In this scenario, one gang is the attacker and the other is the defender. If this scenrio is being played as part of a campaign, then the gang that issued the challange is the attacker; otherwise, roll off with the winner deciding whether they will attack or defend.
-
 Battle Type[​](#battle-type "Direct link to Battle Type")
 ---------------------------------------------------------
 
