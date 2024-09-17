@@ -59,48 +59,20 @@ The victorious gang gains D3 Reputation.
 
 If either gang bottle out, they lose 1 Reputation.
 
-Home Turf Advantage[​](#home-turf-advantage "Direct link to Home Turf Advantage")
+Hunt For Archeotech[​](#hunt-for-archeotech "Direct link to Hunt For Archeotech")
 --------------------------------------------------------------------------------
 
-The defenter has the Home Turf Advantage as described in the Battlefield Set-up & Scenarios section of the _Necromunda Core Rulebook_.
+After that the battlefield has been set up, starting with the winner of a roll-off, players take turns placing 6 Archeotech markers on the battlefield. Each Archeotech marker can be placed anywhere on the battlefield at least 6" from a battlefield edge and 9" from another Archeotech marker.
 
-Sneak Attack[​](#sneak-attack "Direct link to Sneak Attack")
---------------------------------------------------------------------------------
+Once all Archeotech markers have been placed, they are each assigned a number from 1 to 6. Any fighter within 1" of an Archeotech marker may perform the Search for Archeotech (Basic) action:
 
-This scenario uses the Sneak Attack rules in the _Necromunda Core Rulebook_.
-
-The Target[​](#the-target "Direct link to The Target")
---------------------------------------------------------------------------------
-
-The attacker is attemting to take something of value from the defender. If the defender has a Captive from the attacker's gang they are automatically the Target, otherwise use a marker such as a Loot Casket denote the target.
-
-If a captive is the Target, they are assumed to have been subdued and so do not gain a Ready marker and not be activated.
-
-Any attacking fighter within 1" of the Target may perform the carry Target (Basic) action:
-
-**Carry Target (Basic)**: If this fighter is within 1" of the Target, they may make a Move (Simple) action, carrying the Target with them. When the action ends, the Target is placed in base contact with this fighter. 
-
-Reinforcements[​](#reinforcements "Direct link to Reinforcements")
------------------------------------------------------------------
-
-In the round that the alarm is raised, and in each subsequent round, D3 Reinforcements arrive for the defender.
-
-Escaping The Battlefield[​](#escaping-the-battlefield "Direct link to Escaping The Battlefield")
------------------------------------------------------------------------------------------------
-
-If, at the start of the End phase, the Target is within 1" of any battlefield edge, they are removed from the battlefield. Once the Target has been removed from the battlefield, any attacking fighter within 1" of a battlefield edge may perform the Escape (Basic) action:
-
-**Escape (Basic)**: Remove this fighter from the battlefield. They count as having been taken Out of Action for the purpose of Bottle checks.
-
-Spawn Points[​](#spawn-points "Direct link to Spawn Points")
------------------------------------------------------------
-
-Before deploying their gang, the defender places six Spawn Points anywhere they wish within 1" of a battlefield edge and assigns them each a number from 1 to 6.
+#### Search For Archeotech (Basic): 
+The fighter makes an Intelligence test. If the test is passed then their gang increases their Archeotech points by 1. If the test is failed, the fighters's activation ends immediately.
 
 Roaming Horrors[​](#roaming-horrors "Direct link to Roaming Horrors")
 --------------------------------------------------------------------
 
-No Roaming Horrors are generated until the alarm has been raised. Once the alarm has been raised they are generated as described on page 82. Once they have been generated, the player with Priority rolls a D6 and places them all as close to the Spawn Point with the corresponding number as possible, at least 1" away from other models.
+No Roaming Horrors are placed during the first two rounds. From the third round onwards Roaming Horrors are generated as described on page 82. Once they have been generated, the player with Priority rolls a D6 and places them all as close to the Archeotech marker with the corresponding number as possible, at least 1" away from other models. 
 
 Fleeing The Battlefield[​](#fleeing-the-battlefield "Direct link to Fleeing The Battlefield")
 --------------------------------------------------------------------------------------------
