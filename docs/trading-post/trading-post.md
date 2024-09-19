@@ -1,4 +1,4 @@
-# First Principles
+# Trading Post
 _Source: Necromunda Core Rulebook (2023)_
 
 Unlike in the 2023 Core Rules, this Section lists _all_ items available in Necromunda.
