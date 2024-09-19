@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Status Items - Servo-Skulls
 
 :::note
