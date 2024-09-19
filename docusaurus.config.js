@@ -100,7 +100,7 @@ const config = {
             ],
           },
            {
-            label: 'Tradin Post',
+            label: 'Trading Post',
             position: 'left',
             items: [
               {
@@ -122,6 +122,26 @@ const config = {
               {
                 label: 'Close Combat Weapons',
                 to: '/docs/trading-post/close-combat', // Link to Weapon Traits page
+              },
+              {
+                label: 'Grenades',
+                to: '/docs/trading-post/grenades', // Link to Weapon Traits page
+              },
+              {
+                label: 'Armour',
+                to: '/docs/trading-post/armour', // Link to Armour page
+              },
+              {
+                label: 'Personal Equipment',
+                to: '/docs/trading-post/personal-equipment', // Link to Personal Equipment page
+              },
+              {
+                label: 'Bionics',
+                to: '/docs/trading-post/bionics', // Link to Bionics page
+              },
+              {
+                label: 'Chems',
+                to: '/docs/trading-post/chems', // Link to Chems page
               },
             ],
           }, 
