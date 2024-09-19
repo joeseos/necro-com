@@ -4,7 +4,7 @@ sidebar_position: 10
 
 # Field Armour
 
-::: note
+:::note
 
 This page has been reworded to comply with copyright. Refer to an item's source for its original text.
 
