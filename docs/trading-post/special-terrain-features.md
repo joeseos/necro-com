@@ -1,3 +1,7 @@
+---
+sidebar_position: 8
+---
+
 # Special Terrain Features
 
 | Weapon | Rg S | Rg L | Ac S | Ac L | S | AP | D | Am | Traits | AL | Cost |
