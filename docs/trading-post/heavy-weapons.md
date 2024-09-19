@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+---
+
 # Heavy Weapons
 
 ## Trading Post[](https://necrovox.org/docs/armoury/basic-weapons#trading-post "Direct link to Trading Post")
