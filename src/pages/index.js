@@ -18,7 +18,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/core-rules">
+            to="/docs/intro">
             CORE RULES
           </Link>
           <Link
@@ -30,7 +30,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             style={{ marginLeft: '10px' }}
-            to="/docs/trading-post">
+            to="/docs/gang-fighters--their-weaponry/weapon-traits">
             TRADING POST
           </Link>
         </div>
