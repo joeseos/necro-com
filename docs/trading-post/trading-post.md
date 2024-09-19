@@ -1,4 +1,9 @@
+# First Principles
+_Source: Necromunda Core Rulebook (2023)_
+
 Unlike in the 2023 Core Rules, this Section lists _all_ items available in Necromunda.
+
+:::note
 
 This section includes everything from the Trading Post, gang lists and other sources such as gear unique to characters or scenarios.
 
@@ -25,3 +30,5 @@ Some items are were on a previous Trading Post but not listed in the 2023 Core R
 
 
 ^ Not in the 2023 Core Rules
+
+:::
