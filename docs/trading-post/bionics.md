@@ -4,7 +4,7 @@ sidebar_position: 11
 
 # Bionics
 
-::: note
+:::note
 
 This page has been reworded to comply with copyright. Refer to the _Necromunda Core Rulebook (2023)_ for its original text.
 
