@@ -1,3 +1,7 @@
+---
+sidebar_position: 5
+---
+
 # Close Combat Weapons
 
 ## Knives[](https://necrovox.org/docs/armoury/basic-weapons#knives "Direct link to Knives")
