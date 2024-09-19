@@ -105,27 +105,27 @@ const config = {
             items: [
               {
                 label: 'Basic Weapons',
-                to: '/docs/trading-post/basic-weapons', // Link to Basic Weapons
+                to: '/docs/trading-post/basic-weapons', // Link to Basic Weapons page
               },
               {
                 label: 'Pistols',
-                to: '/docs/trading-post/pistols', // Link to Conditions page
+                to: '/docs/trading-post/pistols', // Link to Pistols page
               },
               {
                 label: 'Special Weapons',
-                to: '/docs/trading-post/special-weapons', // Link to Skills page
+                to: '/docs/trading-post/special-weapons', // Link to Special Weapons page
               },
               {
                 label: 'Heavy Weapons',
-                to: '/docs/trading-post/heavy-weapons', // Link to Weapon Traits page
+                to: '/docs/trading-post/heavy-weapons', // Link to Heavy Weapons page
               },
               {
                 label: 'Close Combat Weapons',
-                to: '/docs/trading-post/close-combat', // Link to Weapon Traits page
+                to: '/docs/trading-post/close-combat', // Link to Close Combat Weapons page
               },
               {
                 label: 'Grenades',
-                to: '/docs/trading-post/grenades', // Link to Weapon Traits page
+                to: '/docs/trading-post/grenades', // Link to Grenades page
               },
               {
                 label: 'Armour',
