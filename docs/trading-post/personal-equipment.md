@@ -549,9 +549,11 @@ _Source: The Aranthian Succession: Ruins of Jardlan_
 
 **Auto-gyro Stabilisation:** +2 to the Initiative test to avoid being pinned when hit by attempting to perform the **Stand Up (Basic)** action.
 
-Grav-Cutters In The Ash Wastes
+::: INFO Grav-Cutters In The Ash Wastes
 
 "When founding a gang for an Ash Wastes Campaign, grav-cutters count as Wargear that grants the Mounted condition. However, grav-cutters may still be used in battles that do not allow Wargear that grants the Mounted condition (note this does not allow ash waste grav-cutters to be used in these battles)."
+
+:::
 
 ### Ash Cloak[](https://necrovox.org/docs/armoury/armour#ash-cloak "Direct link to Ash Cloak")
 
