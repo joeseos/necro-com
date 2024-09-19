@@ -5,6 +5,64 @@ sidebar_position: 8
 # List Of Underhells Campaign Territories
 _Source: The Book of Desolation (2024)_
 
+Old Bunker - Dead Zone[​](#old-bunker-dead-zone "Direct link to Old Bunker - Dead Zone")
+------------------------------------------------------
+
+_A remnant of the war for Hive Secundis, this collection of fortified bunkers has managed to survive, and through ruined offers shelters and good vantage points to provide early warnings of attacks._
+
+#### Territory Boons[​](#territory-boon "Direct link to Territory Boons")
+This Territory grants the following Boons:
+
+**Income:** The gang earns 2D6x10 credits from this Territory when collecting income.
+
+**Recruit:** While a gang controls this Territory, they may add a Gang Lookout to their gang rooster for free.
+
+Abandoned Battlefield - Dead Zone[​](#abandoned-battlefield-dead-zone "Direct link to Abandoned Battlefield - Dead Zone")
+------------------------------------------------------
+
+_The Dead Zone is littered with the buried remains of the battles between the Cult of the Second Son and Necromunda's planetary defence force. Occasionally, the ever-present storms will reveal one of these sites - a prime location for scavenging before it becomes buried again._
+
+#### Territory Boons[​](#territory-boon "Direct link to Territory Boons")
+This Territory grants the following Boons:
+
+**Income:** The gang earns 2D6x10 credits from this Territory when collecting income.
+
+**Special:** While a gang contcols this Territory, they may add 2 to the Availability Level when they perform a Trade post-battle action. 
+
+Hidden Holdfast - Dead Zone[​](#hidden-holdfast-dead-zone "Direct link to Hidden Holdfast - Dead Zone")
+------------------------------------------------------
+
+_The Dead Zone is full of buried passages, from those dug by the Cult of the Second Son to try to break the defence lines to trenches half-buried by centuries of storms. These can make secure camps and also provide unexpected entry to other areas._
+
+#### Territory Boons[​](#territory-boon "Direct link to Territory Boons")
+This Territory grants the following Boons:
+
+**Income:** The gang earns 2D6x10 credits from this Territory when collecting income.
+
+**Special:** While a gang contcols this Territory, during step 6 of the pre-battle sequence, D3 of their fighters gain the Infiltrate skill for the duration of the battle. 
+
+Abandoned Promethium Station - Dead Zone[​](#abandoned-promethium-station-dead-zone "Direct link to Abandoned Promethium Station - Dead Zone")
+------------------------------------------------------
+
+_Before the Dust Wall was erected and the Dead zone became cut off from the rest of Necromunda, it was a prosperous and busy nexus of trade. Some of the old promethium refuelling stations can still be found and if a gang is very lucky, there may ve the last dregs of fuel that can be taken to keep their vehicles running._
+
+#### Territory Boons[​](#territory-boon "Direct link to Territory Boons")
+This Territory grants the following Boons:
+
+**Income:** The gang earns 2D6x10 credits from this Territory when collecting income.
+
+**Special:** While a gang contcols this Territory, all vehicles in their crew increase their Movement characteristic by 1".
+
+Crashed Stratoplane - Dead Zone[​](#crashed-stratoplane-dead-zone "Direct link to Crashed Stratoplane - Dead Zone")
+------------------------------------------------------
+
+_Weather abandoned during the war for Hive Secundus or shot down trying to cross the Dust Wall, the carcasses of stratoplanes offer shelter from Necromunda's atmosåhere and are also a rich source of scrap._
+
+#### Territory Boons[​](#territory-boon "Direct link to Territory Boons")
+This Territory grants the following Boons:
+
+**Income:** The gang earns 3D6x10 credits from this Territory when collecting income.
+
 Fallen Crane - Dead Zone[​](#fallen-crane-dead-zone "Direct link to Fallen Crane - Dead Zone")
 ------------------------------------------------------
 
