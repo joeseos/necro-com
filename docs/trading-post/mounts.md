@@ -1,3 +1,7 @@
+---
+sidebar_position: 18
+---
+
 # Mounts
 
 For Mount rules, see the [Mounted](https://necrovox.org/docs/general-principles/conditions#mounted) condition.
