@@ -1,3 +1,7 @@
+---
+sidebar_position: 17
+---
+
 # Vehicle Upgrades & Wargear
 
 ## Weapons[](https://necrovox.org/docs/armoury/status-items/#weapons "Direct link to Weapons")
