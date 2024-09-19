@@ -187,7 +187,7 @@ See [Personal Equipment: Armoured Undersuit](https://necrovox.org/docs/armoury/p
 
 **Save:** +2 melee in front vision arc, +1 ranged in front vision arc.
 
-::: note
+:::note
 
 The shield is also a close combat weapon (Str S, Knockback).
 
