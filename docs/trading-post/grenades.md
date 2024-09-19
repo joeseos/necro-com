@@ -1,3 +1,7 @@
+---
+sidebar_position: 6
+---
+
 # Grenades
 
 ## Trading Post[](https://necrovox.org/docs/armoury/basic-weapons#trading-post "Direct link to Trading Post")
