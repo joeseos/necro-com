@@ -109,14 +109,11 @@ const config = {
               },
             ],
           },
-           {
-            label: 'Scenarios',
-            position: 'left',
-            items: [
-              {
-                label: 'Scenarios',
-                to: 'docs/scenario-list', // Link to Gang List page
-              },
+          {
+           label: 'Scenarios',
+           to: 'docs/scenario-list',
+           position: 'left',
+            },
             ],
           },
           { to: '/blog', label: 'UPDATES', position: 'right' }, // Blog section
