@@ -99,6 +99,32 @@ const config = {
               },
             ],
           },
+           {
+            label: 'Tradin Post',
+            position: 'left',
+            items: [
+              {
+                label: 'Basic Weapons',
+                to: '/docs/trading-post/basic-weapons', // Link to Basic Weapons
+              },
+              {
+                label: 'Pistols',
+                to: '/docs/trading-post/pistols', // Link to Conditions page
+              },
+              {
+                label: 'Special Weapons',
+                to: '/docs/trading-post/special-weapons', // Link to Skills page
+              },
+              {
+                label: 'Heavy Weapons',
+                to: '/docs/trading-post/heavy-weapons', // Link to Weapon Traits page
+              },
+              {
+                label: 'Close Combat Weapons',
+                to: '/docs/trading-post/close-combat', // Link to Weapon Traits page
+              },
+            ],
+          }, 
           {
             label: 'Campaigns',
             position: 'left',
@@ -114,28 +140,6 @@ const config = {
            to: '/docs/scenario-list',
            position: 'left',
          },
-          {
-            label: 'Rules',
-            position: 'left',
-            items: [
-              {
-                label: 'Rules Intro',
-                to: '/docs/intro', // Link to Rules Intro page
-              },
-              {
-                label: 'Conditions',
-                to: '/docs/general-principles/conditions', // Link to Conditions page
-              },
-              {
-                label: 'Skills',
-                to: '/docs/gang-fighters--their-weaponry/skills', // Link to Skills page
-              },
-              {
-                label: 'Weapon Traits',
-                to: '/docs/gang-fighters--their-weaponry/weapon-traits', // Link to Weapon Traits page
-              },
-            ],
-          }, 
           { to: '/blog', label: 'UPDATES', position: 'right' }, // Blog section
           {
             href: 'https://github.com/joeseos/necro-com',
