@@ -2,6 +2,8 @@
 sidebar_position: 4.5
 ---
 
+# Gang Specific Skills
+
 | D6 | Piety  House Cawdor | Obfuscation  House Delaque | Finesse  House Escher | Muscle  House Goliath | Bravado  House Orlock | Tech  House Van Saar |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Lord of the Rats | Faceless | [Acrobatic](https://necrovox.org/docs/gang-fighters-and-their-weaponry/skills/gang-specific-skills#1-acrobatic) | Fists of Steel | Big Brother | Cold & Calculating |
