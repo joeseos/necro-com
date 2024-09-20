@@ -11,11 +11,7 @@ sidebar_position: 4.5
 | 5 | Devotional Frenzy | Fake Out | Lightning Reflexes | Unleash the Beast | Shotgun Savant | Rad-phaged |
 | 6 | Restless Faith | Doppelganger | Somersault | Walk It Off | Steady Hands | Weaponsmith |
 
-| D6 | Palanite Drill  
-Palanite Enforcers | Savagery  
-Corpse Grinder Cult | Wastelands  
-Ash Wastes Nomads | Wisdom of the Ancients  
-Ironhead Squat Prospectors |
+| D6 | Palanite Drill  Palanite Enforcers | Savagery  Corpse Grinder Cult | Wastelands  Ash Wastes Nomads | Wisdom of the Ancients  Ironhead Squat Prospectors |
 | --- | --- | --- | --- | --- |
 | 1 | Got Your Six | Avatar of Blood | Born of the Wastes | Where There's Scrap, There's Creds! |
 | 2 | Helmar's Justice | Bloodlust | Stormwalker | Nobody Pushes Kin Around |
