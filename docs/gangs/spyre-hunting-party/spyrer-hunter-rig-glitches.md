@@ -2,7 +2,7 @@
 
 When a Spyrer is taken Out of Action, instead of rolling on the Lasting Injury table in the _Necromunda Core Rulebook_, roll on the Spyrer Hunting Rig Glitches table below.
 
-If, during the Purchase Advancements step of the post-battle sequence, a Spyrer's Glitch Count os higher than their Toughness characteristics, the hunter rig shuts down. Delete the Spyre Hunter and all the equipment from the gang rooster.
+If, during the Purchase Advancements step of the post-battle sequence, a Spyrer's Glitch Count is higher than their Toughness characteristics, the hunter rig shuts down. Delete the Spyre Hunter and all the equipment from the gang rooster.
 
 Spyre Hunting Rig Glitches Table[​](#spyre-hunting-rig-glitches-table "Direct link to Increasing Spyre Hunting Rig Glitches Table")
 ------------------------------------------------------------------------
