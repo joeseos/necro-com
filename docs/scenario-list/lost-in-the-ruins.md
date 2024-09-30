@@ -1,8 +1,8 @@
 ---
-sidebar_position: 154
+sidebar_position: 155
 ---
 
-# 153. Lost In The Ruins
+# 155. Lost In The Ruins
 
 _Source: The Book of Desolation (2024)_
 
