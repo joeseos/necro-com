@@ -163,7 +163,7 @@ Goonhammer has a decent take on how fun some of these scenarios are, [here](http
 | 151 | Wild Snake Run | Ash Wastes Rolling Roads, Narrative Scenario	| Apocrypha Necromunda: Blood, Ash and Gunshine 20/02/24 |
 | 152 | [Defend The Camp](/docs/scenario-list/defend-the-camp) | Zone Mortalis, Sector Mechanicus | The Book of Desolation |
 | 153 | [Zone Exploration](/docs/scenario-list/zone-exploration) | Ash Wastes	| The Book of Desolation |
-| 154 | Escape The Zone | Ash Wastes Rolling Roads	| The Book of Desolation |
+| 154 | [Escape The Zone](/docs/scenario-list/escape-the-zone) | Ash Wastes Rolling Roads	| The Book of Desolation |
 | 155 | Lost In The Ruins | Ash Wastes	| The Book of Desolation |
 | 156 | Trophy Hunt | Zone Mortalis, Sector Mechanicus	| The Book of Desolation |
 | 157 | Underhells Encounter | Zone Mortalis, Sector Mechanicus	| The Book of Desolation |
