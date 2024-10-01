@@ -166,6 +166,6 @@ Goonhammer has a decent take on how fun some of these scenarios are, [here](http
 | 154 | [Escape The Zone](/docs/scenario-list/escape-the-zone) | Ash Wastes Rolling Roads	| The Book of Desolation |
 | 155 | [Lost In The Ruins](/docs/scenario-list/lost-in-the-ruins) | Ash Wastes	| The Book of Desolation |
 | 156 | [Trophy Hunt](/docs/scenario-list/trophy-hunt) | Zone Mortalis, Sector Mechanicus	| The Book of Desolation |
-| 157 | Underhells Encounter | Zone Mortalis, Sector Mechanicus	| The Book of Desolation |
+| 157 | [Underhells Encounter](/docs/scenario-list/underhells-encounter) | Zone Mortalis, Sector Mechanicus	| The Book of Desolation |
 
 
